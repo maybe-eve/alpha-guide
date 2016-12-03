@@ -8,7 +8,7 @@
 
 #### Common Stumbling Blocks
 
-- In mission 1 of 10, note that the Veldspar must be mined from the mission site, not mined from a regular asteroid belt or bought off the market.
+- 1番目のミッションでは、ベルドスパーは通常のアステロイドベルトで掘ったものやマーケットから購入したものではなく、ミッションサイトで採掘したものでなければなりません。
 - 2番目のミッションでは、ベルドスパーを再処理するためには、船のカーゴホールドの中ではなく、ステーションのアイテムハンガーに移動させなければなりません。
 - In mission 4 of 10, note that you must warp to the destination given by your agent and destroy the Rogue Drones found there to complete the mission, even if you already have sufficient Tritanium.
 - In mission 6 of 10, it's likely quickest to just buy Cap Booster 25s or the minerals you need to make them from the Market.
