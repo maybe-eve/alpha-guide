@@ -1,14 +1,14 @@
 +++ toc = true date = "2016-11-18T17:33:01-08:00" title = "アマー (インパロール)" weight = 1 next = "/market/" prev = "/rookie-fitting/" +++
 
-アマー向けのコルベット艦は「インパロール (Impairor)」です。<object type="image/svg+xml" data="https://o.smium.org/api/convert/119443/svg/119443-alpha-impairor-wdrone.svg?privatetoken=9063189616642752512"><a href="https://o.smium.org/loadout/private/119443/9063189616642752512">View Alpha Impairor w/Drone on Osmium</a></object>### 武器
+アマー向けのコルベット艦は「インパロール (Impairor)」です。<object type="image/svg+xml" data="https://o.smium.org/api/convert/119443/svg/119443-alpha-impairor-wdrone.svg?privatetoken=9063189616642752512"><a href="https://o.smium.org/loadout/private/119443/9063189616642752512">Alpha Impairor w/Drones を Osmium で見る</a></object>### 武器
 
 ルーキーシップはフリゲート艦の一種なので、「小型 (small)」欄にある武器が装備できます。 このFITでは `ガトリングパルスレーザーI (Gatling Pulse Laser I)` タレットを2台ハイスロットに装備しています。 パルスレーザーは射程が短いですが、ビームレーザーよりもFITしやすい (装備に必要なCPUやパワーグリッドが少ない) のが特徴です。 ルーキーシップにおいては接近戦が普通の戦い方ですので、近距離武装を使うのがぴったりです。
 
 パルスレーザーはそれぞれ `多周波S (Multifrequency S)` クリスタルを一つ装填しています。 これらの基本クリスタルは燃え尽きることがないので、2つだけあれば大丈夫です。 多周波クリスタルは最も射程が短く、最もダメージが高い基本クリスタルです。 結局のところ接近戦を仕掛けるのですから、与えるダメージは大きい方がいいでしょうね。
 
-The reusable `Acolyte I` combat drone can be launched to fly independently to distant enemies, dealing EM damage to them. Remember to order your drone to return to your Drone Bay before warping, or if it is taking damage from enemy fire.
+また、 `アコライトI (Acolyte I)` 戦闘用ドローンを使うこともできます。これは遠くの敵に自分で交戦しにいき、EMダメージを与え、さらに弾薬とは異なり繰り返し使うことができます。 ワープで帰る前に、もしくはドローンが敵の攻撃でダメージを受けているとき、ドローンベイに帰還するよう命令するのを忘れないようにしてください。
 
-{{% notice info %}} To use the combat drone, you will need to train the skills `Drones` III and `Light Drone Operation` I. We recommend you use some of the skill points from the Mini Skill Injector given in the tutorial to train these skills, as they will be useful in many ships. You will need to purchase a skillbook from the Market to learn Light Drone Operation. {{% /notice %}}
+{{% notice info %}} 戦闘用ドローンを使うには、 `ドローン` III と `ライトドローンオペレーション` I のスキルを習得する必要があります。 これらのスキルは今後乗ることになる多くの船で役に立つので、チュートリアルで貰ったミニスキルインジェクターから得たスキルポイントのうち、いくらかをこれらに割くことをオススメします。 ライトドローンオペレーションを習得するためには、マーケットでスキル本を買う必要があるでしょう。 {{% /notice %}}
 
 ### 防御
 
