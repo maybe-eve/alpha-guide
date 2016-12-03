@@ -1,6 +1,6 @@
 +++ toc = true date = "2016-11-18T17:33:01-08:00" title = "ガレンテ (ベラター)" weight = 1 next = "/market/" prev = "/rookie-fitting/" +++
 
-ガレンテ向けのコルベット艦はベラター (Velator) です。<object type="image/svg+xml" data="https://o.smium.org/api/convert/119448/svg/119448-alpha-velator-wdrones.svg?privatetoken=4210567194314014720"><a href="https://o.smium.org/loadout/private/119448/4210567194314014720">View Alpha Velator w/Drones on Osmium</a></object>### 武器
+ガレンテ向けのコルベット艦はベラター (Velator) です。<object type="image/svg+xml" data="https://o.smium.org/api/convert/119448/svg/119448-alpha-velator-wdrones.svg?privatetoken=4210567194314014720"><a href="https://o.smium.org/loadout/private/119448/4210567194314014720">Alpha Velator w/Drones を Osmium で見る</a></object>### 武器
 
 ルーキーシップ (コルベット艦) は、「小型 (small)」欄にある武器が装備できます。 このFITでは `75mmガトリングレールI (75mm Gatling Rail I)` タレットを2台ハイスロットに装備しています。 レールガンは長距離用のハイブリッド兵器で、短距離用のブラスターとは相対的です。 レールガンはちょっと打撃力には劣りますが、攻撃可能範囲に近づくのに時間がかかり敵の攻撃を受けまくるなんてことにはならず、すぐに敵と交戦することができます。
 
@@ -8,9 +8,9 @@
 
 そして、長距離武装のレールガンと組み合わせて使うことで、中距離で効果的に戦うことができます。 その場合、ふつうは約2500mで敵をオービットしたくなるはずです。 動き続ける敵から遠すぎても近すぎても、射撃は外れやすくなってしまいますからね。
 
-The reusable `Hobgoblin I` combat drones can be launched to fly independently to distant enemies, dealing Thermal damage to them. Remember to order your drones to return to your Drone Bay before warping, or if they are taking damage from enemy fire.
+また、 `ホブゴブリンI (Hobgoblin I)` 戦闘用ドローンを使うこともできます。これは遠くの敵に自分で交戦しにいき、サーマルダメージを与え、さらに弾薬とは異なり繰り返し使うことができます。 ワープで帰る前に、もしくはドローンが敵の攻撃でダメージを受けているとき、ドローンベイに帰還するよう命令するのを忘れないようにしてください。
 
-{{% notice info %}} To use the combat drone, you will need to train the skills `Drones` III and `Light Drone Operation` I. We recommend you use some of the skill points from the Mini Skill Injector given in the tutorial to train these skills, as they will be useful in many ships. You will need to purchase a skillbook from the Market to learn Light Drone Operation. {{% /notice %}}
+{{% notice info %}} 戦闘用ドローンを使うには、 `ドローン` III と `ライトドローンオペレーション` I のスキルを習得する必要があります。 これらのスキルは今後乗ることになる多くの船で役に立つので、チュートリアルで貰ったミニスキルインジェクターから得たスキルポイントのうち、いくらかをこれらに割くことをオススメします。 ライトドローンオペレーションを習得するためには、マーケットでスキル本を買う必要があるでしょう。 {{% /notice %}}
 
 ### 防御
 
