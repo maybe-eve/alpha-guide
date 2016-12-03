@@ -10,7 +10,7 @@
 
 - 1番目のミッションでは、ベルドスパーは通常のアステロイドベルトで掘ったものやマーケットから購入したものではなく、ミッションサイトで採掘したものでなければなりません。
 - 2番目のミッションでは、ベルドスパーを再処理するためには、船のカーゴホールドの中ではなく、ステーションのアイテムハンガーに移動させなければなりません。
-- In mission 4 of 10, note that you must warp to the destination given by your agent and destroy the Rogue Drones found there to complete the mission, even if you already have sufficient Tritanium.
-- In mission 6 of 10, it's likely quickest to just buy Cap Booster 25s or the minerals you need to make them from the Market.
+- 四番目のミッションでは、もし既に十分な量のトリタニウムを持っていても、エージェントに指示された目的地にワープして、そこにいるローグドローンを全滅させなければ、ミッションをクリアすることができません。
+- 六番目のミッションでは、単にキャップブースター25をマーケットで買ってしまうか、製造に必要なミネラルを買ってしまうのが一番速いと思われます。
 - In mission 9 of 10, make sure that you have both a mining laser and a weapon fit to your ship. Having only one or the other will be insufficient to complete the mission. Also, to complete the mission you will need to loot the Production Assistant out of the cargo container (NOT the wreck) that spawns after destroying the second pirate. If they are not showing up, try deactivating and re-engaging your mining laser(s).
 - In mission 10 of 10, some of the minerals needed are not easily acquired in highsec. You should just buy them from the market. Alternately, you can buy the needed ship from the Market directly or turn in a ship you already own.
