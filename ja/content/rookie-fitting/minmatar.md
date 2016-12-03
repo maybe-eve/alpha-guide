@@ -1,6 +1,6 @@
 +++ toc = true date = "2016-11-18T17:33:01-08:00" title = "ミンマター (リーパー)" weight = 1 next = "/market/" prev = "/rookie-fitting/" +++
 
-ミンマター向けのコルベット艦はリーパー (Reaper) です。<object type="image/svg+xml" data="https://o.smium.org/api/convert/119447/svg/119447-alpha-reaper-wdrone.svg?privatetoken=5479867580904636416"><a href="https://o.smium.org/loadout/private/119447/5479867580904636416">View Alpha Reaper w/Drone on Osmium</a></object>### 武器
+ミンマター向けのコルベット艦はリーパー (Reaper) です。<object type="image/svg+xml" data="https://o.smium.org/api/convert/119447/svg/119447-alpha-reaper-wdrone.svg?privatetoken=5479867580904636416"><a href="https://o.smium.org/loadout/private/119447/5479867580904636416">Alpha Reaper w/Drones を Osmium で見る</a></object>### 武器
 
 ルーキーシップ (コルベット艦) は、「小型 (small)」欄にある武器が装備できます。 このFITでは `125mmガトリングオートキャノンI (125mm Gatling AutoCannon I)` タレットを2台ハイスロットに装備しています。 オートキャノンはアーティラリより射程には劣りますが、より射撃が素早いのが特徴です。 ルーキーシップにおいては接近戦が普通の戦い方ですので、近距離武装を使うのがぴったりです。
 
@@ -8,9 +8,9 @@
 
 フュージョン弾はプロジェクタイル弾のなかでは最も射程が短い種類の一つですが、他のものよりも大きなエクスプローシブ属性ダメージを誇ります。 結局のところ接近戦を仕掛けるのですから、ダメージは大きい方がいいでしょう。
 
-The reusable `Warrior I` combat drone can be launched to fly independently to distant enemies, dealing Explosive damage to them. Remember to order your drone to return to your Drone Bay before warping, or if it is taking damage from enemy fire.
+また、 `ウォリアーI (Warrior I)` 戦闘用ドローンを使うこともできます。これは遠くの敵に自分で交戦しにいき、エクスプローシブダメージを与え、さらに弾薬とは異なり繰り返し使うことができます。 ワープで帰る前に、もしくはドローンが敵の攻撃でダメージを受けているとき、ドローンベイに帰還するよう命令するのを忘れないようにしてください。
 
-{{% notice info %}} To use the combat drone, you will need to train the skills `Drones` III and `Light Drone Operation` I. We recommend you use some of the skill points from the Mini Skill Injector given in the tutorial to train these skills, as they will be useful in many ships. You will need to purchase a skillbook from the Market to learn Light Drone Operation. {{% /notice %}}
+{{% notice info %}} 戦闘用ドローンを使うには、 `ドローン` III と `ライトドローンオペレーション` I のスキルを習得する必要があります。 これらのスキルは今後乗ることになる多くの船で役に立つので、チュートリアルで貰ったミニスキルインジェクターから得たスキルポイントのうち、いくらかをこれらに割くことをオススメします。 ライトドローンオペレーションを習得するためには、マーケットでスキル本を買う必要があるでしょう。 {{% /notice %}}
 
 また、ロースロットに `回転制御機I (Gyrostabilizer I)` を一個装備して、プロジェクタイルタレットのダメージと連射速度を強化しています。
 
