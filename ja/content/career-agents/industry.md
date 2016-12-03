@@ -10,7 +10,7 @@
 
 - 1番目のミッションでは、ベルドスパーは通常のアステロイドベルトで掘ったものやマーケットから購入したものではなく、ミッションサイトで採掘したものでなければなりません。
 - 2番目のミッションでは、ベルドスパーを再処理するためには、船のカーゴホールドの中ではなく、ステーションのアイテムハンガーに移動させなければなりません。
-- 四番目のミッションでは、もし既に十分な量のトリタニウムを持っていても、エージェントに指示された目的地にワープして、そこにいるローグドローンを全滅させなければ、ミッションをクリアすることができません。
-- 六番目のミッションでは、単にキャップブースター25をマーケットで買ってしまうか、製造に必要なミネラルを買ってしまうのが一番速いと思われます。
-- In mission 9 of 10, make sure that you have both a mining laser and a weapon fit to your ship. Having only one or the other will be insufficient to complete the mission. Also, to complete the mission you will need to loot the Production Assistant out of the cargo container (NOT the wreck) that spawns after destroying the second pirate. If they are not showing up, try deactivating and re-engaging your mining laser(s).
+- 4番目のミッションでは、もし既に十分な量のトリタニウムを持っていても、エージェントに指示された目的地にワープして、そこにいるローグドローンを全滅させなければ、ミッションをクリアすることができません。
+- 6番目のミッションでは、単にキャップブースター25をマーケットで買ってしまうか、製造に必要なミネラルを買ってしまうのが一番速いと思われます。
+- 9番目のミッションでは、採掘レーザーと武器の両方を装備してから行くようにしてください。 どちらかしか装備していなかった場合、ミッションを達成することができません。 また、ミッションを達成するには、2機目の海賊を撃破した後に出現するカーゴコンテナ (残骸からではなく！) から、製造担当者を回収する必要があります。 もし出現しないならば、採掘レーザーを停止して、再び起動してみてください。
 - In mission 10 of 10, some of the minerals needed are not easily acquired in highsec. You should just buy them from the market. Alternately, you can buy the needed ship from the Market directly or turn in a ship you already own.
