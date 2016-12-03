@@ -6,7 +6,7 @@ The Tormentor uses 3 `Small Focused Pulse Laser I` turrets. Pulse lasers are the
 
 The Tormentor also includes two `Hobgoblin I` and two `Acolyte I` combat drones. Remember to recall your drones before warping, or if they begin taking damage from enemy fire.
 
-{{% notice info %}} To use the combat drones, you will need to train the skills `Drones` III and `Light Drone Operation` I. We recommend you use some of the skill points from the Mini Skill Injector given in the tutorial to train these skills, as they will be useful in many ships. You will need to purchase a skillbook from the Market to learn Light Drone Operation. {{% /notice %}}
+{{% notice info %}} To use the combat drones, you will need to train the skills `Drones` III and `Light Drone Operation` I. We recommend you use some of the skill points from the Mini Skill Injector given in the tutorial to train these skills, as they will be useful in many ships. ライトドローンオペレーションを習得するためには、マーケットでスキル本を買う必要があるでしょう。 {{% /notice %}}
 
 Additionally, this fit uses a `Heat Sink I` in a low slot. This passively increases the damage output and rate of fire of its lasers.
 
