@@ -14,7 +14,7 @@ It also fits a `Damage Control I` in a low slot to increase its resistance to da
 
 The Venture also includes two `Hobgoblin I` drones to defend itself against weak NPC pirates. Remember to recall your drones before warping, or if they begin taking damage from enemy fire.
 
-{{% notice info %}} To use the combat drones, you will need to train the skills `Drones` III and `Light Drone Operation` I. We recommend you use some of the skill points from the Mini Skill Injector given in the tutorial to train these skills, as they will be useful in many ships. You will need to purchase a skillbook from the Market to learn Light Drone Operation. {{% /notice %}}
+{{% notice info %}} To use the combat drones, you will need to train the skills `Drones` III and `Light Drone Operation` I. We recommend you use some of the skill points from the Mini Skill Injector given in the tutorial to train these skills, as they will be useful in many ships. ライトドローンオペレーションを習得するためには、マーケットでスキル本を買う必要があるでしょう。 {{% /notice %}}
 
 ### ユーティリティ
 
