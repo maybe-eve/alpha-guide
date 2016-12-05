@@ -28,9 +28,10 @@ You'll need a `Core Probe Launcher I` loaded with 8x `Core Scanner Probe I`. You
 
 First, you'll need to find a Cosmic Signature. Open your probe scanner. You can press <kbd>Alt</kbd>+<kbd>P</kbd>, or get to it through the Scanners button on your HUD:
 
-<
-
-video src="/images/openscanner.webm" autoplay loop muted>
+<video autoplay loop muted>
+  <source src="/images/openscanner.webm">
+  <source src="/images/openscanner.mp4">
+</video>
 
 That'll open your Probe Scanner window. If you're in a starter system (for example, if you're looking at this for help with Exploration (3 of 5)), you probably have a *lot* of things showing; in other systems, it'll be rather more sparse.
 
@@ -38,9 +39,10 @@ We're trying to scan things down with our probes. That means we're not intereste
 
 To filter out this Cosmic Anomaly clutter, use the filter options by "Scan Results":
 
-<
-
-video src="/images/filteranoms.webm" autoplay loop muted>
+<video autoplay loop muted>
+  <source src="/images/filteranoms.webm">
+  <source src="/images/filteranoms.mp4">
+</video>
 
 Now, open your Starmap to see a map of the system:
 
@@ -48,21 +50,24 @@ Now, open your Starmap to see a map of the system:
 
 If there's many Cosmic Signatures in system, the solar system map is probably going to look like a bit of a confusing mess. You can click on a Cosmic Signature from the list, to show only that one and hide the others. (It doesn't matter which Cosmic Signature you start with - there's no way to tell them apart at this point in the process.)
 
-<
+<video autoplay loop muted>
+  <source src="/images/selectsig.webm">
+  <source src="/images/selectsig.mp4">
+</video>
 
-video src="/images/selectsig.webm" autoplay loop muted>
-
-<
-
-video src="/images/selectsigstarmap.webm" autoplay loop muted>
+<video autoplay loop muted>
+  <source src="/images/selectsigstarmap.webm">
+  <source src="/images/selectsigstarmap.mp4">
+</video>
 
 Now, click one of the buttons at the top of the Probe Scanner to deploy your Probes. I prefer to use the Pinpoint Formation at all times; you can create your own formations, or switch between them as you go, but for now just stick with Pinpoint. Clicking the button will deploy a probe formation centered on the system's star:
 
 {{% figure src="/images/launchprobes.png" %}}
 
-<
-
-video src="/images/launchprobesstarmap.webm" autoplay loop muted>
+<video autoplay loop muted>
+  <source src="/images/launchprobesstarmap.webm">
+  <source src="/images/launchprobesstarmap.mp4">
+</video>
 
 The actual probes will be floating in space next to your ship - their location on the Starmap indicates their planned location for the next scan.
 
@@ -96,9 +101,10 @@ As a first step, drag the center of your probe formation (the gray box in the ce
 
 You can either click-and-drag a face of the cube to move in a plane, or click-and-drag an arrow to move in a straight line.
 
-<
-
-video src="/images/centerprobes.webm" autoplay loop muted>
+<video autoplay loop muted>
+  <source src="/images/centerprobes.webm">
+  <source src="/images/centerprobes.mp4">
+</video>
 
 As mentioned earlier, the signature is probably not at the red X - so we want to expand our probes' scan area, to cover as much of the sphere's area as possible (ideally, the entire thing). You can do this in one of three ways:
 
@@ -108,9 +114,10 @@ As mentioned earlier, the signature is probably not at the red X - so we want to
 
 Either way, it can be worth swivelling the camera on the Starmap to ensure you're fully covering the target. Note that you probably want the **overlapping area at the center** of your formation to be covering the whole sphere, not just one probe's area - the reason will become clear later.
 
-<
-
-video src="/images/expandprobes.webm" autoplay loop muted>
+<video autoplay loop muted>
+  <source src="/images/expandprobes.webm">
+  <source src="/images/expandprobes.mp4">
+</video>
 
 Once your probes are in position and set to the proper radius, click "Analyze", at the upper left of your starmap. Your probes will warp to their designated positions, and begin the scan, taking approximately 10 seconds.
 
@@ -164,9 +171,10 @@ Lower the radius of your probes by one step (to half of what it was), position t
 
 Remember to check the position from multiple angles!
 
-<
-
-video src="/images/zoominenhance.webm" autoplay loop muted>
+<video autoplay loop muted>
+  <source src="/images/zoominenhance.webm">
+  <source src="/images/zoominenhance.mp4">
+</video>
 
 ### Lather, Rinse, Repeat
 
@@ -196,23 +204,26 @@ If you're at about 90% or above, though, there are a few tweaks you can make to 
 
 - Hold Ctrl to show all the probes' positions and distances from the center. Click-and-hold on one and drag inwards towards the center of the formation. This will rescale the entire formation more tightly around the center. Try going in about halfway from their starting positions. Adds about 5-10% strength.
 
-<
-
-video src="/images/tighterprobes.webm" autoplay loop muted>
+<video autoplay loop muted>
+  <source src="/images/tighterprobes.webm">
+  <source src="/images/tighterprobes.mp4">
+</video>
 
 - Hold Shift and it'll show the location of each individual probe in the formation, rather than just the formation's center. Rearrange them into a cube with its corners surrounding the signature (and no probe directly on top of it at the center). Adds about 5-10% strength.
 
-<
-
-video src="/images/timecube.webm" autoplay loop muted>
+<video autoplay loop muted>
+  <source src="/images/timecube.webm">
+  <source src="/images/timecube.mp4">
+</video>
 
 - Or, you can do both. Adds about 10-15% strength.
 
 For constructing the cube formation, it's probably easiest to arrange them such that the arrows pointing from each face are touching point-to-point, rather than trying to eyeball it at longer distance. Once you've made it, consider saving the formation for future use: mouse over the third button near "Analyze" in your Probe Scanner, click the "Save Current Formation" button that appears above, select a name, and save.
 
-<
-
-video src="/images/saveformation.webm" autoplay loop muted>
+<video autoplay loop muted>
+  <source src="/images/saveformation.webm">
+  <source src="/images/saveformation.mp4">
+</video>
 
 ### Tips And Tricks
 
