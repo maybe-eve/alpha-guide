@@ -21,9 +21,9 @@
 
 ### 軍事（応用編）エージェント
 
-The Advanced Military Agent focuses on teaching you some of the concepts typically involved in PvP combat (though the agent's missions do not actually involve PvP).
+軍事（応用編）エージェントは、 PvP (対プレイヤー) 戦闘に関わる概念を解説することに重きを置いています (ただし、実際にミッションで PvP 戦闘を行うわけではありません) 。
 
-{{% notice warning %}} This mission chain involves your ship exploding. Leave your valuable items behind in station, and read all mission text carefully. {{% /notice %}}
+{{% notice warning %}} この10連ミッションの中には、あなたの船が撃墜されるものがあります。大切なアイテムはステーションに置いていき、またミッション説明文を注意深く読むようにしてください。 {{% /notice %}}
 
 We recommend following the \[UniWiki Advanced Military chain guide\] (http://wiki.eveuniversity.org/Advanced_Military_Career_Funnel_Chain) to complete this mission chain.
 
