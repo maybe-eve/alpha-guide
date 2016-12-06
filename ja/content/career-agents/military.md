@@ -1,10 +1,10 @@
-+++ toc = true date = "2016-11-18T18:59:33-08:00" title = "Military Agents" weight = 1 next = "/upgrading-ships/" prev = "/career-agents/industry/" +++
++++ toc = true date = "2016-11-18T18:59:33-08:00" title = "軍事エージェント" weight = 1 next = "/upgrading-ships/" prev = "/career-agents/industry/" +++
 
-There are actually two military career agents - the regular Military Agent and the Advanced Military Agent. We recommend doing both chains - first the regular agent, then the advanced agent.
+実際は軍事キャリアエージェントは2人いて、一人は通常の軍事エージェント、もう一人が軍事（応用編）エージェントです。 私達としては2つの連続ミッションを両方とも、最初に普通のを、そして次に応用編をやることをオススメします。
 
-### Military Agent
+### 軍事エージェント
 
-The regular Military Agent focuses on teaching you the basics of PvE combat missions in the chain **Cash Flow for Capsuleers**. Missions like these are one of the main ways for making ISK in EVE via PvE combat.
+普通の方の軍事エージェントは、10連ミッション **カプセラの支払い履歴** を通じて、PvE (対NPC) 戦闘ミッションの基礎を教えることに焦点を当てています。 このようなミッションは PvE 戦闘を通して ISK を稼ぐための主要な方法の一つです。
 
 If you get stuck along the way, there's a video guide to the missions that begins here: https://www.youtube.com/watch?v=Ic8U2sX7yd4
 
