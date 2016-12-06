@@ -15,11 +15,11 @@
 #### よくあるつまづき
 
 - 3番目のミッションでは、ランナードローンを撃墜した後に、カーゴコンテナに秘密文書が出現します。 ステーションに帰る前に回収するのを忘れないようにしましょう。 もし忘れてきてしまったならば、2時間以内であれば、ミッション地点に戻ってくるとそこにそのまま浮かんでいるでしょう。
-- In mission 4 of 10, pay attention to your Local chat channel to see when you've completed the mission.
-- In mission 5 of 10, you need to destroy the pirate.
-- In mission 9 of 10, the Narcotics Warehouse may not appear on your overview. It is one of the man-made structures around the large asteroid. Search for it visually, and destroy it.
+- 4番目のミッションでは、ローカルチャットチャンネルに注意を払って、ミッションを完了したタイミングを見逃さないようにしましょう。
+- 5番目のミッションでは、海賊を皆殺しにする必要があります。
+- 9番目のミッションでは、麻薬倉庫はオーバービューには映っていないでしょう。大きなアステロイドを囲んでいる人工建築物のうちの一つがそれです。目で見て探して、破壊しましょう。
 
-### Advanced Military Agent
+### 軍事（応用編）エージェント
 
 The Advanced Military Agent focuses on teaching you some of the concepts typically involved in PvP combat (though the agent's missions do not actually involve PvP).
 
@@ -27,9 +27,9 @@ The Advanced Military Agent focuses on teaching you some of the concepts typical
 
 We recommend following the \[UniWiki Advanced Military chain guide\] (http://wiki.eveuniversity.org/Advanced_Military_Career_Funnel_Chain) to complete this mission chain.
 
-As you complete this chain, you'll earn some new ships (including a Destroyer), some skill books, some modules, and a decent chunk of ISK.
+この10連ミッションをすべて終えたら、(駆逐艦を含む) 新しい艦船、スキル本やモジュール、およびそこそこの額のISKを獲得できます。
 
-#### Common Stumbling Blocks
+#### よくあるつまづき
 
 - In mission 2 of 10, **your ship will be destroyed**. You must use a Frigate. It does not have to be the one provided to you by the Mission Agent - use whichever you like least. The ship does not require any modules fit to complete the mission.
 - In mission 3 of 10, note that you need to Warp Disrupt the pirate, not destroy them.
