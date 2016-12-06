@@ -17,4 +17,4 @@
 #### よくあるつまづき
 
 - 3番目のミッションでは、「データサイト」を探す必要があります。 これは宇宙のシグネチャとして表示されていて、スキャナープローブで見つけなければワープすることができません。 Scanning (2 of 3) のビデオで、プローブを使ってサイトを探す方法を確認してみてください。
-- On mission 5 of 5, you'll need a Passkey with you to be able to enter the final site. It's provided to you when you begin the mission; remember to put it in your cargohold before you undock.
+- 5番目のミッションでは、最後のサイトに入場するためにパスキーが必要です。そのパスキーはミッションを受領した際に渡されるので、出港する前に船のカーゴホールドに積むのを忘れないようにしましょう。
