@@ -6,15 +6,15 @@
 
 普通の方の軍事エージェントは、10連ミッション **カプセラの支払い履歴** を通じて、PvE (対NPC) 戦闘ミッションの基礎を教えることに焦点を当てています。 このようなミッションは PvE 戦闘を通して ISK を稼ぐための主要な方法の一つです。
 
-If you get stuck along the way, there's a video guide to the missions that begins here: https://www.youtube.com/watch?v=Ic8U2sX7yd4
+もしつまづいてしまった場合、ビデオによるミッションのガイドを観ることもできます。 https://www.youtube.com/watch?v=Ic8U2sX7yd4 (訳者注: 英語)
 
-Since the video guide was made in 2014, the older interfaces may look a bit different from what you see now, but the general steps to complete the mission will be the same.
+この動画は2014年に作られたものなので、インターフェースが古くてあなたが今見ているものとちょっと違っているかもしれませんが、ミッションをクリアする大筋の手順は同じままでしょう。
 
-As you complete this chain, you'll earn a couple of new ships, some skill books, some modules, and a good chunk of isk.
+10連ミッションをすべて終えたら、新しい艦船、スキル本、モジュール、そしてそこそこいい額のISKを獲得できます。
 
-#### Common Stumbling Blocks
+#### よくあるつまづき
 
-- In mission 3 of 10, the Secret Documents will appear in a Cargo Container after you destroy the Runner Drone. Make sure to loot them before you dock. If you forgot them, you can return to the Mission location for up to two hours afterwards, and they will still be there.
+- 3番目のミッションでは、ランナードローンを撃墜した後に、カーゴコンテナに秘密文書が出現します。 ステーションに帰る前に回収するのを忘れないようにしましょう。 もし忘れてきてしまったならば、2時間以内であれば、ミッション地点に戻ってくるとそこにそのまま浮かんでいるでしょう。
 - In mission 4 of 10, pay attention to your Local chat channel to see when you've completed the mission.
 - In mission 5 of 10, you need to destroy the pirate.
 - In mission 9 of 10, the Narcotics Warehouse may not appear on your overview. It is one of the man-made structures around the large asteroid. Search for it visually, and destroy it.
