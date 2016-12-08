@@ -296,7 +296,7 @@ Cruiser and battleship are sufficiently long-ranged that they can usually fight 
 
 ##### Active-Tank
 
-Active-tanking in PvP can be a risky business, but if you choose your fights appropriately, it can leave your opponent helpful to inflict meaningful damage on you as you pick their ship apart.
+Active-tanking in PvP can be a risky business, but if you choose your fights appropriately, it can leave your opponent helpless to inflict meaningful damage on you as you pick their ship apart.
 
 As in PvE, the core of the active tank is an Armor Repairer or Shield Booster, attempting to repair damage faster than it's taken.
 
