@@ -31,9 +31,9 @@
 
 #### よくあるつまづき
 
-- 2番目のミッションでは、 **あなたの船は破壊されるでしょう。** You must use a Frigate. It does not have to be the one provided to you by the Mission Agent - use whichever you like least. The ship does not require any modules fit to complete the mission.
+- 2番目のミッションでは、 **あなたの船は破壊されるでしょう。** そしてフリゲートを使わなければなりません。 ただし、それはミッションエージェントに貰ったものである必要はありません - 気に入らない船を使ってしまいましょう。 ミッションを達成するためには、船にモジュールをFITする必要はありません。
 - In mission 3 of 10, note that you need to Warp Disrupt the pirate, not destroy them.
-- In mission 5 of 10, **your ship will be destroyed**. You can use any ship; it must be capable of defeating at least one moderately-tough pirate. The mission is completable in a properly-fit Corvette, if desired.
+- 5番目のミッションでは、 **あなたの船は破壊されるでしょう。** You can use any ship; it must be capable of defeating at least one moderately-tough pirate. The mission is completable in a properly-fit Corvette, if desired.
 - In mission 7 of 10, you can use any weapon to kill the pirate. (This is particularly useful for Caldari, who may not have yet trained the skill required for using Light Missiles.)
 - In mission 8 of 10, wait for the Fleet Commander's orders.
 - In mission 9 of 10, note that you must use a Civilian Stasis Webifier like the one provided. You may have acquired some Stasis Webifier Is from other missions or the Market, but they will not properly complete the mission.
