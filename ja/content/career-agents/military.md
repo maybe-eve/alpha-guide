@@ -37,4 +37,4 @@
 - 7番目のミッションでは、海賊を殺すのに使う武器は何でも構いません。 (これは、ライトミサイルを使うのに必要なスキルをまだ習得していないかもしれない、カルダリ人のプレイヤーにとっては有用な情報でしょう。)
 - 8番目のミッションでは、司令官の命令を待ちましょう。
 - 9番目のミッションでは、支給された民間人仕様ステイシスウェビファイヤーを使わなければいけないことに注意してください。 他のミッションで貰ったり、マーケットで買ったりしてステイシスウェビファイヤーを入手しているかもしれませんが、それを使ってもこのミッションを達成することはできません。
-- In mission 10 of 10, **your ship will be unable to warp out** unless and until you are victorious. Make sure your ship is properly fit for battle before you begin. If you're unable to destroy the pirate, but the pirate is unable to destroy you, you can right-click your capacitor and "Self Destruct" to end the stalemate.
+- 10番目のミッションでは、敵を倒し勝利を得るまでの間 **ワープアウトすることができません。** ミッションを開始する前に、あなたの船が適切にFITされていることを確認してください。 もし今の火力では海賊を倒せず、しかし海賊もあなたを撃墜するには火力が足りないような場合は、キャパシタゲージを右クリックして「自爆」を押すことで、膠着状態を終わらせることができます。
