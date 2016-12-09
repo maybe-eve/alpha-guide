@@ -36,5 +36,5 @@
 - 5番目のミッションでは、 **あなたの船は破壊されるでしょう。** どんな船でも大丈夫ですが、普通の耐久力を持つ海賊を少なくとも1機撃墜できる装備でなければなりません。 もし望むなら、適切にFITされたルーキーシップでも達成することができます。
 - 7番目のミッションでは、海賊を殺すのに使う武器は何でも構いません。 (これは、ライトミサイルを使うのに必要なスキルをまだ習得していないかもしれない、カルダリ人のプレイヤーにとっては有用な情報でしょう。)
 - 8番目のミッションでは、司令官の命令を待ちましょう。
-- 9番目のミッションでは、支給された民間人仕様ステイシスウェビファイヤーを使わなければいけないことに注意してください。 You may have acquired some Stasis Webifier Is from other missions or the Market, but they will not properly complete the mission.
+- 9番目のミッションでは、支給された民間人仕様ステイシスウェビファイヤーを使わなければいけないことに注意してください。 他のミッションで貰ったり、マーケットで買ったりしてステイシスウェビファイヤーを入手しているかもしれませんが、それを使ってもこのミッションを達成することはできません。
 - In mission 10 of 10, **your ship will be unable to warp out** unless and until you are victorious. Make sure your ship is properly fit for battle before you begin. If you're unable to destroy the pirate, but the pirate is unable to destroy you, you can right-click your capacitor and "Self Destruct" to end the stalemate.
