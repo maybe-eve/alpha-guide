@@ -31,7 +31,7 @@
 
 #### よくあるつまづき
 
-- In mission 2 of 10, **your ship will be destroyed**. You must use a Frigate. It does not have to be the one provided to you by the Mission Agent - use whichever you like least. The ship does not require any modules fit to complete the mission.
+- 2番目のミッションでは、 **あなたの船は破壊されるでしょう。** You must use a Frigate. It does not have to be the one provided to you by the Mission Agent - use whichever you like least. The ship does not require any modules fit to complete the mission.
 - In mission 3 of 10, note that you need to Warp Disrupt the pirate, not destroy them.
 - In mission 5 of 10, **your ship will be destroyed**. You can use any ship; it must be capable of defeating at least one moderately-tough pirate. The mission is completable in a properly-fit Corvette, if desired.
 - In mission 7 of 10, you can use any weapon to kill the pirate. (This is particularly useful for Caldari, who may not have yet trained the skill required for using Light Missiles.)
