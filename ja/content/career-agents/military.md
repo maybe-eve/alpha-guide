@@ -25,7 +25,7 @@
 
 {{% notice warning %}} この10連ミッションの中には、あなたの船が撃墜されるものがあります。大切なアイテムはステーションに置いていき、またミッション説明文を注意深く読むようにしてください。 {{% /notice %}}
 
-We recommend following the \[UniWiki Advanced Military chain guide\] (http://wiki.eveuniversity.org/Advanced_Military_Career_Funnel_Chain) to complete this mission chain.
+この連続ミッションを達成するためには、 \[B-OSP Wiki の10連ミッションガイド\](http://seesaawiki.jp/eveonline_b-osp_wiki/d/%b8%f2%b4%b9%a1%ca1%a1%bf10%a1%cb) に従って進めていくことをオススメします。
 
 この10連ミッションをすべて終えたら、(駆逐艦を含む) 新しい艦船、スキル本やモジュール、およびそこそこの額のISKを獲得できます。
 
