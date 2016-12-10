@@ -1,4 +1,4 @@
-+++ toc = true date = "2016-11-18T18:59:33-08:00" title = "Business Agent" weight = 1 next = "/career-agents/exploration/" prev = "/career-agents/" +++
++++ toc = true date = "2016-11-18T18:59:33-08:00" title = "ビジネスエージェント" weight = 1 next = "/career-agents/exploration/" prev = "/career-agents/" +++
 
 This mission chain is **Balancing the Books**. Its 10 missions will have you doing salvaging, hacking, mining, and a bit of running around delivering things to agents in different systems. These are ways that you can make money in EVE without having to use your weapons.
 
