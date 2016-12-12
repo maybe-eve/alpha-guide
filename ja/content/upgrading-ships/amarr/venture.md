@@ -8,23 +8,23 @@
 
 ### 防御
 
-This fit uses a `Medium Shield Extender I` in one of the mid slots to give it additional shield HP, providing it more time to react and escape in case of attack.
+この FIT では、 `中型シールドエクステンダーI (Medium Shield Extender I)` をミディアムスロットの1つに装備してシールドHPを追加し、攻撃を受けた際に反応して逃げるための時間をより多く確保しています。
 
-It also fits a `Damage Control I` in a low slot to increase its resistance to damage.
+また、ロースロットに `ダメージ制御I (Damage Control I)` を装備し、ダメージに対する耐性を高めています。
 
-The Venture also includes two `Hobgoblin I` drones to defend itself against weak NPC pirates. Remember to recall your drones before warping, or if they begin taking damage from enemy fire.
+このベンチャーは弱いNPC海賊への防御のために `ホブゴブリンI (Hobgoblin I)` ドローンも装備しています。 ワープする前に、もしくは敵からダメージを受けている場合、自艦にドローンを呼び戻すのを忘れないようにしましょう。
 
 {{% notice info %}} 戦闘用ドローンを使うには、 `ドローン` III と `ライトドローンオペレーション` I のスキルを習得する必要があります。 これらのスキルは今後乗ることになる多くの船で役に立つので、チュートリアルで貰ったミニスキルインジェクターから得たスキルポイントのうち、いくらかをこれらに割くことをオススメします。 ライトドローンオペレーションを習得するためには、マーケットでスキル本を買う必要があるでしょう。 {{% /notice %}}
 
 ### ユーティリティ
 
-The `1MN Afterburner I` provides your ship with additional speed. This makes it quicker to fly between asteroids, and helps in evading hostile targets.
+`1MNアフターバーナーI (1MN Afterburner I)` を使うと船を加速させることができます。これにより、アステロイドからアステロイドへと移動するのが早くなり、敵対的な船から逃げるのにも役に立ちます。
 
-The `Salvager I` allows you to salvage any Wrecks you come across for valuable materials. It is not part of the primary purpose of this ship, but can provide some side income when the opportunity arises.
+`サルベージャーI (Salvager I)` を使うと、遭遇した残骸から価値のある素材をサルベージすることができます。 これはこの船の本来の目的とは外れますが、機会さえあればいくらかの副収入を得られるかもしれません。
 
-### Rigs
+### リグ
 
-Rigs are passive modifications to a ship, trading off one attribute against another. Unlike modules, rigs cannot be removed without being destroyed. As a starter fit, this fit makes limited use of rigging, since many "optimal" rigs are often relatively expensive and may be difficult to find near your starter station.
+リグを装備すると、他の性能を犠牲にして、船の性能に改造を加えることができます。 モジュールと異なり、リグは取り外すことができず、代わりに破壊されます。 As a starter fit, this fit makes limited use of rigging, since many "optimal" rigs are often relatively expensive and may be difficult to find near your starter station.
 
 This fit uses two `Small Anti-EM Screen Reinforcer I` and one `Small Anti-Thermal Screen Reinforcer I` to improve the damage resistance of its shields.
 
