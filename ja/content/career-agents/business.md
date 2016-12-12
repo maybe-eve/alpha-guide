@@ -4,9 +4,9 @@
 
 もしつまづいてしまった場合、プレイヤー運営の B-OSP Wiki にあるミッションのガイドを読むこともできます: http://seesaawiki.jp/eveonline_b-osp_wiki/d/%C4%A2%BF%AC%B9%E7%A4%EF%A4%BB%A1%CA1%A1%BF10%A1%CB
 
-Since the video guide was made in 2015, the older interfaces may look a bit different from what you see now, but the general steps to complete the mission will be the same.
+このページは2015年に作られたものなので、インターフェースが古くてあなたが今見ているものとちょっと違っているかもしれませんが、ミッションをクリアする大筋の手順は同じままでしょう。
 
-As you complete the chain, you'll earn a couple of new ships, some skill books, some modules, and a good chunk of ISK.
+10連ミッションをすべて終えたら、新しい艦船、スキル本、モジュール、そしてそこそこいい額のISKを獲得できます。
 
 #### Common Stumbling Blocks
 
