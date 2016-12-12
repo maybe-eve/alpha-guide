@@ -2,7 +2,7 @@
 
 この連続ミッションは **帳尻合わせ** という名前です。 この10連ミッションでは、サルベージやハッキング、採掘、そして違う星系にいるエージェントへのちょっとした輸送を行うことになるでしょう。 これらの方法でなら、EVE 世界において武器を使わなくてもお金を稼ぐことができます。
 
-If you get stuck, there's a video guide to the missions that begins here: https://www.youtube.com/watch?v=2RtjAYs8spU
+もしつまづいてしまった場合、プレイヤー運営の B-OSP Wiki にあるミッションのガイドを読むこともできます: http://seesaawiki.jp/eveonline_b-osp_wiki/d/%C4%A2%BF%AC%B9%E7%A4%EF%A4%BB%A1%CA1%A1%BF10%A1%CB
 
 Since the video guide was made in 2015, the older interfaces may look a bit different from what you see now, but the general steps to complete the mission will be the same.
 
