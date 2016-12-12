@@ -10,7 +10,7 @@ EVE は一人ぼっちで遊ぶことももちろんできますが、同じ興�
 
 ### 国家間戦争 NPC コープ
 
-国家間戦争 (FW とも) に入社すると、ローセク領域において、あなたの種族の国家のために PvP 戦闘を行うことができます。それぞれ、 アマー 対 ミンマター、そして カルダリ 対 ガレンテ となっています。 There are two ways of getting into faction warfare - you can either join the empire's FW NPC corp, or you can find a player-run corp that participates in faction warfare.
+国家間戦争 (FW とも) に入社すると、ローセク領域において、あなたの種族の国家のために PvP 戦闘を行うことができます。それぞれ、 アマー 対 ミンマター、そして カルダリ 対 ガレンテ となっています。 国家間戦争に参加する方法は2つあります - 国家所属の国家間戦争 NPC コープに参加してもよいですし、国家間戦争に参加しているプレイヤー運営のコープを探してそこに入社することもできます。
 
 For more details about Faction Warfare, see the \[UniWiki Factional Warfare guide\] (http://wiki.eveuniversity.org/Factional Warfare).
 
