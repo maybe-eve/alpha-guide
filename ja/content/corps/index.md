@@ -6,11 +6,11 @@ EVE は一人ぼっちで遊ぶことももちろんできますが、同じ興�
 
 あなたはキャラクタークリエイトでの選択、つまり種族や血統に応じて、NPCコープのうち1つに、自動的に割り当てられた状態で始めることになります。 もし何か別のコープに入社して、後になってそこから退社した場合は、種族に応じた別の NPC コープに戻されることになります。
 
-All NPC corps have a built-in tax rate of 10%. That means any mission rewards you earn will be charged a 10% fee.
+すべての NPC コープは例外なく 10% の税率を設定しています。つまり、ミッション報酬はすべて 10% 課税されることになります。
 
-### Factional Warfare NPC Corps
+### 国家間戦争 NPC コープ
 
-Faction Warfare (FW) allows you to sign up to PvP for your race's empire in low-sec space: Amarr vs. Minmatar and Caldari vs. Gallente. There are two ways of getting into faction warfare - you can either join the empire's FW NPC corp, or you can find a player-run corp that participates in faction warfare.
+国家間戦争 (FW とも) に入社すると、ローセク領域において、あなたの種族の国家のために PvP 戦闘を行うことができます。それぞれ、 アマー 対 ミンマター、そして カルダリ 対 ガレンテ となっています。 There are two ways of getting into faction warfare - you can either join the empire's FW NPC corp, or you can find a player-run corp that participates in faction warfare.
 
 For more details about Faction Warfare, see the \[UniWiki Factional Warfare guide\] (http://wiki.eveuniversity.org/Factional Warfare).
 
