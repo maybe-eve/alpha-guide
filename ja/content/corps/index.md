@@ -1,10 +1,10 @@
 +++ title = "コープに参加する" toc = true icon = "**8. **" date = "2016-11-18T18:56:39-08:00" next = "/learn-more/" prev = "/training/trade/" +++
 
-While it is certainly possible to play EVE alone, it's generally a lot more fun to have a group of other people who share your interests. Joining a corporation will give you many more options than you'd have flying alone.
+EVE は一人ぼっちで遊ぶことももちろんできますが、同じ興味を持った他の人たちとグループを組んだほうがもっと楽しいでしょう。 コーポレーション (コープとも) に参加すれば、一人で船を飛ばしていた頃よりも、活動の選択肢がもっと大きく広がるでしょう。
 
-### Starter NPC Corps
+### 最初のNPCコープ
 
-You start the game in one of these, automatically assigned based on how you created your character - your race and bloodline. If you ever join a different corp and then quit it later, you'll be placed back into another NPC corp based on your race.
+あなたはキャラクタークリエイトでの選択、つまり種族や血統に応じて、NPCコープのうち1つに、自動的に割り当てられた状態で始めることになります。 もし何か別のコープに入社して、後になってそこから退社した場合は、種族に応じた別の NPC コープに戻されることになります。
 
 All NPC corps have a built-in tax rate of 10%. That means any mission rewards you earn will be charged a 10% fee.
 
