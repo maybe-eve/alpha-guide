@@ -1,6 +1,6 @@
 +++ toc = true date = "2016-11-18T18:59:33-08:00" title = "ビジネスエージェント" weight = 1 next = "/career-agents/exploration/" prev = "/career-agents/" +++
 
-This mission chain is **Balancing the Books**. Its 10 missions will have you doing salvaging, hacking, mining, and a bit of running around delivering things to agents in different systems. These are ways that you can make money in EVE without having to use your weapons.
+この連続ミッションは **帳尻合わせ** という名前です。 この10連ミッションでは、サルベージやハッキング、採掘、そして違う星系にいるエージェントへのちょっとした輸送を行うことになるでしょう。 These are ways that you can make money in EVE without having to use your weapons.
 
 If you get stuck, there's a video guide to the missions that begins here: https://www.youtube.com/watch?v=2RtjAYs8spU
 
