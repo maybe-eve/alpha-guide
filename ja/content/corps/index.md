@@ -12,13 +12,13 @@ EVE は一人ぼっちで遊ぶことももちろんできますが、同じ興�
 
 国家間戦争 (FW とも) に入社すると、ローセク領域において、あなたの種族の国家のために PvP 戦闘を行うことができます。それぞれ、 アマー 対 ミンマター、そして カルダリ 対 ガレンテ となっています。 国家間戦争に参加する方法は2つあります - 国家所属の国家間戦争 NPC コープに参加してもよいですし、国家間戦争に参加しているプレイヤー運営のコープを探してそこに入社することもできます。
 
-For more details about Faction Warfare, see the \[UniWiki Factional Warfare guide\] (http://wiki.eveuniversity.org/Factional Warfare).
+国家間戦争について詳しくは、 \[プレイヤー運営の もふもふwiki による国家間戦争の解説ページ\](http://evewiki.wiki.fc2.com/wiki/%E5%9B%BD%E5%AE%B6%E9%96%93%E6%88%A6%E4%BA%89(Factional%20War)) を見てみてください。
 
-### Player-run Corps
+### プレイヤー運営コープ
 
-Players can create their own corporations (and in fact the majority of corporations in EVE are player-created). These corporations can set their own tax rates, declare war against one another, conquer parts of null-security space, and more.
+プレイヤーは自分自身のコープをつくることができます。 (そして実は、EVE にある数多くのコープのうちほとんどはプレイヤー運営のものです。) これらのコープでは、独自の税率を設定したり、他のコープに戦争をしかけたり、ヌルセク領域の一部分を征服したり、他にも様々なことができます。
 
-{{% notice tip %}} Don't accept random corp invitations - the average quality of a corporation that invites players randomly out of the blue is very low. Instead, look for a corporation that is dedicated to doing what you're interested in doing and ask about recruitment. {{% /notice %}}
+{% notice tip %} 唐突に送られてきたコープ入社招待は、決して承諾しないようにしましょう - ランダムにプレイヤーを選んで唐突に招待を送ってくるコープの質というのは、平均的にはですが、どうしようもないものです。 その代わりに、自分がやりたいと思っていることに精通しているコープを自分で探して、採用してもらえないか聞いてみましょう。 {{% /notice %}}
 
 [EVE University](http://www.eveuniversity.org/) is a well-known player corp in EVE that is devoted to teaching new players. There are many other player-run corps as well. We recommend the following resources for finding a corporation that suits your interests:
 
