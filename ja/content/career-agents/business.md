@@ -10,8 +10,8 @@
 
 #### Common Stumbling Blocks
 
-- In mission 2 of 10, the Black Box is inside the "Civilian Transport Ship Wreck" near the NPC pirate. Use the provided Civilian Salvager module to access the wreck, then loot the Black Box from it and return to your agent.
-- In mission 3 of 10, you must mine Veldspar from the mission site to complete the mission, even if you already have sufficient Tritanium. Mining from an asteroid belt will not complete the mission.
+- 2番目のミッションでは、必要なブラックボックスはNPC海賊の近くにある「市民輸送船残骸」の中にあります。 支給された民間人仕様サルベージャーを使ってその残骸にアクセスし、それからブラックボックスを回収してエージェントの元に帰還しましょう。
+- 3番目のミッションでは、もし十分な量のトリタニウムを既に持っていても、ミッションサイトでベルドスパーを採掘しなければミッションを達成することはできません。アステロイドベルトで採掘しても、同様にミッションは達成できません。
 - In mission 6 of 10, the Tracking Computer I is most easily acquired from the Market. See the [Use the Market](/market/) section if you're having trouble.
 - In mission 9 of 10, you can use `1MN Afterburner I` modules acquired from other Career Agent missions or from the Market. Make sure they are Repackaged (right-click -> "Repackage") or the agent will not accept them.
 - In mission 10 of 10, the manufacturing process will take substantial time; you can do other things (such as other career agent missions) while the build is in progress. Some of the minerals required may be most easily sourced through the Market rather than via mining. You can also just buy the ammunition off the market, despite what the agent says.
