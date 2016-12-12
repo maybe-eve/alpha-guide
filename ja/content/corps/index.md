@@ -1,4 +1,4 @@
-+++ title = "Join a Corporation" toc = true icon = "**8. **" date = "2016-11-18T18:56:39-08:00" next = "/learn-more/" prev = "/training/trade/" +++
++++ title = "コープに参加する" toc = true icon = "**8. **" date = "2016-11-18T18:56:39-08:00" next = "/learn-more/" prev = "/training/trade/" +++
 
 While it is certainly possible to play EVE alone, it's generally a lot more fun to have a group of other people who share your interests. Joining a corporation will give you many more options than you'd have flying alone.
 
