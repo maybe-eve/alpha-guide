@@ -8,10 +8,10 @@
 
 10連ミッションをすべて終えたら、新しい艦船、スキル本、モジュール、そしてそこそこいい額のISKを獲得できます。
 
-#### Common Stumbling Blocks
+#### よくあるつまづき
 
 - 2番目のミッションでは、必要なブラックボックスはNPC海賊の近くにある「市民輸送船残骸」の中にあります。 支給された民間人仕様サルベージャーを使ってその残骸にアクセスし、それからブラックボックスを回収してエージェントの元に帰還しましょう。
 - 3番目のミッションでは、もし十分な量のトリタニウムを既に持っていても、ミッションサイトでベルドスパーを採掘しなければミッションを達成することはできません。アステロイドベルトで採掘しても、同様にミッションは達成できません。
 - 6番目のミッションでは、トラッキングコンピューターIはマーケットで買ってしまうのが一番楽でしょう。 もし困ったことがあったら、 [マーケットを使ってみよう](/market/) の章を見なおしてみてください。
 - 9番目のミッションでは、 他のキャリアエージェントから貰ったり、マーケットで買ったりした `1MNアフターバーナーI (1MN Afterburner I)` モジュールを使うことができます。 その際は、必ずリパッケージ (右クリック -> 「リパッケージ」) するようにしてください。そうしなければ、エージェントには受け取ってもらえないでしょう。
-- In mission 10 of 10, the manufacturing process will take substantial time; you can do other things (such as other career agent missions) while the build is in progress. Some of the minerals required may be most easily sourced through the Market rather than via mining. You can also just buy the ammunition off the market, despite what the agent says.
+- 10番目のミッションでは、製造プロセスが終わるまでには大幅に時間がかかるでしょう。製造中に、他のこと (例えば他のキャリアエージェントのミッション) をすることもできます。 必要なミネラルのうちいくつかは、採掘するよりマーケットで買ってしまったほうが、ほとんどの場合手に入りやすいでしょう。 エージェントの言ったことを無視して、弾薬をマーケットで購入してしまうこともできます。
