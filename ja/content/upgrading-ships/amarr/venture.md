@@ -24,17 +24,17 @@
 
 ### リグ
 
-リグを装備すると、他の性能を犠牲にして、船の性能に改造を加えることができます。 モジュールと異なり、リグは取り外すことができず、代わりに破壊されます。 As a starter fit, this fit makes limited use of rigging, since many "optimal" rigs are often relatively expensive and may be difficult to find near your starter station.
+リグを装備すると、他の性能を犠牲にして、船の性能に改造を加えることができます。 モジュールと異なり、リグは取り外すことができず、代わりに破壊されます。 これは初心者向けのFITなので、リグはあまり使用していません。というのも、多くの「最適な」リグは比較的高価なことが多く、あなたのゲーム開始ステーションの近くではおそらく手に入らないからです。
 
-This fit uses two `Small Anti-EM Screen Reinforcer I` and one `Small Anti-Thermal Screen Reinforcer I` to improve the damage resistance of its shields.
+このFITでは `小型対EMスクリーンレインフォーサーI (Small Anti-EM Screen Reinforcer I)` を2つと `小型対キネティックスクリーンレインフォーサーI (Small Anti-Thermal Screen Reinforcer I)` を1つ装備し、シールドのダメージ耐性を高めています。
 
-### How To Fly
+### 運用方法
 
-The Venture is a mining frigate. As such, it should primarily be looking through asteroid belts and ore Anomalies for valuable rocks, harvesting them, and selling the ore or using it for industry, while avoiding combat whenever possible.
+ベンチャーは採掘フリゲートです。 それゆえ、価値の高い鉱石を求めてアステロイドベルトや鉱石アノマリを飛び回り、採掘して、手に入れた鉱石を売ったり製造に使ったりするのが主な使い道で、戦闘は可能な限り避けるべきです。
 
-Simply fly your ship within range (10km) of an asteroid and activate your mining lasers. You can split them between asteroids or focus them on a single rock as you desire.
+単純にアステロイドの採掘範囲 (10km) まで航行し、採掘レーザーを起動しましょう。 採掘先を2つのアステロイドに分けて起動してもいいですし、1つのアステロイドに集中させてもいいです。
 
-In systems of 0.8 security or lower, NPC pirates will appear in the asteroid belts. Your shields allow you to sustain fire from weaker rats for some time, but it is probably best to simply find a different asteroid belt, until you've trained in the use of Combat Drones which can destroy the attackers for you.
+セキュリティステータスが0.8以下の星系では、アステロイドベルトにNPC海賊が出現するでしょう。 Your shields allow you to sustain fire from weaker rats for some time, but it is probably best to simply find a different asteroid belt, until you've trained in the use of Combat Drones which can destroy the attackers for you.
 
 As always, if incoming damage is proving too much for your ship and you're beginning to take structure damage, warp out.
 
