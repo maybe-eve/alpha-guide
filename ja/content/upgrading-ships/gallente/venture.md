@@ -8,19 +8,19 @@
 
 ### 防御
 
-This fit uses a `Medium Shield Extender I` in one of the mid slots to give it additional shield HP, providing it more time to react and escape in case of attack.
+この FIT では、 `中型シールドエクステンダーI (Medium Shield Extender I)` をミディアムスロットの1つに装備してシールドHPを追加し、攻撃を受けた際に反応して逃げるための時間をより多く確保しています。
 
 It also fits a `Damage Control I` in a low slot to increase its resistance to damage.
 
-The Venture also includes two `Hobgoblin I` drones to defend itself against weak NPC pirates. Remember to recall your drones before warping, or if they begin taking damage from enemy fire.
+このベンチャーは弱いNPC海賊への防御のために `ホブゴブリンI (Hobgoblin I)` ドローンも装備しています。 ワープする前に、もしくは敵からダメージを受けている場合、自艦にドローンを呼び戻すのを忘れないようにしましょう。
 
 {{% notice info %}} To use the combat drones, you will need to train the skills `Drones` III and `Light Drone Operation` I. We recommend you use some of the skill points from the Mini Skill Injector given in the tutorial to train these skills, as they will be useful in many ships. ライトドローンオペレーションを習得するためには、マーケットでスキル本を買う必要があるでしょう。 {{% /notice %}}
 
 ### ユーティリティ
 
-The `1MN Afterburner I` provides your ship with additional speed. This makes it quicker to fly between asteroids, and helps in evading hostile targets.
+`1MNアフターバーナーI (1MN Afterburner I)` を使うと船を加速させることができます。これにより、アステロイドからアステロイドへと移動するのが早くなり、敵対的な船から逃げるのにも役に立ちます。
 
-The `Salvager I` allows you to salvage any Wrecks you come across for valuable materials. It is not part of the primary purpose of this ship, but can provide some side income when the opportunity arises.
+The `Salvager I` allows you to salvage any Wrecks you come across for valuable materials. これはこの船の本来の目的とは外れますが、機会さえあればいくらかの副収入を得られるかもしれません。
 
 ### Rigs
 
