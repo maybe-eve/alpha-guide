@@ -1,4 +1,4 @@
-+++ nomenu = true toc = true date = "2016-11-18T17:33:01-08:00" title = "Venture" weight = 1 prev = "/upgrading-ships/amarr/" +++<object type="image/svg+xml" data="https://o.smium.org/api/convert/119454/svg/119454-alpha-clone---starter-venture-wdrones.svg?privatetoken=8529239342533574656"><a href="https://o.smium.org/loadout/private/119454/8529239342533574656">View Alpha Clone - Starter Venture w/Drones on Osmium</a></object>{% notice info %} 採掘フリゲートは戦闘のためではなく、主に資源採掘のためのものです。 よって、この船のタレットハードポイントは武器ではなく採掘レーザーによって埋まることになります。 **武装せずに**残しておきましょう。 アステロイドベルトでの自己防衛のため、もしくは鉱石採掘に加えて敵を倒さないといけないようなミッションのために、ドローンを使えるようスキルを取ることを強くオススメします。 それ以外の場合、もし戦闘せざるを得ない状況に陥ったならば、単に逃げてしまうのが最良の選択肢です。 {{% /notice %}}
++++ nomenu = true toc = true date = "2016-11-18T17:33:01-08:00" title = "ベンチャー" weight = 1 prev = "/upgrading-ships/amarr/" +++<object type="image/svg+xml" data="https://o.smium.org/api/convert/119454/svg/119454-alpha-clone---starter-venture-wdrones.svg?privatetoken=8529239342533574656"><a href="https://o.smium.org/loadout/private/119454/8529239342533574656">View Alpha Clone - Starter Venture w/Drones on Osmium</a></object>{% notice info %} 採掘フリゲートは戦闘のためではなく、主に資源採掘のためのものです。 よって、この船のタレットハードポイントは武器ではなく採掘レーザーによって埋まることになります。 **武装せずに**残しておきましょう。 アステロイドベルトでの自己防衛のため、もしくは鉱石採掘に加えて敵を倒さないといけないようなミッションのために、ドローンを使えるようスキルを取ることを強くオススメします。 それ以外の場合、もし戦闘せざるを得ない状況に陥ったならば、単に逃げてしまうのが最良の選択肢です。 {{% /notice %}}
 
 ### 採掘用ツール
 
@@ -34,11 +34,11 @@
 
 単純にアステロイドの採掘範囲 (10km) まで航行し、採掘レーザーを起動しましょう。 採掘先を2つのアステロイドに分けて起動してもいいですし、1つのアステロイドに集中させてもいいです。
 
-セキュリティステータスが0.8以下の星系では、アステロイドベルトにNPC海賊が出現するでしょう。 Your shields allow you to sustain fire from weaker rats for some time, but it is probably best to simply find a different asteroid belt, until you've trained in the use of Combat Drones which can destroy the attackers for you.
+セキュリティステータスが0.8以下の星系では、アステロイドベルトにNPC海賊が出現するでしょう。 この船のシールドでなら弱い敵からの攻撃にしばらく耐えることができますが、スキルを覚えて戦闘ドローンを使えるようになり、敵を撃墜できるようになるまでは、単に別のアステロイドベルトを探したほうがいいでしょう。
 
-As always, if incoming damage is proving too much for your ship and you're beginning to take structure damage, warp out.
+いつもいつでも、受けているダメージが船の耐久力に比べて多すぎるならば、そしてストラクチャまでダメージが入り始めているならば、ワープして逃げましょう。
 
-## Future Improvements
+## 将来の改善プラン
 
 The above fit should be usable with starting skills unless otherwise noted, and it uses relatively cheap and widely-available modules.
 
