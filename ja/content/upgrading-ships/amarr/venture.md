@@ -1,4 +1,4 @@
-+++ nomenu = true toc = true date = "2016-11-18T17:33:01-08:00" title = "Venture" weight = 1 prev = "/upgrading-ships/amarr/" +++<object type="image/svg+xml" data="https://o.smium.org/api/convert/119454/svg/119454-alpha-clone---starter-venture-wdrones.svg?privatetoken=8529239342533574656"><a href="https://o.smium.org/loadout/private/119454/8529239342533574656">View Alpha Clone - Starter Venture w/Drones on Osmium</a></object>{{% notice info %}} Mining frigates are primarily intended for gathering resources rather than combat. As such, this ship's turret hardpoints are used for mining lasers rather than weaponry, leaving it **unarmed**. For self-defense in asteroid belts, or for missions where destroying ships is required in addition to mining ore, it is highly recommended to train for the use of Drones. Otherwise, if you find yourself forced into combat, your best option is to simply run away. {{% /notice %}}
++++ nomenu = true toc = true date = "2016-11-18T17:33:01-08:00" title = "Venture" weight = 1 prev = "/upgrading-ships/amarr/" +++<object type="image/svg+xml" data="https://o.smium.org/api/convert/119454/svg/119454-alpha-clone---starter-venture-wdrones.svg?privatetoken=8529239342533574656"><a href="https://o.smium.org/loadout/private/119454/8529239342533574656">View Alpha Clone - Starter Venture w/Drones on Osmium</a></object>{% notice info %} 採掘フリゲートは戦闘のためではなく、主に資源採掘のためのものです。 As such, this ship's turret hardpoints are used for mining lasers rather than weaponry, leaving it **unarmed**. For self-defense in asteroid belts, or for missions where destroying ships is required in addition to mining ore, it is highly recommended to train for the use of Drones. Otherwise, if you find yourself forced into combat, your best option is to simply run away. {{% /notice %}}
 
 ### Mining Tools
 
@@ -14,7 +14,7 @@ It also fits a `Damage Control I` in a low slot to increase its resistance to da
 
 The Venture also includes two `Hobgoblin I` drones to defend itself against weak NPC pirates. Remember to recall your drones before warping, or if they begin taking damage from enemy fire.
 
-{{% notice info %}} To use the combat drones, you will need to train the skills `Drones` III and `Light Drone Operation` I. We recommend you use some of the skill points from the Mini Skill Injector given in the tutorial to train these skills, as they will be useful in many ships. ライトドローンオペレーションを習得するためには、マーケットでスキル本を買う必要があるでしょう。 {{% /notice %}}
+{{% notice info %}} 戦闘用ドローンを使うには、 `ドローン` III と `ライトドローンオペレーション` I のスキルを習得する必要があります。 これらのスキルは今後乗ることになる多くの船で役に立つので、チュートリアルで貰ったミニスキルインジェクターから得たスキルポイントのうち、いくらかをこれらに割くことをオススメします。 ライトドローンオペレーションを習得するためには、マーケットでスキル本を買う必要があるでしょう。 {{% /notice %}}
 
 ### ユーティリティ
 
