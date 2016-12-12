@@ -34,9 +34,9 @@ Rigs are passive modifications to a ship, trading off one attribute against anot
 
 単純にアステロイドの採掘範囲 (10km) まで航行し、採掘レーザーを起動しましょう。 採掘先を2つのアステロイドに分けて起動してもいいですし、1つのアステロイドに集中させてもいいです。
 
-セキュリティステータスが0.8以下の星系では、アステロイドベルトにNPC海賊が出現するでしょう。 Your shields allow you to sustain fire from weaker rats for some time, but it is probably best to simply find a different asteroid belt, until you've trained in the use of Combat Drones which can destroy the attackers for you.
+セキュリティステータスが0.8以下の星系では、アステロイドベルトにNPC海賊が出現するでしょう。 この船のシールドでなら弱い敵からの攻撃にしばらく耐えることができますが、スキルを覚えて戦闘ドローンを使えるようになり、敵を撃墜できるようになるまでは、単に別のアステロイドベルトを探したほうがいいでしょう。
 
-As always, if incoming damage is proving too much for your ship and you're beginning to take structure damage, warp out.
+いつもいつでも、受けているダメージが船の耐久力に比べて多すぎるならば、そしてストラクチャまでダメージが入り始めているならば、ワープして逃げましょう。
 
 ## Future Improvements
 
