@@ -2,9 +2,9 @@
 
 ### 採掘用ツール
 
-The Venture uses two `Miner I` in its high slots. Its role bonus makes them as effective as four Miners would be on most other ships, and training the Mining Frigate skill higher can improve that further. Note that mined ore will go into the venture's 5000 m3 ore hold, rather than its 50 m3 main cargo bay.
+ベンチャーにはハイスロットに `採掘機I (Miner I)` を2機装備します。 固定ボーナスによって、他の船に4機の採掘機を装備したのと同じ採掘効率を得られ、採掘フリゲートスキルを伸ばすことによってさらに効率を上げることができます。 採掘された鉱石は 50m3 しかないメインのカーゴベイではなく、 5000m3 の容量がある鉱石ホールドに格納されることに注意してください。
 
-It also mounts a `Survey Scanner I` in a mid slot, which you can use to view the amount of ore remaining in nearby asteroids, so that you will know when your current asteroid is nearly depleted and which others have the largest amount of ore (and thus the most uninterrupted mining time).
+さらに、近くにあるアステロイドに残っている鉱石の量を知ることができる `サーベイスキャナーI (Survey Scanner I)` をミディアムスロットに装備しています。これによって、今掘っているアステロイドがいつ枯渇寸前になるのか、そしてどの他のアステロイドが最も多く鉱石を含んでいるのか (つまり、どれくらい長く中断しないで掘り続けられるのか) 、を知ることができます。
 
 ### 防御
 
