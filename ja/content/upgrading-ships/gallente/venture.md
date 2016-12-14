@@ -40,19 +40,19 @@
 
 ## 将来の改善プラン
 
-The above fit should be usable with starting skills unless otherwise noted, and it uses relatively cheap and widely-available modules.
+以上のFITは特に記述がなければゲーム開始時のスキルだけで使うことができるはずで、比較的安価で手に入りやすいモジュールを使っています。
 
-As you accumulate skill points and ISK, you will be able to fit more potent modules to your ship, increasing its effectiveness. These modules may not be readily available outside of trade hubs, but it can be worth the trip.
+スキルポイントとISKが手に入るにつれて、より強力なモジュールをFITできるようになり、それにより船の性能が上がっていくでしょう。 これらのモジュールはマーケットハブでないと簡単には手に入らないかもしれませんが、買いに行くだけの価値はあるものです。
 
-We recommend working towards the following improved fit:<object type="image/svg+xml" data="https://o.smium.org/api/convert/118496/svg/118496-alpha-clone---improved-venture.svg?privatetoken=1980229761703608320"><a href="https://o.smium.org/loadout/private/118496/1980229761703608320">View Alpha Clone - Improved Venture on Osmium</a></object>The improved fit will require the training of the following skills to use all installed equipment:
+いずれ、以下に挙げる改良版のFITを装備できるようにすることをオススメします:<object type="image/svg+xml" data="https://o.smium.org/api/convert/118496/svg/118496-alpha-clone---improved-venture.svg?privatetoken=1980229761703608320"><a href="https://o.smium.org/loadout/private/118496/1980229761703608320">View Alpha Clone - Improved Venture on Osmium</a></object>この改良版のFITのすべての装備を使えるようにするには、以下のスキルを覚える必要があるでしょう:
 
-* `Mining` Level IV
-* `Shield Upgrades` Level IV
-* `Mining Upgrades` Level IV
-* `Drones` Level III
-* `Light Drone Operation` Level I
+* `採掘` レベルIV
+* `シールド強化` レベルIV
+* `採掘強化` レベルIV
+* `ドローン` レベルIII
+* `ライトドローンオペレーション` レベルI
 
-The improved fit uses a `5MN Quad LiF Restrained Microwarpdrive` rather than an Afterburner. An MWD takes a large amount of capacitor to run, and causes a large increase to your ship's signature radius, meaning that unlike the Afterburner, it is not useful for evading enemy fire. However, it provides a massively increased speed bonus.
+この改良版のFITではアフターバーナーではなく `5MNクワッドリフ抑制型マイクロワープドライブ` を使っています。 An MWD takes a large amount of capacitor to run, and causes a large increase to your ship's signature radius, meaning that unlike the Afterburner, it is not useful for evading enemy fire. However, it provides a massively increased speed bonus.
 
 You should activate the MWD only when moving to a new position, and disable it once you have arrived.
 
