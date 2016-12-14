@@ -52,20 +52,20 @@
 * `ドローン` レベルIII
 * `ライトドローンオペレーション` レベルI
 
-この改良版のFITではアフターバーナーではなく `5MNクワッドリフ抑制型マイクロワープドライブ` を使っています。 An MWD takes a large amount of capacitor to run, and causes a large increase to your ship's signature radius, meaning that unlike the Afterburner, it is not useful for evading enemy fire. However, it provides a massively increased speed bonus.
+この改良版のFITではアフターバーナーではなく `5MNクワッドリフ抑制型マイクロワープドライブ` を使っています。 MWDは使うとキャパシタを大量に消費し、船のシグネチャ半径も大幅に増加させるので、アフターバーナーとは違って、敵の攻撃から逃げるのには向いていません。 しかし、得られる速度ボーナスは大幅に強化されています。
 
-You should activate the MWD only when moving to a new position, and disable it once you have arrived.
+MWDは違う場所に移動するときにのみ起動し、到着したら止めてしまうようにしましょう。
 
-Once you have the skills to use them, you should fill your Drone Bay with Combat Drones. `Hobgoblin I` drones have the most damage output, while `Warrior I` drones have the most speed.
+ドローンを操作するためのスキルが揃ったら、ドローンベイに戦闘ドローンを詰め込みましょう。 `ホブゴブリンI (Hobgoblin I)` ドローンはダメージ出力が一番高く、`ウォリアーI (Warrior I)` ドローンは移動速度が一番速いです。
 
-The improved fit uses a `Mining Laser Upgrade II` in place of the Damage Control. This weakens the Venture's defenses, but increases its ore intake.
+そしてこの改良版FITではダメージコントロールを抜いて `採掘レーザー強化II` を装備しています。ベンチャーの防御力は落ちてしまいますが、代わりに鉱石の採掘量が増加します。
 
-Additionally, it replaces one Anti-EM rig with a `Small Core Defense Field Extender I`, for more overall shield HP at the cost of some vulnerability to EM damage.
+さらに、EM ダメージに少し弱くなるのと引き換えに全体でのシールドHPを増加させるため、対EMリグを1つ `小型コア防衛フィールドエクステンダーI` に入れ替えています。
 
-The improved fit no longer mounts the Salvager, as the enhancements to its mining lasers consume the CPU that would be required.
+改良版FITでは、採掘レーザーの強化によって必要なCPUを使ってしまったので、もはやサルベージャーは装備していません。
 
-Nearly every module has been improved to a "meta" version, requiring less fitting space and granting improved effectiveness, but costing more ISK and/or being less widely available, or a t2 version, which costs more ISK, requires more skillpoints, and is harder to fit:
+ほとんどすべてのモジュールは、FITしやすく性能が向上している代わりに値段が高く手に入りづらい「メタ」版強化品に入れ替えることができ、またさらに ISK やスキルポイントが必要で FIT するのが非常に難しい T2 版強化品に入れ替えることもできます。
 
-* Mining Lasers: 2x `Miner II`
-* Shield Extender: `Medium Shield Extender II`
+* 採掘レーザー: 2x `採掘機II`
+* シールドエクステンダー: `中型シールドエクステンダーII (Medium Shield Extender II)`
 * Survey Scanner: `Survey Scanner II`
