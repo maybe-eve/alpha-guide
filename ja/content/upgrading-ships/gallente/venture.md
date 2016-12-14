@@ -1,4 +1,4 @@
-+++ nomenu = true toc = true date = "2016-11-18T17:33:01-08:00" title = "Venture" weight = 1 prev = "/upgrading-ships/gallente/" +++<object type="image/svg+xml" data="https://o.smium.org/api/convert/119454/svg/119454-alpha-clone---starter-venture-wdrones.svg?privatetoken=8529239342533574656"><a href="https://o.smium.org/loadout/private/119454/8529239342533574656">View Alpha Clone - Starter Venture w/Drones on Osmium</a></object>{% notice info %} 採掘フリゲートは戦闘のためではなく、主に資源採掘のためのものです。 よって、この船のタレットハードポイントは武器ではなく採掘レーザーによって埋まることになります。 **武装せずに**残しておきましょう。 アステロイドベルトでの自己防衛のため、もしくは鉱石採掘に加えて敵を倒さないといけないようなミッションのために、ドローンを使えるようスキルを取ることを強くオススメします。 それ以外の場合、もし戦闘せざるを得ない状況に陥ったならば、単に逃げてしまうのが最良の選択肢です。 {{% /notice %}}
++++ nomenu = true toc = true date = "2016-11-18T17:33:01-08:00" title = "ベンチャー" weight = 1 prev = "/upgrading-ships/gallente/" +++<object type="image/svg+xml" data="https://o.smium.org/api/convert/119454/svg/119454-alpha-clone---starter-venture-wdrones.svg?privatetoken=8529239342533574656"><a href="https://o.smium.org/loadout/private/119454/8529239342533574656">View Alpha Clone - Starter Venture w/Drones on Osmium</a></object>{% notice info %} 採掘フリゲートは戦闘のためではなく、主に資源採掘のためのものです。 よって、この船のタレットハードポイントは武器ではなく採掘レーザーによって埋まることになります。 **武装せずに**残しておきましょう。 アステロイドベルトでの自己防衛のため、もしくは鉱石採掘に加えて敵を倒さないといけないようなミッションのために、ドローンを使えるようスキルを取ることを強くオススメします。 それ以外の場合、もし戦闘せざるを得ない状況に陥ったならば、単に逃げてしまうのが最良の選択肢です。 {{% /notice %}}
 
 ### 採掘用ツール
 
@@ -10,25 +10,25 @@
 
 この FIT では、 `中型シールドエクステンダーI (Medium Shield Extender I)` をミディアムスロットの1つに装備してシールドHPを追加し、攻撃を受けた際に反応して逃げるための時間をより多く確保しています。
 
-It also fits a `Damage Control I` in a low slot to increase its resistance to damage.
+また、ロースロットに `ダメージ制御I (Damage Control I)` を装備し、ダメージに対する耐性を高めています。
 
 このベンチャーは弱いNPC海賊への防御のために `ホブゴブリンI (Hobgoblin I)` ドローンも装備しています。 ワープする前に、もしくは敵からダメージを受けている場合、自艦にドローンを呼び戻すのを忘れないようにしましょう。
 
-{{% notice info %}} To use the combat drones, you will need to train the skills `Drones` III and `Light Drone Operation` I. We recommend you use some of the skill points from the Mini Skill Injector given in the tutorial to train these skills, as they will be useful in many ships. ライトドローンオペレーションを習得するためには、マーケットでスキル本を買う必要があるでしょう。 {{% /notice %}}
+{{% notice info %}} 戦闘用ドローンを使うには、 `ドローン` III と `ライトドローンオペレーション` I のスキルを習得する必要があります。 これらのスキルは今後乗ることになる多くの船で役に立つので、チュートリアルで貰ったミニスキルインジェクターから得たスキルポイントのうち、いくらかをこれらに割くことをオススメします。 ライトドローンオペレーションを習得するためには、マーケットでスキル本を買う必要があるでしょう。 {{% /notice %}}
 
 ### ユーティリティ
 
 `1MNアフターバーナーI (1MN Afterburner I)` を使うと船を加速させることができます。これにより、アステロイドからアステロイドへと移動するのが早くなり、敵対的な船から逃げるのにも役に立ちます。
 
-The `Salvager I` allows you to salvage any Wrecks you come across for valuable materials. これはこの船の本来の目的とは外れますが、機会さえあればいくらかの副収入を得られるかもしれません。
+`サルベージャーI (Salvager I)` を使うと、遭遇した残骸から価値のある素材をサルベージすることができます。 これはこの船の本来の目的とは外れますが、機会さえあればいくらかの副収入を得られるかもしれません。
 
-### Rigs
+### リグ
 
-Rigs are passive modifications to a ship, trading off one attribute against another. Unlike modules, rigs cannot be removed without being destroyed. As a starter fit, this fit makes limited use of rigging, since many "optimal" rigs are often relatively expensive and may be difficult to find near your starter station.
+リグを装備すると、他の性能を犠牲にして、船の性能に改造を加えることができます。 モジュールと異なり、リグは取り外すことができず、代わりに破壊されます。 これは初心者向けのFITなので、リグはあまり使用していません。というのも、多くの「最適な」リグは比較的高価なことが多く、あなたのゲーム開始ステーションの近くではおそらく手に入らないからです。
 
 このFITでは `小型対EMスクリーンレインフォーサーI (Small Anti-EM Screen Reinforcer I)` を2つと `小型対キネティックスクリーンレインフォーサーI (Small Anti-Thermal Screen Reinforcer I)` を1つ装備し、シールドのダメージ耐性を高めています。
 
-### How To Fly
+### 運用方法
 
 ベンチャーは採掘フリゲートです。 それゆえ、価値の高い鉱石を求めてアステロイドベルトや鉱石アノマリを飛び回り、採掘して、手に入れた鉱石を売ったり製造に使ったりするのが主な使い道で、戦闘は可能な限り避けるべきです。
 
@@ -38,7 +38,7 @@ Rigs are passive modifications to a ship, trading off one attribute against anot
 
 いつもいつでも、受けているダメージが船の耐久力に比べて多すぎるならば、そしてストラクチャまでダメージが入り始めているならば、ワープして逃げましょう。
 
-## Future Improvements
+## 将来の改善プラン
 
 The above fit should be usable with starting skills unless otherwise noted, and it uses relatively cheap and widely-available modules.
 
