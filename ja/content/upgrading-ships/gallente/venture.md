@@ -1,4 +1,4 @@
-+++ nomenu = true toc = true date = "2016-11-18T17:33:01-08:00" title = "ベンチャー" weight = 1 prev = "/upgrading-ships/gallente/" +++<object type="image/svg+xml" data="https://o.smium.org/api/convert/119454/svg/119454-alpha-clone---starter-venture-wdrones.svg?privatetoken=8529239342533574656"><a href="https://o.smium.org/loadout/private/119454/8529239342533574656">View Alpha Clone - Starter Venture w/Drones on Osmium</a></object>{% notice info %} 採掘フリゲートは戦闘のためではなく、主に資源採掘のためのものです。 よって、この船のタレットハードポイントは武器ではなく採掘レーザーによって埋まることになります。 **武装せずに**残しておきましょう。 アステロイドベルトでの自己防衛のため、もしくは鉱石採掘に加えて敵を倒さないといけないようなミッションのために、ドローンを使えるようスキルを取ることを強くオススメします。 それ以外の場合、もし戦闘せざるを得ない状況に陥ったならば、単に逃げてしまうのが最良の選択肢です。 {{% /notice %}}
++++ nomenu = true toc = true date = "2016-11-18T17:33:01-08:00" title = "ベンチャー" weight = 1 prev = "/upgrading-ships/gallente/" +++<object type="image/svg+xml" data="https://o.smium.org/api/convert/119454/svg/119454-alpha-clone---starter-venture-wdrones.svg?privatetoken=8529239342533574656"><a href="https://o.smium.org/loadout/private/119454/8529239342533574656">Alpha Clone - Starter Venture w/Drones を Osmium で見る</a></object>{% notice info %} 採掘フリゲートは戦闘のためではなく、主に資源採掘のためのものです。 よって、この船のタレットハードポイントは武器ではなく採掘レーザーによって埋まることになります。 **武装せずに**残しておきましょう。 アステロイドベルトでの自己防衛のため、もしくは鉱石採掘に加えて敵を倒さないといけないようなミッションのために、ドローンを使えるようスキルを取ることを強くオススメします。 それ以外の場合、もし戦闘せざるを得ない状況に陥ったならば、単に逃げてしまうのが最良の選択肢です。 {{% /notice %}}
 
 ### 採掘用ツール
 
@@ -44,7 +44,7 @@
 
 スキルポイントとISKが手に入るにつれて、より強力なモジュールをFITできるようになり、それにより船の性能が上がっていくでしょう。 これらのモジュールはマーケットハブでないと簡単には手に入らないかもしれませんが、買いに行くだけの価値はあるものです。
 
-いずれ、以下に挙げる改良版のFITを装備できるようにすることをオススメします:<object type="image/svg+xml" data="https://o.smium.org/api/convert/118496/svg/118496-alpha-clone---improved-venture.svg?privatetoken=1980229761703608320"><a href="https://o.smium.org/loadout/private/118496/1980229761703608320">View Alpha Clone - Improved Venture on Osmium</a></object>この改良版のFITのすべての装備を使えるようにするには、以下のスキルを覚える必要があるでしょう:
+いずれ、以下に挙げる改良版のFITを装備できるようにすることをオススメします:<object type="image/svg+xml" data="https://o.smium.org/api/convert/118496/svg/118496-alpha-clone---improved-venture.svg?privatetoken=1980229761703608320"><a href="https://o.smium.org/loadout/private/118496/1980229761703608320">Alpha Clone - Improved Venture を Osmium で見る</a></object>この改良版のFITのすべての装備を使えるようにするには、以下のスキルを覚える必要があるでしょう:
 
 * `採掘` レベルIV
 * `シールド強化` レベルIV
@@ -66,6 +66,6 @@ MWDは違う場所に移動するときにのみ起動し、到着したら止�
 
 ほとんどすべてのモジュールは、FITしやすく性能が向上している代わりに値段が高く手に入りづらい「メタ」版強化品に入れ替えることができ、またさらに ISK やスキルポイントが必要で FIT するのが非常に難しい T2 版強化品に入れ替えることもできます。
 
-* 採掘レーザー: 2x `採掘機II`
+* 採掘レーザー: 2x `採掘機II (Miner II)`
 * シールドエクステンダー: `中型シールドエクステンダーII (Medium Shield Extender II)`
-* Survey Scanner: `Survey Scanner II`
+* サーベイスキャナー: `サーベイスキャナーII (Survey Scanner II)`
