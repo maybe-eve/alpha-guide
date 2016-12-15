@@ -40,28 +40,28 @@
 
 ## 将来の改善プラン
 
-The above fit should be usable with starting skills unless otherwise noted, and it uses relatively cheap and widely-available modules.
+以上のFITは特に記述がなければゲーム開始時のスキルだけで使うことができるはずで、比較的安価で手に入りやすいモジュールを使っています。
 
-As you accumulate skill points and ISK, you will be able to fit more potent modules to your ship, increasing its effectiveness. These modules may not be readily available outside of trade hubs, but it can be worth the trip.
+スキルポイントとISKが手に入るにつれて、より強力なモジュールをFITできるようになり、それにより船の性能が上がっていくでしょう。 これらのモジュールはマーケットハブでないと簡単には手に入らないかもしれませんが、買いに行くだけの価値はあるものです。
 
-We recommend working towards the following improved fit:<object type="image/svg+xml" data="https://o.smium.org/api/convert/118466/svg/118466-alpha-clone---improved-venture-amarr.svg?privatetoken=8505444180036681728"><a href="https://o.smium.org/loadout/private/118466/8505444180036681728">View Alpha Clone - Improved Venture (Amarr) on Osmium</a></object>The improved fit will require the training of the following skills to use all installed equipment:
+いずれ、以下に挙げる改良版のFITを装備できるようにすることをオススメします:<object type="image/svg+xml" data="https://o.smium.org/api/convert/118466/svg/118466-alpha-clone---improved-venture-amarr.svg?privatetoken=8505444180036681728"><a href="https://o.smium.org/loadout/private/118466/8505444180036681728">View Alpha Clone - Improved Venture (Amarr) on Osmium</a></object>この改良版のFITのすべての装備を使えるようにするには、以下のスキルを覚える必要があるでしょう:
 
-* `Mining` Level IV
-* `Mining Upgrades` Level IV
-* `Drones` Level III
-* `Light Drone Operation` Level I
+* `採掘` レベルIV
+* `採掘強化` レベルIV
+* `ドローン` レベルIII
+* `ライトドローンオペレーション` レベルI
 
-The improved fit uses a `5MN Quad LiF Restrained Microwarpdrive` rather than an Afterburner. An MWD takes a large amount of capacitor to run, and causes a large increase to your ship's signature radius, meaning that unlike the Afterburner, it is not useful for evading enemy fire. However, it provides a massively increased speed bonus.
+この改良版のFITではアフターバーナーではなく `5MNクワッドリフ抑制型マイクロワープドライブ` を使っています。 MWDは使うとキャパシタを大量に消費し、船のシグネチャ半径も大幅に増加させるので、アフターバーナーとは違って、敵の攻撃から逃げるのには向いていません。 しかし、得られる速度ボーナスは大幅に強化されています。
 
-You should activate the MWD only when moving to a new position, and disable it once you have arrived.
+MWDは違う場所に移動するときにのみ起動し、到着したら止めてしまうようにしましょう。
 
-Once you have the skills to use them, you should fill your Drone Bay with Combat Drones. `Hobgoblin I` drones have the most damage output, while `Warrior I` drones have the most speed.
+ドローンを操作するためのスキルが揃ったら、ドローンベイに戦闘ドローンを詰め込みましょう。 `ホブゴブリンI (Hobgoblin I)` ドローンはダメージ出力が一番高く、`ウォリアーI (Warrior I)` ドローンは移動速度が一番速いです。
 
-The improved fit uses a `Mining Laser Upgrade II` in place of the Damage Control. This weakens the Venture's defenses, but increases its ore intake.
+そしてこの改良版FITではダメージコントロールを抜いて `採掘レーザー強化II` を装備しています。ベンチャーの防御力は落ちてしまいますが、代わりに鉱石の採掘量が増加します。
 
-Additionally, it replaces one Anti-EM rig with a `Small Core Defense Field Extender I`, for more overall shield HP at the cost of some vulnerability to EM damage.
+さらに、EM ダメージに少し弱くなるのと引き換えに全体でのシールドHPを増加させるため、対EMリグを1つ `小型コア防衛フィールドエクステンダーI` に入れ替えています。
 
-The improved fit no longer mounts the Salvager, as the enhancements to its mining lasers consume the CPU that would be required.
+改良版FITでは、採掘レーザーの強化によって必要なCPUを使ってしまったので、もはやサルベージャーは装備していません。
 
 Nearly every module has been improved to a "meta" version, requiring less fitting space and granting improved effectiveness, but costing more ISK and/or being less widely available, or a t2 version, which costs more ISK, requires more skillpoints, and is harder to fit:
 
