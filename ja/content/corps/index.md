@@ -33,4 +33,4 @@ EVE は一人ぼっちで遊ぶことももちろんできますが、同じ興�
 {% notice warning %} あなたが誰かとアイテムをトレードしたり、ISKや何か別のものをあげてしまったならば、貰った人はそれを好きなように使ってしまうことができます。 もし人事担当者が、彼らのコープに入ったりあなたのアイテムを移動させたりするのに料金を請求しようとしたなら、十分に注意してください。 もしかしたら詐欺かもしれません！ {{% /notice %}}
 
 {{% notice info %}} You can leave a corp that you've joined by right-clicking on your own name and choosing
-<kbd>Quit Corporation?</kbd> > <kbd>Confirm Quit Corporation</kbd>. Doing so will place you back into an NPC corp based on your race. {{% /notice %}}
+<kbd>Quit Corporation?</kbd> > <kbd>Confirm Quit Corporation</kbd>. そうすれば、種族に応じたNPCコープに戻されるでしょう。 {{% /notice %}}
