@@ -28,9 +28,9 @@ EVE は一人ぼっちで遊ぶことももちろんできますが、同じ興�
 
 {{% notice note %}} There are a handful of large nullsec corps that recruit rather freely amongst new players and often organize group content in nullsec space: [Brave Newbies](http://www.bravecollective.com/), [Karmafleet](https://recruit.karmafleet.org/), [Pandemic Horde](https://www.reddit.com/r/pandemichorde/), and [Dreddit](http://dredditisrecruiting.com/). {{% /notice %}}
 
-It's okay to take your time finding a corporation that suits your interests. It's also okay to change your mind if you join a corporation and find that you don't like it.
+自分の興味に合ったコープを探すのに時間をかけるのは全く問題ありません。そして、コープに入ってから自分には合わないなと感じたら、心変わりして抜けてしまうのもまた問題ありません。
 
-{{% notice warning %}} Remember that once you trade items, send someone isk or give anything else away they can do whatever they want with it. Be wary if a recruiter asks for a fee to join their corporation or offers to move your items. It might be a scam. {{% /notice %}}
+{% notice warning %} あなたが誰かとアイテムをトレードしたり、ISKや何か別のものをあげてしまったならば、貰った人はそれを好きなように使ってしまうことができます。 もし人事担当者が、彼らのコープに入ったりあなたのアイテムを移動させたりするのに料金を請求しようとしたなら、十分に注意してください。 もしかしたら詐欺かもしれません！ {{% /notice %}}
 
 {{% notice info %}} You can leave a corp that you've joined by right-clicking on your own name and choosing
 <kbd>Quit Corporation?</kbd> > <kbd>Confirm Quit Corporation</kbd>. Doing so will place you back into an NPC corp based on your race. {{% /notice %}}
