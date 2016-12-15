@@ -53,7 +53,7 @@ We recommend working towards the following improved fit:<object type="image/svg+
 
 {{% notice info %}} Your character starts with very low missile skills. If you intend to continue using missile ships, we recommend focusing your training on some [missile support skills](/training/combat/#missile-skills). {{% /notice %}}
 
-The improved fit uses a `5MN Quad LiF Restrained Microwarpdrive` rather than an Afterburner. An MWD takes a large amount of capacitor to run, and causes a large increase to your ship's signature radius, meaning that unlike the Afterburner, it is not useful for evading enemy fire. However, it provides a massively increased speed bonus.
+この改良版のFITではアフターバーナーではなく `5MNクワッドリフ抑制型マイクロワープドライブ` を使っています。 An MWD takes a large amount of capacitor to run, and causes a large increase to your ship's signature radius, meaning that unlike the Afterburner, it is not useful for evading enemy fire. However, it provides a massively increased speed bonus.
 
 You should activate the MWD only when moving to a new position or enemy, and disable it once you have arrived.
 
