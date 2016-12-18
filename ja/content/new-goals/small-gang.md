@@ -16,6 +16,6 @@ The targets of PvP roams can be varied, but will almost universally involve leav
 
 In gangs of more than a couple people, it's fairly common to have one player act as the "scout", moving ahead and finding targets of opportunity for the fleet to attack, or reporting danger that lies in the way. This role is perfectly suited to Frigate pilots. Mastering the use of the Directional Scanner can be vital to a scout; see <a href=http://wiki.eveuniversity.org/Directional_Scanner_Guide>Eve University's Directional Scanner Guide</a> for more information.
 
-### Why
+### なんで？
 
 PvP in EVE can generate quite a rush, and several pilots report cases of "the shakes" after a close battle. Working with your friends to outsmart opponents and overpower them, or simply prey on any hapless victims you find, can be a good way to socialize with your fleetmates, grow as a pilot and, quite simply, have fun.
