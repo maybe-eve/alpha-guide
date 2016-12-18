@@ -4,7 +4,7 @@
 
 Mission running is PvE content: getting missions from NPC agents and then completing them for the mission rewards and the bounties from any hostile NPCs you destroy along the way.
 
-### How
+### どうやって？
 
 If you decide to pursue mission running as a source of income, you'll want to build up standing with a particular NPC corporation in order to get access to higher tiers of mission agents (which can then give you harder missions with better rewards). Training the skills `Social` and `Connections` will grant you quicker access to higher-level missions.
 
