@@ -4,7 +4,7 @@
 
 Mining involves harvesting resources from asteroids, either in asteroid belts or special mining signatures located via scanning.
 
-### How
+### どうやって？
 
 If you decide to pursue mining as a source of income, you'll probably want to use a Venture, as it is the best dedicated mining ship you have available as an alpha clone. Its 5000 m^3 Ore Hold allows it to store a significant amount of ore so that you don't have to return to a station to drop off your ore quite as often.
 
