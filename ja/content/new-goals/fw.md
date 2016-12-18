@@ -1,6 +1,6 @@
 +++ title = "Faction Warfare" toc = true date = "2016-11-18T18:56:39-08:00" weight = 1 prev = "/new-goals/exploration/" next = "/new-goals/fleet/" +++
 
-### What
+### って何？
 
 Faction Warfare involves PvP in the faction-contested lowsec regions. The four factions gain and lose territory as they fight, and participants earn rewards based on their efforts to help conquer territory for their faction.
 
