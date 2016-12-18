@@ -20,6 +20,6 @@ Your ship's safety systems will automatically prevent you from committing an ill
 
 Some gankers manipulate the criminal justice system in order to destroy their targets 'legally'. By dropping a cargo container and enticing your target to take it, you can get them to send themselves Suspect, allowing them to shoot you freely. Alternately, by deliberately going Suspect around a player who you've irritated, you may provoke them to shoot at you - allowing you to shoot them back in self-defense.
 
-### Why
+### なんで？
 
 Many players regard high-security space as safe, and will fly around in very fragile ships with a great deal of value in their cargo holds. Relieving them of this undeserved wealth can be a nice way to enrich yourself - and, if you're so inclined, to harvest some tears as well.
