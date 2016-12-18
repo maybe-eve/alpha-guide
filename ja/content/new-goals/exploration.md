@@ -2,19 +2,19 @@
 
 ### って何？
 
-Exploration involves using probes to scan down signatures to find relic and data sites, and then hacking the containers in those sites to obtain valuable loot. You can also find wormholes which connect to systems that are completely unreachable via normal stargates.
+探検は、プローブを使ってシグネチャをスキャンし、遺跡サイトやデータサイトを見つけ、そしてハッキングを使ってコンテナをこじ開け、価値の高い戦利品を手に入れる、という要素を含んでいます。 また、通常のスターゲート経由では決して到達できない星系に繋がっているワームホールも見つけることができます。
 
-### How
+### どうやって？
 
-Relic sites are the best source of reliable income from exploration - data sites tend to have fewer valuable items, though occasionally you may find a very valuable item such as a rare blueprint.
+遺跡サイトは、探検において一番安定した収入が得られる場所です - データサイトでは希少なブループリントなどのとても貴重なアイテムを見つけることもあるかもしれまんが、傾向としては、貴重なアイテムがある可能性は低いです。
 
-If you choose to pursue exploration, you'll want to use a ship with scanning and hacking bonuses, like the exploration frigates from each faction.
+もし探検を極めようと決めたならば、スキャンとハッキングにボーナスがある船、例えば国家ごとにそれぞれ存在している探検フリゲートを使いたくなるでしょう。
 
-The best relic sites are found in either nullsec or wormhole space, both of which are relatively dangerous areas of space but the potential payoff is large.
+最良の遺跡サイトはヌルセク領域やワームホール宙域で見つかります。どちらも比較的危険な場所ですが、得られるかもしれない利益は莫大です。
 
-{{% notice tip %}} Want to try wormhole exploration? See the [Your First Wormhole](/reference/wormholes/) page. {{% /notice %}}
+{{% notice tip %}} ワームホールを探検してみたいですか？ [はじめてのワームホール](/reference/wormholes/) のページを見てみてください。 {{% /notice %}}
 
-You can read more about exploration in the \[UniWiki 'Exploration' article\] (http://wiki.eveuniversity.org/Exploration), and more about wormholes in the [UniWiki 'Wormholes' article](http://wiki.eveuniversity.org/Wormholes). If exploring in dangerous space, you may also want to read up on how to [create safespot bookmarks](http://wiki.eveuniversity.org/Bookmarks#Safe_Spots) and use your [directional scanner](http://wiki.eveuniversity.org/Directional_Scanner_Guide).
+You can read more about exploration in the \[UniWiki 'Exploration' article\] (http://wiki.eveuniversity.org/Exploration), and more about wormholes in the [UniWiki 'Wormholes' article](http://wiki.eveuniversity.org/Wormholes). 危険な場所で探検をするならば、[セーフスポット・ブックマークを作る方法](http://wiki.eveuniversity.org/Bookmarks#Safe_Spots) や [ディレクショナルスキャナの使い方](http://wiki.eveuniversity.org/Directional_Scanner_Guide) も読みたくなるでしょう。
 
 If you're having trouble with the scanning interface, try looking through our [scanning guide](/reference/scanning/).
 
