@@ -4,7 +4,7 @@
 
 High-security space is as close to safe as EVE gets. However, it's not perfectly safe, and if you're willing to accept the consequences, you can prey on other players in this "safe" space, destroying their ships for fun and profit.
 
-### How
+### どうやって？
 
 In high-security space, CONCORD - the spacecops - will arrive to punish any criminal within seconds after they commit the act. There is no way to evade CONCORD's retribution; once you fire your weapons illegally, your ship *will* be destroyed moments later. Additionally, you will take a penalty to your "security status" (CONCORD's opinion of you), and if it gets low enough (starting at -2.0), you will be hunted by faction police when you enter high-security space. Security status is restored by destroying NPC pirates.
 
