@@ -1,6 +1,6 @@
-+++ title = "Exploration" toc = true date = "2016-11-18T18:56:39-08:00" weight = 1 prev = "/new-goals/" next = "/new-goals/fw/" +++
++++ title = "探検" toc = true date = "2016-11-18T18:56:39-08:00" weight = 1 prev = "/new-goals/" next = "/new-goals/fw/" +++
 
-### What
+### って何？
 
 Exploration involves using probes to scan down signatures to find relic and data sites, and then hacking the containers in those sites to obtain valuable loot. You can also find wormholes which connect to systems that are completely unreachable via normal stargates.
 
