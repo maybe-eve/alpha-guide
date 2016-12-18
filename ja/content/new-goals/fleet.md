@@ -14,6 +14,6 @@ There are also some groups which accept pilots from any corporation into their f
 
 Alternately, the group Red Vs. Blue holds arranged fleet battle in high-security space, and focuses on new-player-friendly ships and relatively fair fights, offering the large fleet battle experience without the commitment of living in null-security space.
 
-### Why
+### なんで？
 
 Large fleet battles are primarily driven by conflicts between player corporations and alliances. Conflicts can arise for a variety of reasons - desire to claim more territory and enjoy its resources, grudge matches over long-ago insults, mercenary contracts, or any of a countless number of others. By working together, you'll have the chance to make a lasting mark on the face of EVE.
