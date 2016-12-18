@@ -4,7 +4,7 @@
 
 Hunting NPC pirates ("rats") is PvE content, searching through space for hostiles and destroying them for bounties and loot.
 
-### How
+### どうやって？
 
 The primary places rats can be found are in asteroid belts and in Combat Anomalies. Combat Signatures can contain difficult sites full of tough rats as well, but those need a probe scanner to find, and thus require cooperation with an Explorer (or a scanning ship of your own).
 
