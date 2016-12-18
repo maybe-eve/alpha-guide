@@ -14,6 +14,6 @@ Region trading involves buying goods from a market in one region of the galaxy, 
 
 You can read more about trading in the [UniWiki 'Trading' article](http://wiki.eveuniversity.org/Trading).
 
-### Why
+### なんで？
 
 Some people really enjoy the careful planning and execution that goes into successful trading. Traders can also make large amounts of money if they're good at figuring out trends and staying ahead of the curve.
