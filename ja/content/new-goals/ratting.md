@@ -1,6 +1,6 @@
 +++ title = "Ratting" toc = true date = "2016-11-18T18:56:39-08:00" weight = 1 prev = "/new-goals/missions/" next = "/new-goals/salvaging/" +++
 
-### What
+### って何？
 
 Hunting NPC pirates ("rats") is PvE content, searching through space for hostiles and destroying them for bounties and loot.
 
