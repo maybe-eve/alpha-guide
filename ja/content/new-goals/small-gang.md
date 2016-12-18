@@ -4,7 +4,7 @@
 
 Small-Gang PvP is the practice of hopping in a ship, heading out with yourself and a few friends, and looking for trouble and the elusive "good fight".
 
-### How
+### どうやって？
 
 Get a ship and get out there!
 
