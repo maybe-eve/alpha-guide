@@ -1,6 +1,6 @@
 +++ title = "Fleet PvP" toc = true date = "2016-11-18T18:56:39-08:00" weight = 1 prev = "/new-goals/fw/" next = "/new-goals/ganking/" +++
 
-### What
+### って何？
 
 Fleet PvP involves flying together with potentially hundreds of other players, to meet fleets of other players on the field of battle and destroy them.
 
