@@ -1,6 +1,6 @@
 +++ title = "Trading" toc = true date = "2016-11-18T18:56:39-08:00" weight = 1 next = "/new-goals/something-else/" prev = "/new-goals/small-gang/" +++
 
-### What
+### って何？
 
 Buy low, sell high. EVE's economy is almost entirely player driven which means that there are plenty of ways to make money just by playing the market.
 
