@@ -4,7 +4,7 @@
 
 Fleet PvP involves flying together with potentially hundreds of other players, to meet fleets of other players on the field of battle and destroy them.
 
-### How
+### どうやって？
 
 Most large fleets are driven by battles between corporations. As such, taking place in a large fleet battle usually means being in one of the corporations involved.
 
