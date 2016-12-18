@@ -12,6 +12,6 @@ It's relatievly easy to sell the ore you mine, though the profits may be relativ
 
 You can read more about mining in the [UniWiki 'Mining' article](http://wiki.eveuniversity.org/Mining).
 
-### Why
+### なんで？
 
 Mining is probably the most sedate of all EVE income opportunities - once your mining lasers are activated on an asteroid, it's mostly just waiting for the raw ore to come streaming in. If you're mostly interested in socializing with other players, it can be a great activity to do while socializing.
