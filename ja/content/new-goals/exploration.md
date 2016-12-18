@@ -16,10 +16,10 @@
 
 You can read more about exploration in the \[UniWiki 'Exploration' article\] (http://wiki.eveuniversity.org/Exploration), and more about wormholes in the [UniWiki 'Wormholes' article](http://wiki.eveuniversity.org/Wormholes). 危険な場所で探検をするならば、[セーフスポット・ブックマークを作る方法](http://wiki.eveuniversity.org/Bookmarks#Safe_Spots) や [ディレクショナルスキャナの使い方](http://wiki.eveuniversity.org/Directional_Scanner_Guide) も読みたくなるでしょう。
 
-If you're having trouble with the scanning interface, try looking through our [scanning guide](/reference/scanning/).
+スキャンウィンドウの使い方がわからなくなってしまったら、 [スキャンガイド](/reference/scanning/) を読んで解決策を探してみてください。
 
-{{% notice info %}} You will notice that many exploration guides mention cloaking devices. Alpha clones aren't able to use cloaking devices, which means you will be a bit more vulnerable to attack. You'll need to pay attention to your surroundings to avoid getting ganked while scanning and hacking. {{% /notice %}}
+{{% notice info %}} 探検について調べていると、遮蔽装置について言及しているガイドがたくさんあることに気づくでしょう。 アルファクローンでは遮蔽装置を使うことができません。これは、遮蔽装置を使えるオメガクローンよりもちょっとだけプレイヤーの攻撃に弱い、ということを意味します。 スキャンやハッキングの最中に撃墜されないように、周囲の状況に気を配る必要があるでしょう。 {{% /notice %}}
 
-### Why
+### なんで？
 
-Exploration can be an excellent source of income, particularly if you're willing to brave the riskier areas of space such as nullsec and wormhole space. It's also very good income relative to the amount of training required, as even a new pilot with basic scanning and hacking skills in a t1 frigate can potentially get the same loot as a high-skilled pilot.
+探検は、特にあなたがヌルセクやワームホール宙域のような危険な地域に勇敢に進入していくことを厭わないならば、優れた収入源になるかもしれません。 また、必要なトレーニング量に比べて得られる収入が多いのも特長です。基本的なスキャンとハッキングのスキルしかなく、T1フリゲートに乗っている新人パイロットであっても、高スキルなパイロットが手に入れている戦利品と同じものを入手できるかもしれないのです。
