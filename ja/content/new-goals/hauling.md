@@ -1,6 +1,6 @@
 +++ title = "Hauling" toc = true date = "2016-11-18T18:56:39-08:00" weight = 1 prev = "/new-goals/ganking/" next = "/new-goals/mining/" +++
 
-### What
+### って何？
 
 The hauler's trade involves ferrying goods along the spacelanes of New Eden, whether raw materials to fuel the fires of industry, weapons, ammunition and ships to replace the losses of PvPers, or transporting underpriced goods to a location where they can be sold for a profit.
 
