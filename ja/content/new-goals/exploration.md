@@ -14,7 +14,7 @@
 
 {{% notice tip %}} ワームホールを探検してみたいですか？ [はじめてのワームホール](/reference/wormholes/) のページを見てみてください。 {{% /notice %}}
 
-You can read more about exploration in the \[UniWiki 'Exploration' article\] (http://wiki.eveuniversity.org/Exploration), and more about wormholes in the [UniWiki 'Wormholes' article](http://wiki.eveuniversity.org/Wormholes). 危険な場所で探検をするならば、[セーフスポット・ブックマークを作る方法](http://wiki.eveuniversity.org/Bookmarks#Safe_Spots) や [ディレクショナルスキャナの使い方](http://wiki.eveuniversity.org/Directional_Scanner_Guide) も読みたくなるでしょう。
+探検については \[EVE Online Japan Wiki の「探検」の記事\](http://eveonline-japanwiki.com/exploration) で、ワームホールについては \[EVE Online Japan Wiki の「Worm Hole」の記事\](http://eveonline-japanwiki.com/exploration/worm-hole) で、詳しく知ることができます。 危険な場所で探検をするならば、[セーフスポット・ブックマークを作る方法](http://wiki.eveuniversity.org/Bookmarks#Safe_Spots) や [ディレクショナルスキャナの使い方](http://wiki.eveuniversity.org/Directional_Scanner_Guide) も読みたくなるでしょう。
 
 スキャンウィンドウの使い方がわからなくなってしまったら、 [スキャンガイド](/reference/scanning/) を読んで解決策を探してみてください。
 
