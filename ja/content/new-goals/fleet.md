@@ -2,7 +2,7 @@
 
 ### って何？
 
-Fleet PvP involves flying together with potentially hundreds of other players, to meet fleets of other players on the field of battle and destroy them.
+Fleet PvP は、他の人々と、ひょっとすると何百人ものプレイヤーと一緒に船を飛ばし、他のプレイヤーのフリートと戦場で出会い、そして撃墜する、といったものです。
 
 ### どうやって？
 
