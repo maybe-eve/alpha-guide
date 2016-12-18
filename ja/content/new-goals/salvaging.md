@@ -1,6 +1,6 @@
 +++ title = "Salvaging" toc = true date = "2016-11-18T18:56:39-08:00" weight = 1 prev = "/new-goals/ratting/" next = "/new-goals/small-gang/" +++
 
-### What
+### って何？
 
 Salvaging is the practice of using a Salvager module to harvest wrecks, acquiring Salvage used to build rigs or be sold on the market.
 
