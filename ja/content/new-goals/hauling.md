@@ -4,7 +4,7 @@
 
 The hauler's trade involves ferrying goods along the spacelanes of New Eden, whether raw materials to fuel the fires of industry, weapons, ammunition and ships to replace the losses of PvPers, or transporting underpriced goods to a location where they can be sold for a profit.
 
-### How
+### どうやって？
 
 The primary tool of a hauler is the Industrial ship. These ships can haul tens or hundreds of times as much cargo as combat vessels, while being remarkably cheap themselves.
 
