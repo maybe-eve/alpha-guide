@@ -14,6 +14,6 @@ Asteroid belts are usually less lucrative, but (especially in nullsec) have the 
 
 As the dangers from hostile players in nullsec are extreme, taking full advantage of nullsec ratting will usually require joining a nullsec corporation, so that you can live in their space unmolested.
 
-### Why
+### なんで？
 
 Ratting can be a reliable moderate income stream, with occasional jackpots of faction modules that can sell for large sums of ISK.
