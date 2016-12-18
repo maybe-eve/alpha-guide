@@ -18,6 +18,6 @@ There are some corporations which have a hauling focus, the most notable being R
 
 {{% notice warning %}} As noted in the Ganking section, other players can attack you in high-security space. Your best defense against this is to be aware, be alert, and never use autopilot, as it will leave you vulnerable for long periods while flying to the gates. Your second-best defense is to carry little enough value in your hold, and mount strong enough defenses, that you're un-economical to attack. In an Industrial, a good rule of thumb is not to exceed 20 million ISK in value for each 10k EHP your ship has. {{% /notice %}}
 
-### Why
+### なんで？
 
 Hauling can provide a slow, but steady, stream of income while requiring a relatively small amount of player attention. Some also find it soothing to sail amongst the stars and watch the traffic of other players passing them by.
