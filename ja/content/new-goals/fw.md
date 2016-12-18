@@ -4,7 +4,7 @@
 
 Faction Warfare involves PvP in the faction-contested lowsec regions. The four factions gain and lose territory as they fight, and participants earn rewards based on their efforts to help conquer territory for their faction.
 
-### How
+### どうやって？
 
 If faction warfare PvP sounds interesting to you, read more about it in the [UniWiki 'Faction Warfare'](http://wiki.eveuniversity.org/Factional_Warfare) and [UniWiki 'FW strategy and tactics'](http://wiki.eveuniversity.org/Factional_Warfare_strategy_and_tactics) guides.
 
