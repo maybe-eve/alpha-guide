@@ -4,7 +4,7 @@
 
 Salvaging is the practice of using a Salvager module to harvest wrecks, acquiring Salvage used to build rigs or be sold on the market.
 
-### How
+### どうやって？
 
 The Salvager and Tractor Beam modules that are the tools of the salvager's trade require a free highslot. As such, destroyers, with their copious high slots, are the typical ships of a salvage pilot.
 
