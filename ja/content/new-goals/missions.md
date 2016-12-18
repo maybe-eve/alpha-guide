@@ -25,7 +25,7 @@ Once you've received a mission from an agent, you can look it up in the [EVE-Sur
 
 You can see the icon for the type of enemies the mission will send you to fight in the Mission Objectives. You can decline one mission per four hours from a given agent without penalty, and receive a new one in its place; declining frequently will carry a standings penalty with the mission issuer. If you need to decline more frequently, consider finding another nearby agent and doing missions for them while you wait.
 
-### Why
+### なんで？
 
 Mission running produces a fairly steady stream of ISK - the mission rewards will pay out a certain amount, plus you'll also be paid the bounties for any hostile NPCs you killed.
 
