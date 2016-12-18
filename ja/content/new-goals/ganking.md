@@ -1,6 +1,6 @@
 +++ title = "Ganking" toc = true date = "2016-11-18T18:56:39-08:00" weight = 1 prev = "/new-goals/fleet/" next = "/new-goals/hauling/" +++
 
-### What
+### って何？
 
 High-security space is as close to safe as EVE gets. However, it's not perfectly safe, and if you're willing to accept the consequences, you can prey on other players in this "safe" space, destroying their ships for fun and profit.
 
