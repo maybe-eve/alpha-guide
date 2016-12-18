@@ -4,7 +4,7 @@
 
 Buy low, sell high. EVE's economy is almost entirely player driven which means that there are plenty of ways to make money just by playing the market.
 
-### How
+### どうやって？
 
 There are two main types of trading: station trading and region trading.
 
