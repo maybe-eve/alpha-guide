@@ -1,6 +1,6 @@
 +++ title = "Mining" toc = true date = "2016-11-18T18:56:39-08:00" weight = 1 prev = "/new-goals/hauling/" next = "/new-goals/missions/" +++
 
-### What
+### って何？
 
 Mining involves harvesting resources from asteroids, either in asteroid belts or special mining signatures located via scanning.
 
