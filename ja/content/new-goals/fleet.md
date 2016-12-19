@@ -10,10 +10,10 @@
 
 新人カプセラを積極的に受け入れ、大規模な戦闘を追い求めていることで有名なコーポレーションは Brave Newbies と Pandemic Horde です。(訳者注: 英語圏のコープです) そのような戦闘にはニューエデン中のたくさん、とてもたくさんのコープが参加しています。おそらく、領有権を持っているヌルセクアライアンスに所属しているコープを探すのが一番よいでしょう。
 
-プレイヤー集団のうちいくつかは、彼らのフリートに他のどのコーポレーションのパイロットでも参加することを認めています。そして、自分たちの利益のために戦略的な目標を達成しようとするわけではなく、むしろ戦闘を楽しむために、出会った他の集団に対して無差別に喧嘩を吹きかけています。 (このようなフリートは英語の「Not Purple, Shoot It」 の頭文字を取って「NPSI」フリートと呼ばれていて、これは日本語で言えば「同じフリートでないプレイヤーは全員標的にする」という意味です。) The best-known of these is Spectre Fleet, but others certainly exist.
+プレイヤー集団のうちいくつかは、彼らのフリートに他のどのコーポレーションのパイロットでも参加することを認めています。そして、自分たちの利益のために戦略的な目標を達成しようとするわけではなく、むしろ戦闘を楽しむために、出会った他の集団に対して無差別に喧嘩を吹きかけています。 (このようなフリートは英語の「Not Purple, Shoot It」 の頭文字を取って「NPSI」フリートと呼ばれていて、これは日本語で言えば「同じフリートでないプレイヤーは全員標的にする」という意味です。) 一番有名なものは Spectre Fleet ですが、同じようなことをしている他の集団も確かに存在しています。
 
-Alternately, the group Red Vs. Blue holds arranged fleet battle in high-security space, and focuses on new-player-friendly ships and relatively fair fights, offering the large fleet battle experience without the commitment of living in null-security space.
+また、「Red Vs. Blue」という集団はハイセク領域においてフリート戦を編成・開催していて、新人プレイヤーでも扱いやすい船を使うことと、比較的公平な戦いをすることに重点を置いています。これによって、ヌルセク領域で生活しなくても、大規模なフリート戦闘を楽しむことができます。
 
 ### なんで？
 
-Large fleet battles are primarily driven by conflicts between player corporations and alliances. Conflicts can arise for a variety of reasons - desire to claim more territory and enjoy its resources, grudge matches over long-ago insults, mercenary contracts, or any of a countless number of others. By working together, you'll have the chance to make a lasting mark on the face of EVE.
+大規模なフリート戦は主にプレイヤーが運営するコーポレーションやアライアンス同士の衝突によって引き起こされています。 Conflicts can arise for a variety of reasons - desire to claim more territory and enjoy its resources, grudge matches over long-ago insults, mercenary contracts, or any of a countless number of others. By working together, you'll have the chance to make a lasting mark on the face of EVE.
