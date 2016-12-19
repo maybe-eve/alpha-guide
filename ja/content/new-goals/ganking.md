@@ -22,4 +22,4 @@ Some gankers manipulate the criminal justice system in order to destroy their ta
 
 ### なんで？
 
-Many players regard high-security space as safe, and will fly around in very fragile ships with a great deal of value in their cargo holds. Relieving them of this undeserved wealth can be a nice way to enrich yourself - and, if you're so inclined, to harvest some tears as well.
+多くのプレイヤーはハイセク領域は安全だと思い込んでいて、とても防御の弱い船のカーゴホールドにとても高価なアイテムを積んで航行していたりします。 そんな富は彼らにはもったいないと教えてあげて、そしてあなたのものにし、なんなら彼らの涙も"収穫"してしまいましょう。
