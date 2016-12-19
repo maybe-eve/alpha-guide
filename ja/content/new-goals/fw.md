@@ -1,8 +1,8 @@
-+++ title = "Faction Warfare" toc = true date = "2016-11-18T18:56:39-08:00" weight = 1 prev = "/new-goals/exploration/" next = "/new-goals/fleet/" +++
++++ title = "国家間戦争" toc = true date = "2016-11-18T18:56:39-08:00" weight = 1 prev = "/new-goals/exploration/" next = "/new-goals/fleet/" +++
 
 ### って何？
 
-Faction Warfare involves PvP in the faction-contested lowsec regions. The four factions gain and lose territory as they fight, and participants earn rewards based on their efforts to help conquer territory for their faction.
+国家間戦争では、国家間で支配権が揺れ動くローセク領域で、PvPに参加することになります。 The four factions gain and lose territory as they fight, and participants earn rewards based on their efforts to help conquer territory for their faction.
 
 ### どうやって？
 
