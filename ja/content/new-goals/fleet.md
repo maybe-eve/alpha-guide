@@ -16,4 +16,4 @@
 
 ### なんで？
 
-大規模なフリート戦は主にプレイヤーが運営するコーポレーションやアライアンス同士の衝突によって引き起こされています。 Conflicts can arise for a variety of reasons - desire to claim more territory and enjoy its resources, grudge matches over long-ago insults, mercenary contracts, or any of a countless number of others. By working together, you'll have the chance to make a lasting mark on the face of EVE.
+大規模なフリート戦は主にプレイヤーが運営するコーポレーションやアライアンス同士の衝突によって引き起こされています。 衝突はいろいろな理由で起こります - より多くの領土の支配権を握り、豊かな資源を満喫したいという欲望のため、昔受けた屈辱に対する恨みを晴らすため、傭兵として戦う契約を受けたから……他にも数えきれないほどたくさんの理由があります。 彼らと一緒に戦うことによって、あなたの名をEVE宇宙に轟かせるきっかけが生まれるでしょう。
