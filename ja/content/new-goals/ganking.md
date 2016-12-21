@@ -8,7 +8,7 @@
 
 ハイセク領域で犯罪行為をすると例外なく、CONCORD - つまり宇宙警察 - が数秒とせずにやってきて、犯罪者を処罰します。 CONCORDの処罰を免れる方法はありません。つまり、違法な攻撃を行ってしまったが最後、少し経った後にあなたの船は*必ず*破壊されてしまうことでしょう。 それだけではなく、あなたの「セキュリティステータス」(CONCORDからのあなたの評価)が下がってしまうことになります。そしてこれが下がりすぎてしまったら、ハイセク領域に進入するや否や国家所属の警察に追われることになってしまうでしょう(これは -2.0 以下になってから起こります)。 その際は、NPC海賊を撃墜することで、セキュリティステータスを回復することができます。
 
-As such, the main art of "suicide ganking" is finding a way to ensure your target is destroyed before CONCORD has a chance to arrive, and to do it economically enough to permit yourself a chance at profit.
+そういうわけで、「カミカゼ」という襲撃術のキモとなるのが、CONCORDが到着する前に標的を撃墜できるようにする、そして利益を出すためになるべく安い出費で成し遂げる、その方法を追求することです。
 
 The usual tools of the ganker are a destroyer, or possibly a cruiser, fit for the maximum damage output possible in the shortest period of time, and with the cheapest equipment that allows that.
 
