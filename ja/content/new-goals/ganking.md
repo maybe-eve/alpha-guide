@@ -6,7 +6,7 @@
 
 ### どうやって？
 
-ハイセク領域で犯罪行為をすると例外なく、CONCORD - つまり宇宙警察 - が数秒とせずにやってきて、犯罪者を処罰します。 CONCORDの処罰を免れる方法はありません。つまり、違法な攻撃を行ってしまったが最後、少し経った後にあなたの船は*必ず*破壊されてしまうことでしょう。 Additionally, you will take a penalty to your "security status" (CONCORD's opinion of you), and if it gets low enough (starting at -2.0), you will be hunted by faction police when you enter high-security space. Security status is restored by destroying NPC pirates.
+ハイセク領域で犯罪行為をすると例外なく、CONCORD - つまり宇宙警察 - が数秒とせずにやってきて、犯罪者を処罰します。 CONCORDの処罰を免れる方法はありません。つまり、違法な攻撃を行ってしまったが最後、少し経った後にあなたの船は*必ず*破壊されてしまうことでしょう。 それだけではなく、あなたの「セキュリティステータス」(CONCORDからのあなたの評価)が下がってしまうことになります。そしてこれが下がりすぎてしまったら、ハイセク領域に進入するや否や国家所属の警察に追われることになってしまうでしょう(これは -2.0 以下になってから起こります)。 その際は、NPC海賊を撃墜することで、セキュリティステータスを回復することができます。
 
 As such, the main art of "suicide ganking" is finding a way to ensure your target is destroyed before CONCORD has a chance to arrive, and to do it economically enough to permit yourself a chance at profit.
 
