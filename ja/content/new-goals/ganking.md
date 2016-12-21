@@ -10,7 +10,7 @@
 
 そういうわけで、「カミカゼ」という襲撃術のキモとなるのが、CONCORDが到着する前に標的を撃墜できるようにする、そして利益を出すためになるべく安い出費で成し遂げる、その方法を追求することです。
 
-The usual tools of the ganker are a destroyer, or possibly a cruiser, fit for the maximum damage output possible in the shortest period of time, and with the cheapest equipment that allows that.
+海賊たちがよく使うのは駆逐艦で、巡洋艦を使うこともあります。そして、可能な限り短い時間で可能な限り高いダメージを出せる、最も安い装備をFITしています。
 
 Additionally, it is common to work with a friend or two: hang out on major trade routes, with a friend a jump or two ahead using a `Cargo Scanner` on ships to find targets carrying items of value, then another friend on standby to scoop the items from their wreck after they (and you) are destroyed.
 
