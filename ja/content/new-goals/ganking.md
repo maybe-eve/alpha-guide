@@ -10,11 +10,11 @@
 
 そういうわけで、「カミカゼ」という襲撃術のキモとなるのが、CONCORDが到着する前に標的を撃墜できるようにする、そして利益を出すためになるべく安い出費で成し遂げる、その方法を追求することです。
 
-海賊たちがよく使うのは駆逐艦で、巡洋艦を使うこともあります。そして、可能な限り短い時間で可能な限り高いダメージを出せる、最も安い装備をFITしています。
+海賊行為によく使われるのは駆逐艦で、巡洋艦が使われることもあります。そして、可能な限り短い時間で可能な限り高いダメージを出せる、最も安い装備をFITするようにします。
 
-それに加えて、何人かの仲間と一緒に行うとよいでしょう: `カーゴスキャナー`を装備した仲間に1か2ジャンプ先に行ってもらい、高価な荷物を積んでいる船を探してもらいながら、主要な交易航路をぶらぶらします。そして、目標 (とあなた) が撃墜された後、別の仲間に残骸からアイテムを回収してもらいます。
+それに加えて、何人かの仲間と一緒に行うとよいでしょう: `カーゴスキャナー`を装備した仲間に1か2ジャンプ先に行ってもらい、高価な荷物を積んでいる船を探してもらいながら、主要な交易航路を巡回します。そして、目標 (とあなた) が撃墜された後、別の仲間に残骸からアイテムを回収してもらいます。
 
-CONCORD responds more slowly in systems of lower security status, and for that reason most suicide ganks are carried out in systems of 0.5 and 0.6 security. In these systems, the highest raw damage-per-second is preferable; in very high-security systems, the "alpha-strike" damage of a single shot is often more relevant.
+CONCORDはセキュリティステータスが低い星系では反応が遅くなります。このために、ほとんどのカミカゼ行為はセキュリティステータス 0.5 か 0.6 の星系で行われています。 In these systems, the highest raw damage-per-second is preferable; in very high-security systems, the "alpha-strike" damage of a single shot is often more relevant.
 
 Your ship's safety systems will automatically prevent you from committing an illegal act. To disable them, click on the colored dot to the upper left of your health/capacitor readout. "Disable Safety" will allow you to commit any act, including those that invite CONCORD retribution. "Partial Safety" prevents you from doing anything that draws CONCORD's wrath, but permits you to become a "suspect" via lesser crimes such as looting another player's wreck, temporarily allowing other players to shoot you without CONCORD interference but not provoking CONCORD themselves.
 
