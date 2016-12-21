@@ -2,11 +2,11 @@
 
 ### って何？
 
-ハイセク領域はEVEの中では一番安全に近い場所です。 However, it's not perfectly safe, and if you're willing to accept the consequences, you can prey on other players in this "safe" space, destroying their ships for fun and profit.
+ハイセク領域はEVEの中では一番安全に近い場所です。 しかしながら、完全に安全なわけではありません。そして、あなたが相応の処罰を受け入れるならば、この「安全」な場所で他のプレイヤーを食い物にし、楽しみや利益のために彼らの船を撃墜してしまうこともできるのです。
 
 ### どうやって？
 
-In high-security space, CONCORD - the spacecops - will arrive to punish any criminal within seconds after they commit the act. There is no way to evade CONCORD's retribution; once you fire your weapons illegally, your ship *will* be destroyed moments later. Additionally, you will take a penalty to your "security status" (CONCORD's opinion of you), and if it gets low enough (starting at -2.0), you will be hunted by faction police when you enter high-security space. Security status is restored by destroying NPC pirates.
+ハイセク領域で犯罪行為をすると例外なく、CONCORD - つまり宇宙警察 - が数秒とせずにやってきて、犯罪者を処罰します。 CONCORDの処罰を免れる方法はありません。つまり、違法な攻撃を行ってしまったが最後、少し経った後にあなたの船は*必ず*破壊されてしまうことでしょう。 Additionally, you will take a penalty to your "security status" (CONCORD's opinion of you), and if it gets low enough (starting at -2.0), you will be hunted by faction police when you enter high-security space. Security status is restored by destroying NPC pirates.
 
 As such, the main art of "suicide ganking" is finding a way to ensure your target is destroyed before CONCORD has a chance to arrive, and to do it economically enough to permit yourself a chance at profit.
 
