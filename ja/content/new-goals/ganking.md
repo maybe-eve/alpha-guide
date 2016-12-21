@@ -12,7 +12,7 @@
 
 海賊たちがよく使うのは駆逐艦で、巡洋艦を使うこともあります。そして、可能な限り短い時間で可能な限り高いダメージを出せる、最も安い装備をFITしています。
 
-Additionally, it is common to work with a friend or two: hang out on major trade routes, with a friend a jump or two ahead using a `Cargo Scanner` on ships to find targets carrying items of value, then another friend on standby to scoop the items from their wreck after they (and you) are destroyed.
+それに加えて、何人かの仲間と一緒に行うとよいでしょう: `カーゴスキャナー`を装備した仲間に1か2ジャンプ先に行ってもらい、高価な荷物を積んでいる船を探してもらいながら、主要な交易航路をぶらぶらします。そして、目標 (とあなた) が撃墜された後、別の仲間に残骸からアイテムを回収してもらいます。
 
 CONCORD responds more slowly in systems of lower security status, and for that reason most suicide ganks are carried out in systems of 0.5 and 0.6 security. In these systems, the highest raw damage-per-second is preferable; in very high-security systems, the "alpha-strike" damage of a single shot is often more relevant.
 
