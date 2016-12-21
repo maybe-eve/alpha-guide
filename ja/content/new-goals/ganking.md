@@ -12,13 +12,13 @@
 
 海賊行為によく使われるのは駆逐艦で、巡洋艦が使われることもあります。そして、可能な限り短い時間で可能な限り高いダメージを出せる、最も安い装備をFITするようにします。
 
-それに加えて、何人かの仲間と一緒に行うとよいでしょう: `カーゴスキャナー`を装備した仲間に1か2ジャンプ先に行ってもらい、高価な荷物を積んでいる船を探してもらいながら、主要な交易航路を巡回します。そして、目標 (とあなた) が撃墜された後、別の仲間に残骸からアイテムを回収してもらいます。
+それに加えて、何人かの仲間と一緒に行うとよいでしょう: 例えば、`カーゴスキャナー`を装備した仲間に1か2ジャンプ先に行ってもらい、高価な荷物を積んでいる船を探してもらいながら、主要な交易航路を巡回します。そして、目標 (とあなた) が撃墜された後、別の仲間に残骸からアイテムを回収してもらいます。
 
 CONCORDはセキュリティステータスが低い星系では反応が遅くなります。このために、ほとんどのカミカゼ行為はセキュリティステータス 0.5 か 0.6 の星系で行われています。 これらの星系では、純粋なDPSが重視されます。セキュリティステータスがとても高いシステムでは、一回の斉射での「アルファ・ストライク (訳者注: 全力での瞬間最大火力を指す。アルファダメージやボレーとも)」ダメージの方が多くの場合重視されます。
 
-あなたの船に搭載されているセーフティ・システムは、違法行為を働こうとした際に自動的に作動して実行を防げます。 これを無効化するには、残存耐久力/キャパシタ量ゲージの左上にある色付きの点をクリックします 「セーフティ無効」に設定すると、CONCORDの報復を受けるようなものも含むいかなる犯罪行為も行うことができるようになります。 "Partial Safety" prevents you from doing anything that draws CONCORD's wrath, but permits you to become a "suspect" via lesser crimes such as looting another player's wreck, temporarily allowing other players to shoot you without CONCORD interference but not provoking CONCORD themselves.
+あなたの船に搭載されているセーフティ・システムは、違法行為を働こうとした際に自動的に作動して実行を防げます。 これを無効化するには、残存耐久力/キャパシタ量ゲージの左上にある色付きの点をクリックします 「セーフティ無効」に設定すると、CONCORDの報復を受けるようなものも含むいかなる犯罪行為も行うことができるようになります。 「セーフティ部分有効」に設定すると、CONCORDのお怒りを招くような行為は防止されますが、他のプレイヤーの残骸を盗むなどの軽い違法行為はできるようになります。その際は「容疑者」として扱われ、周囲のプレイヤーは一時的にCONCORDを怒らせることなく、ただしCONCORDの援護もなく、あなたを撃つことができるようになります。
 
-Some gankers manipulate the criminal justice system in order to destroy their targets 'legally'. By dropping a cargo container and enticing your target to take it, you can get them to send themselves Suspect, allowing them to shoot you freely. Alternately, by deliberately going Suspect around a player who you've irritated, you may provoke them to shoot at you - allowing you to shoot them back in self-defense.
+海賊プレイヤーの一部は、標的を「合法的に」撃墜するために、この対犯罪制度の穴を突きます。 カーゴコンテナを放出し、標的がそれを回収するように仕向けることで、彼らを「容疑者」にさせることができ、これによって自由に撃てるようになります。 Alternately, by deliberately going Suspect around a player who you've irritated, you may provoke them to shoot at you - allowing you to shoot them back in self-defense.
 
 ### なんで？
 
