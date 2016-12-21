@@ -1,8 +1,8 @@
-+++ title = "Ganking" toc = true date = "2016-11-18T18:56:39-08:00" weight = 1 prev = "/new-goals/fleet/" next = "/new-goals/hauling/" +++
++++ title = "海賊" toc = true date = "2016-11-18T18:56:39-08:00" weight = 1 prev = "/new-goals/fleet/" next = "/new-goals/hauling/" +++
 
 ### って何？
 
-High-security space is as close to safe as EVE gets. However, it's not perfectly safe, and if you're willing to accept the consequences, you can prey on other players in this "safe" space, destroying their ships for fun and profit.
+ハイセク領域はEVEの中では一番安全に近い場所です。 However, it's not perfectly safe, and if you're willing to accept the consequences, you can prey on other players in this "safe" space, destroying their ships for fun and profit.
 
 ### どうやって？
 
