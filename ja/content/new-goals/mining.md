@@ -10,8 +10,8 @@
 
 ハイセクでの採掘による収入は比較的低いですが、採掘した鉱石を売るのはかなり簡単です。 ローセク地域での採掘は収入は上がりますが、他のプレイヤーが頻繁に攻撃を試みてくるので、同時に被撃墜のリスクも上がります。
 
-You can read more about mining in the [UniWiki 'Mining' article](http://wiki.eveuniversity.org/Mining).
+採掘について詳しくは、 \[B-OSP Wikiの「鉱石の採掘」のページ\](http://seesaawiki.jp/eveonline_b-osp_wiki/d/%B9%DB%C0%D0%A4%CE%BA%CE%B7%A1) を見てみてください。
 
 ### なんで？
 
-Mining is probably the most sedate of all EVE income opportunities - once your mining lasers are activated on an asteroid, it's mostly just waiting for the raw ore to come streaming in. If you're mostly interested in socializing with other players, it can be a great activity to do while socializing.
+採掘はおそらく、EVEでの収入源の中では最も落ち着いて作業できるものでしょう - 採掘レーザーをアステロイドに向かって起動したら、残りのほとんどの時間は鉱石がどんどんカーゴに入ってくるのを待つだけです。 もし他のプレイヤーと親交を深めるのに一番興味があるなら、チャットの最中にやるのに最も適した仕事となるでしょう。
