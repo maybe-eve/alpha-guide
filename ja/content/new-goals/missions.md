@@ -8,7 +8,7 @@
 
 もしミッション回しを主な収入源として暮らしていくならば、特定のNPCコープからのスタンディングを上げ、より高い地位のミッションエージェント (より難しいミッションとより高い報酬をくれます) に接触できるようになりたくなるでしょう。 `ソーシャル` と `コネクション` のスキルを鍛えることで、そのような高位のミッションをより早くもらえるようになります。
 
-In order to tackle these harder missions you'll also want to continue upgrading to larger classes of ships such as cruisers and battlecruisers. In general, you'll want:
+これらのより難しいミッションに取り組むためには、船を巡洋艦や巡洋戦艦といったもっと大きな艦種に乗り換えていきたくなるでしょう。 一般的に必要なのは:
 
 - レベル1ミッション: フリゲートもしくは駆逐艦
 - レベル2ミッション: 駆逐艦もしくは巡洋艦
