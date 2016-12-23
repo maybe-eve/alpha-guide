@@ -1,12 +1,12 @@
-+++ title = "Mission Running" toc = true date = "2016-11-18T18:56:39-08:00" weight = 1 prev = "/new-goals/mining/" next = "/new-goals/ratting/" +++
++++ title = "ミッション回し" toc = true date = "2016-11-18T18:56:39-08:00" weight = 1 prev = "/new-goals/mining/" next = "/new-goals/ratting/" +++
 
 ### って何？
 
-Mission running is PvE content: getting missions from NPC agents and then completing them for the mission rewards and the bounties from any hostile NPCs you destroy along the way.
+ミッションはPvEコンテンツです: NPCエージェントからミッションを受諾し、完了して報酬をもらい、そしてそのなかで撃墜した敵性 NPC にかかっていた懸賞金も手に入れます。
 
 ### どうやって？
 
-If you decide to pursue mission running as a source of income, you'll want to build up standing with a particular NPC corporation in order to get access to higher tiers of mission agents (which can then give you harder missions with better rewards). Training the skills `Social` and `Connections` will grant you quicker access to higher-level missions.
+もしミッション回しを主な収入源として暮らしていくならば、特定のNPCコープからのスタンディングを上げ、より高い地位のミッションエージェント (より難しいミッションとより高い報酬をくれます) に接触できるようになりたくなるでしょう。 `ソーシャル` と `コネクション` のスキルを鍛えることで、そのような高位のミッションをより早くもらえるようになります。
 
 In order to tackle these harder missions you'll also want to continue upgrading to larger classes of ships such as cruisers and battlecruisers. In general, you'll want:
 
