@@ -16,7 +16,7 @@
 
 いくつかのコーポレーションは輸送を活動の中心に据えています。そのなかでもっとも注目すべきなのは Red Frog Freight と Push Industries です。 輸送契約の多くは公開契約として発注されるのではなく、輸送専門コープに直接発注されています。そういうわけで、もしあなたが宇宙運送業界で生きていきたいのならば、そのようなコープに所属することを検討してみましょう。
 
-{{% notice warning %}} 「海賊」の節で記したように、ハイセク領域でも他のプレイヤーに攻撃されることがあります。 Your best defense against this is to be aware, be alert, and never use autopilot, as it will leave you vulnerable for long periods while flying to the gates. Your second-best defense is to carry little enough value in your hold, and mount strong enough defenses, that you're un-economical to attack. In an Industrial, a good rule of thumb is not to exceed 20 million ISK in value for each 10k EHP your ship has. {{% /notice %}}
+{{% notice warning %}} 「海賊」の節で記したように、ハイセク領域でも他のプレイヤーに攻撃されることがあります。 これに対する最善の防御策は、注意・情報収集・そしてオートパイロットを決して使わないことです。オートパイロットを使うと、ゲートに移動する際に長い時間無防備な状態になってしまいます。 それに次ぐ防御策は、十分低い価値の貨物を積み、そして十分強力な防御を積むことで、カミカゼするのにかかるコストと見合わなくさせることです。 In an Industrial, a good rule of thumb is not to exceed 20 million ISK in value for each 10k EHP your ship has. {{% /notice %}}
 
 ### なんで？
 
