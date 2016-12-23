@@ -15,7 +15,7 @@
 - レベル3ミッション: 巡洋艦もしくは巡洋戦艦
 - レベル4ミッション: 適切にFITした巡洋戦艦
 
-{{% notice note %}} The only battlecruiser that alpha clones can use is the `Gnosis`. {{% /notice %}}
+{{% notice note %}} アルファクローンで使える唯一の巡洋戦艦は `グノーシス` です。 {{% /notice %}}
 
 You can read more on the [UniWiki 'Missions' page](http://wiki.eveuniversity.org/Missions).
 
