@@ -8,11 +8,11 @@
 
 輸送業者が主に使う船は輸送艦です。 これらの船は、戦闘用の船の何十倍・何百倍もの量の貨物を運ぶことができ、しかも非常に安価なのが特長です。
 
-If looking to be a trucker-for-hire, you'll want to look primarily at Courier contracts. 他のプレイヤーは自分の船やモジュールや弾薬をすべて自分で運ぶくらいなら、そういった資産を別の場所に運んでくれる人に報酬を支払うでしょう。
+もしあなたが雇われトラック運転手になりたいなら、主に輸送契約を探して受領したくなることでしょう。 他のプレイヤーは自分の船やモジュールや弾薬をすべて自分で運ぶよりは、むしろ報酬を支払って運んでもらおうとすることがあるのです。
 
-輸送契約を受領した時、担保としていくらかISKを払う必要があります。 That ISK will be returned to you when you complete the contract, but if you fail to complete it for any reason (such as the loss of your ship and the package), the collateral will be forfeit. You can peek inside the packages you're transporting to see what's inside - if it's worth more than the collateral, you can simply keep the package yourself, forfeiting the collateral but gaining their goods.
+輸送契約を受領した時、担保としていくらかISKを払う必要があります。 担保は契約を完了したときに返却されますが、何らかの理由(例えば船を撃墜され荷物を失ってしまったとき)で失敗した場合、没収されてしまいます。 また、輸送する荷物の中身をのぞき見ることもできます - もしそれが担保より高値で売れそうならば、荷物を手元においたまま契約を放棄し、担保と引き換えに中身を頂いてしまってもよいのです。
 
-Finding a good courier contract can often be tough - there's a lot of other haulers out there, and many of the contracts available at any times are the ones other haulers have already declined to take, often due to poor rewards for the time and risk investment. Additionally, some courier contracts are, in essence, traps, requiring you to move through low-security space where you can be attacked freely, or requiring you to deliver things to a station where you cannot dock, forcing you to fail the contract and forfeit your collateral.
+条件のいい輸送契約を探すのは大変な場合が多いです - 他にも輸送業者はたくさんいますし、受領可能な契約一覧はそういった先客が受領を拒否したものでいつも溢れかえっています。そのような契約は時間やリスクに対して報酬が少なすぎるのです。 Additionally, some courier contracts are, in essence, traps, requiring you to move through low-security space where you can be attacked freely, or requiring you to deliver things to a station where you cannot dock, forcing you to fail the contract and forfeit your collateral.
 
 There are some corporations which have a hauling focus, the most notable being Red Frog Freight and Push Industries. Many courier contracts are issued directly to the hauling corporations rather than through public contracts, so if space trucking is your thing, you may want to look into joining one of these groups.
 
