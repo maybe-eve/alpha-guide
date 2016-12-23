@@ -8,7 +8,7 @@
 
 輸送業者が主に使う船は輸送艦です。 これらの船は、戦闘用の船の何十倍・何百倍もの大きさの貨物を運ぶことができ、しかも非常に安価なのが特長です。
 
-もしあなたが雇われトラック運転手になりたいなら、真っ先に輸送契約を見てみたくなるはずです。 Other players can offer payment to those willing to relocate their goods, rather than moving every ship, module and piece of ammo themselves.
+もしあなたが雇われトラック運転手になりたいなら、真っ先に輸送契約を見てみたくなるはずです。 他のプレイヤーは自分の船やモジュールや弾薬をすべて自分で運ぶくらいなら、そういった資産を別の場所に運んでくれる人に報酬を支払うでしょう。
 
 When accepting a courier contract, you'll have to provide some ISK as collateral. That ISK will be returned to you when you complete the contract, but if you fail to complete it for any reason (such as the loss of your ship and the package), the collateral will be forfeit. You can peek inside the packages you're transporting to see what's inside - if it's worth more than the collateral, you can simply keep the package yourself, forfeiting the collateral but gaining their goods.
 
