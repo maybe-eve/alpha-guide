@@ -10,10 +10,10 @@
 
 In order to tackle these harder missions you'll also want to continue upgrading to larger classes of ships such as cruisers and battlecruisers. In general, you'll want:
 
-- Frigates/destroyers for Level 1 missions
-- Destroyers/cruisers for Level 2 missions
-- Cruisers/battlecruisers for Level 3 missions
-- A well-fit battlecruiser for Level 4 missions
+- レベル1ミッション: フリゲートもしくは駆逐艦
+- レベル2ミッション: 駆逐艦もしくは巡洋艦
+- レベル3ミッション: 巡洋艦もしくは巡洋戦艦
+- レベル4ミッション: 適切にFITした巡洋戦艦
 
 {{% notice note %}} The only battlecruiser that alpha clones can use is the `Gnosis`. {{% /notice %}}
 
