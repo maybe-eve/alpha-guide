@@ -16,8 +16,8 @@
 
 いくつかのコーポレーションは輸送を活動の中心に据えています。そのなかでもっとも注目すべきなのは Red Frog Freight と Push Industries です。 輸送契約の多くは公開契約として発注されるのではなく、輸送専門コープに直接発注されています。そういうわけで、もしあなたが宇宙運送業界で生きていきたいのならば、そのようなコープに所属することを検討してみましょう。
 
-{{% notice warning %}} 「海賊」の節で記したように、ハイセク領域でも他のプレイヤーに攻撃されることがあります。 これに対する最善の防御策は、注意・情報収集・そしてオートパイロットを決して使わないことです。オートパイロットを使うと、ゲートに移動する際に長い時間無防備な状態になってしまいます。 それに次ぐ防御策は、十分低い価値の貨物を積み、そして十分強力な防御を積むことで、カミカゼするのにかかるコストと見合わなくさせることです。 In an Industrial, a good rule of thumb is not to exceed 20 million ISK in value for each 10k EHP your ship has. {{% /notice %}}
+{{% notice warning %}} 「海賊」の節で記したように、ハイセク領域でも他のプレイヤーに攻撃されることがあります。 これに対する最善の防御策は、注意・情報収集・そしてオートパイロットを決して使わないことです。オートパイロットを使うと、ゲートに移動する際に長い時間無防備な状態になってしまいます。 それに次ぐ防御策は、十分低い価値の貨物を積み、そして十分強力な防御を積むことで、カミカゼするのにかかるコストと見合わなくさせることです。 経験則としては、積む貨物の価格は、輸送艦の耐久力1万EHP (耐性まで考慮した有効HP) ごとに2000万ISKを超えないようにするとよいでしょう。 {{% /notice %}}
 
 ### なんで？
 
-Hauling can provide a slow, but steady, stream of income while requiring a relatively small amount of player attention. Some also find it soothing to sail amongst the stars and watch the traffic of other players passing them by.
+輸送では、他の職業に比べて作業中にそこまで注意を払わなくてよく、控えめながらも安定した収入を得ることができます。 また、星々を渡り歩き、通りかかった他のプレイヤーが自分の船を走らせていく様を見守るのも、心地良いと感じるかもしれません。
