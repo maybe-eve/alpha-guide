@@ -2,13 +2,13 @@
 
 ### って何？
 
-The hauler's trade involves ferrying goods along the spacelanes of New Eden, whether raw materials to fuel the fires of industry, weapons, ammunition and ships to replace the losses of PvPers, or transporting underpriced goods to a location where they can be sold for a profit.
+輸送業者は、ニューエデンに広がる航路に沿って商品を運び、交易をします。それは産業を動かすのに欠かせない原料を供給するためであったり、PvPプレイヤーに武器・弾薬・船を補給するためだったり、叩き売りされている商品を高く売れる場所に搬送して利益を得るためだったりします。
 
 ### どうやって？
 
-The primary tool of a hauler is the Industrial ship. These ships can haul tens or hundreds of times as much cargo as combat vessels, while being remarkably cheap themselves.
+輸送業者が主に使う船は輸送艦です。 これらの船は、戦闘用の船の何十倍・何百倍もの大きさの貨物を運ぶことができ、しかも非常に安価なのが特長です。
 
-If looking to be a trucker-for-hire, you'll want to look primarily at Courier contracts. Other players can offer payment to those willing to relocate their goods, rather than moving every ship, module and piece of ammo themselves.
+もしあなたが雇われトラック運転手になりたいなら、真っ先に輸送契約を見てみたくなるはずです。 Other players can offer payment to those willing to relocate their goods, rather than moving every ship, module and piece of ammo themselves.
 
 When accepting a courier contract, you'll have to provide some ISK as collateral. That ISK will be returned to you when you complete the contract, but if you fail to complete it for any reason (such as the loss of your ship and the package), the collateral will be forfeit. You can peek inside the packages you're transporting to see what's inside - if it's worth more than the collateral, you can simply keep the package yourself, forfeiting the collateral but gaining their goods.
 
