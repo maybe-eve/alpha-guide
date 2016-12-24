@@ -17,7 +17,7 @@
 
 {{% notice note %}} アルファクローンで使える唯一の巡洋戦艦は `グノーシス` です。 {{% /notice %}}
 
-You can read more on the [UniWiki 'Missions' page](http://wiki.eveuniversity.org/Missions).
+詳しくは、 \[B-OSP Wiki のミッション関連のページ\](http://seesaawiki.jp/eveonline_b-osp_wiki/d/%A5%DF%A5%C3%A5%B7%A5%E7%A5%F3%B4%F0%C1%C3%C3%CE%BC%B1) を見てみてください。
 
 Once you've received a mission from an agent, you can look it up in the [EVE-Survival](http://eve-survival.org/wikka.php?wakka=MissionReports) mission listings to get more details about what kind of dps you might face from enemies in the mission and which enemise may trigger more spawns.
 
