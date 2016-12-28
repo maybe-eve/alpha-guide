@@ -8,9 +8,9 @@ NPC海賊狩りというのは、宇宙を探し回って敵対的な海賊を�
 
 NPC海賊がいる主な場所はアステロイドベルトか、戦闘アノマリです。 宇宙のシグネチャ一覧の中には、強力な海賊がたくさんいる高難度の戦闘サイトがあることがありますが、プローブスキャナーによって探さなければなりません。それゆえ、探検家の誰かと協力する必要が出てきます (もしくは、自分でスキャン用の船を用意することもできます)。
 
-よりセキュリティステータスの低い場所に行くに応じて、NPC海賊はだんだん強く - そして得られる懸賞金もだんだん多くなります。 In most highsec systems, ratting isn't particularly worth bothering with, while in deep nullsec it can provide tens of millions of ISK per hour.
+よりセキュリティステータスの低い場所に行くに応じて、NPC海賊はだんだん強く - そして得られる懸賞金もだんだん多くなります。 ほとんどのハイセクシステムでは、面倒くささに対して収入が少ないため、NPC海賊を倒す価値は特にないのですが、遠く離れたヌルセク領域での海賊狩りでは、時給何千万ISKもの収入を得ることができます。
 
-Asteroid belts are usually less lucrative, but (especially in nullsec) have the chance to spawn special "faction" or even "officer" rats, which drop extremely rare and valuable modules. The chance is low, but winning the asteroid-belt lottery can give a nice infusion of cash.
+アステロイドベルトの海賊はアノマリのものより収入が少ないのですが(特にヌルセクでは)、特別な「勢力」海賊や「士官」海賊が出現することがあり、極めて貴重かつ強力なモジュールを落とす可能性があります。 可能性は低いとはいえ、アステロイドベルトでの「海賊宝くじ」に当選すれば素敵な臨時収入を得られるでしょう。
 
 As the dangers from hostile players in nullsec are extreme, taking full advantage of nullsec ratting will usually require joining a nullsec corporation, so that you can live in their space unmolested.
 
