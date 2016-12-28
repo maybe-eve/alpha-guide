@@ -6,9 +6,9 @@ NPC海賊狩りというのは、宇宙を探し回って敵対的な海賊を�
 
 ### どうやって？
 
-NPC海賊がいる主な場所はアステロイドベルトか、戦闘アノマリです。 Combat Signatures can contain difficult sites full of tough rats as well, but those need a probe scanner to find, and thus require cooperation with an Explorer (or a scanning ship of your own).
+NPC海賊がいる主な場所はアステロイドベルトか、戦闘アノマリです。 宇宙のシグネチャ一覧の中には、強力な海賊がたくさんいる高難度の戦闘サイトがあることがありますが、プローブスキャナーによって探さなければなりません。それゆえ、探検家の誰かと協力する必要が出てきます (もしくは、自分でスキャン用の船を用意することもできます)。
 
-Rats get progressively tougher - and with progressively better bounties - as you further down the scale of system security. In most highsec systems, ratting isn't particularly worth bothering with, while in deep nullsec it can provide tens of millions of ISK per hour.
+よりセキュリティステータスの低い場所に行くに応じて、NPC海賊はだんだん強く - そして得られる懸賞金もだんだん多くなります。 In most highsec systems, ratting isn't particularly worth bothering with, while in deep nullsec it can provide tens of millions of ISK per hour.
 
 Asteroid belts are usually less lucrative, but (especially in nullsec) have the chance to spawn special "faction" or even "officer" rats, which drop extremely rare and valuable modules. The chance is low, but winning the asteroid-belt lottery can give a nice infusion of cash.
 
