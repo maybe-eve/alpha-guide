@@ -1,4 +1,4 @@
-+++ title = "Ratting" toc = true date = "2016-11-18T18:56:39-08:00" weight = 1 prev = "/new-goals/missions/" next = "/new-goals/salvaging/" +++
++++ title = "ラッティング" toc = true date = "2016-11-18T18:56:39-08:00" weight = 1 prev = "/new-goals/missions/" next = "/new-goals/salvaging/" +++
 
 ### って何？
 
