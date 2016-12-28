@@ -2,11 +2,11 @@
 
 ### って何？
 
-Hunting NPC pirates ("rats") is PvE content, searching through space for hostiles and destroying them for bounties and loot.
+NPC海賊狩りというのは、宇宙を探し回って敵対的な海賊を見つけ、撃墜することによって懸賞金と戦利品を得るPvEコンテンツです。 NPC海賊は英語ではしばしば「ラット」と呼ばれ、海賊狩りも普通は「ラッティング」と呼ばれています。
 
 ### どうやって？
 
-The primary places rats can be found are in asteroid belts and in Combat Anomalies. Combat Signatures can contain difficult sites full of tough rats as well, but those need a probe scanner to find, and thus require cooperation with an Explorer (or a scanning ship of your own).
+NPC海賊がいる主な場所はアステロイドベルトか、戦闘アノマリです。 Combat Signatures can contain difficult sites full of tough rats as well, but those need a probe scanner to find, and thus require cooperation with an Explorer (or a scanning ship of your own).
 
 Rats get progressively tougher - and with progressively better bounties - as you further down the scale of system security. In most highsec systems, ratting isn't particularly worth bothering with, while in deep nullsec it can provide tens of millions of ISK per hour.
 
