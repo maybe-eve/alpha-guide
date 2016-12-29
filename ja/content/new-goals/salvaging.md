@@ -6,11 +6,11 @@
 
 ### どうやって？
 
-サルベージ業者の仕事道具は、サルベージャーとトラクタービームで、空きハイスロットを使用します。そういうわけで、サルベージ業者はハイスロットを多く備えている駆逐艦をよく使います。
+サルベージ業者の仕事道具は、サルベージャーとトラクタービームで、空きハイスロットを使用します。そのために、サルベージ業者はハイスロットを多く備えている駆逐艦をよく使います。
 
-残骸からサルベージするには、もちろん、残骸が必要です。 As such, it is common to team up with a mission-runner or ratter, following behind them and cleaning up the wreckage left in their wake. Alternately, you can search a system's asteroid belts, or use Combat Probes to scan down a mission-runner and salvage their wrecks whether they want you to or not.
+残骸からサルベージするには、もちろん、残骸が必要です。 そういうわけで、ミッションランナーや海賊ハンターとチームを組み、後から付いて行って彼らが残した残骸をきれいに掃除するのが普通です。 もしくは、システムにあるアステロイドベルトに残骸が落ちてないか探したり、もしくはコンバットプローブを使ってミッションランナーの位置を特定し、望む望まないに関わらず彼らの残骸をサルベージしてしまうこともできます。
 
-Tech Two wrecks can provide exceptionally valuable salvage, but rats that leave such wrecks are very rare; the primary source of Tech Two salvage is the aftermath of battles between players. Picking the bones of a PvP battlefield can be extremely lucrative, but if you're not allied with one of the parties to the battle, may result in you just adding your own wreck to the pile.
+テック2(T2)船の残骸からは特別に高価値なサルベージ品が得られることがありますが、そのような残骸を残すNPC海賊はほとんどいません。つまり、T2サルベージ品の主な入手源はプレイヤー同士の戦闘跡です。 PvP戦場で残骸拾いをすればとても儲かるでしょうが、戦闘している勢力のどちらかと味方関係になければ、その残骸の山にあなたの残骸が加わるだけになってしまうでしょう。
 
 ### なんで？
 
