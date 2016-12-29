@@ -14,31 +14,31 @@
 
 ##### トーメンター
 
-トーメンターはアマーの重攻撃型フリゲートです。 It gets substantial bonuses to its three energy turrets, and is otherwise well-rounded, with decent defenses, sufficient midslots to offer some utility, and a moderate drone bay. However, it is somewhat slow.
+トーメンターはアマーの重攻撃型フリゲートです。 ３門積めるエネルギータレットに対して強力なボーナスを持っているだけでなく、その他にも、バランスが取れていて防御力も十分、さらにユーティリティモジュールを積むのに十分な数のミディアムスロット、そしてそこそこ広いドローンベイをあわせ持っています。 ただし、機動性はやや悪いです。
 
-[Here is a recommended fit for the Tormentor.](/upgrading-ships/amarr/tormentor/)
+[トーメンターのオススメのFITはこちらです。](/upgrading-ships/amarr/tormentor/)
 
-##### Punisher
+##### パニッシャー
 
-The Punisher is the Amarr heavy combat frigate. It is incredibly durable, and has potent firepower. However, it is quite slow, and its limited midslots limit its utility.
+パニッシャーはアマーの重戦闘型フリゲートです。耐久力が非常に高く、攻撃性能も強力です。しかし機動性はとても悪く、ミディアムスロットの数が少ないせいで搭載できるユーティリティは限られています。
 
-[Here is a recommended fit for the Punisher.](/upgrading-ships/amarr/punisher/)
+[パニッシャーのオススメのFITはこちらです。](/upgrading-ships/amarr/punisher/)
 
-##### Magnate
+##### マグニート
 
-The Magnate is the Amarr exploration frigate. It has substantial bonuses to the use of scanner probes and relic/data analyzers, making it a powerful option for exploration-minded capsuleers. However, it is fragile, and weak in direct combat.
+マグニートはアマーの探検用フリゲートです。 スキャナープローブと遺物/データアナライザーに対して強力なボーナスを持っているので、探検志向のプレイヤーにとっては魅力的な選択肢となっています。 ただし、防御力は弱く、直接戦闘には向いていません。
 
-[Here is a recommended fit for the Magnate.](/upgrading-ships/amarr/magnate/)
+[マグニートのオススメのFITはこちらです。](/upgrading-ships/amarr/magnate/)
 
-##### Inquisitor
+##### インクイジター
 
-The Inquisitor is the Amarr logistics frigate. It has potent bonuses to remote armor repair modules, allowing it to "heal" allied ships in battle. However, it is not very useful to a solo pilot.
+インクイジターはアマーの支援型フリゲートです。 リモートアーマーリペアラに対して強力なボーナスを持っていて、戦闘の最中に味方の艦船を「回復」することができます。 しかし、ソロプレイヤーにとってはそれほど有用な船ではないでしょう。
 
-For this reason, we recommend that you do not use the Inquisitor for now.
+この理由で、今のところは、このインクイジターを使うことはオススメしません。
 
-##### Crucifier
+##### クルセファー
 
-The Crucifier is the Amarr electronic warfare frigate. It has powerful bonuses to the effectiveness of weapon disruptor modules, allowing it to degrade its enemies' range and accuracy while staying safely out of range itself. However, it is extremely fragile, and is not very useful to a solo pilot.
+クルセファーはアマーの電子戦型フリゲートです。 It has powerful bonuses to the effectiveness of weapon disruptor modules, allowing it to degrade its enemies' range and accuracy while staying safely out of range itself. However, it is extremely fragile, and is not very useful to a solo pilot.
 
 For this reason, we recommend that you do not use the Crucifier for now.
 
