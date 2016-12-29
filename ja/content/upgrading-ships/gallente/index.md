@@ -50,11 +50,11 @@ For this reason, we recommend that you do not use the Maulus for now.
 
 ### 駆逐艦
 
-駆逐艦は対フリゲート用として設計されています。 彼らは「ガラスの大砲」です - フリゲート級の砲台を多数搭載することができ、さらに有効射程と精度を強化するボーナスを備えているため、フリゲートを簡単に、そして瞬く間もなく一掃することができます。 However, their defenses are little stronger than a frigate's, and their larger size and slower speed makes them less able to avoid the fire of larger ships. They are also lacking in any utility besides their damage output.
+駆逐艦は対フリゲート用として設計されています。 彼らは「ガラスの大砲」です - フリゲート級の砲台を多数搭載することができ、さらに有効射程と精度を強化するボーナスを備えているため、フリゲートを簡単に、そして瞬く間もなく一掃することができます。 しかし、防御力はフリゲートよりちょっと強化されているにすぎず、そのより巨大な船体と遅い航行速度によって、大型艦船からの攻撃を避けづらくなっています。 しかも、ダメージ出力が高い以外の利便性は一切ありません。
 
 ##### Catalyst
 
-The Catalyst is one of the Gallente destroyers, focusing on hybrid turrets. With the maximum of eight hardpoints for hybrid weapons, and with potent bonuses to their range and accuracy, it will quickly destroy any smaller enemies that come within range of its guns. However, it is very slow compared to frigates, and its size makes it much easier to hit. Additionally, it has very little utility outside of its weapons' damage output.
+The Catalyst is one of the Gallente destroyers, focusing on hybrid turrets. With the maximum of eight hardpoints for hybrid weapons, and with potent bonuses to their range and accuracy, it will quickly destroy any smaller enemies that come within range of its guns. しかし、フリゲートに比べるととても遅く、船体サイズが大きいので攻撃も受けやすいです。 Additionally, it has very little utility outside of its weapons' damage output.
 
 [Here is a recommended fit for the Catalyst.](/upgrading-ships/gallente/catalyst/)
 
@@ -64,9 +64,9 @@ The Algos is the other Gallente destroyer, focusing on drones. It gets only five
 
 [Here is a recommended fit for the Algos.](/upgrading-ships/gallente/algos/)
 
-### Cruisers
+### 巡洋艦
 
-Cruisers, as a class, are the most well-rounded ships in New Eden. With comfortable slot layouts, decent firepower, good defenses, moderate speed, and moderate price, they're the standard by which other ships are measured.
+巡洋艦は、ニューエデンにおいて、最もバランスの取れた艦種です。 With comfortable slot layouts, decent firepower, good defenses, moderate speed, and moderate price, they're the standard by which other ships are measured.
 
 Cruiser fittings will not be provided in this guide. By the time you're getting into a cruiser, you should be creating fits for yourself; see [Fitting](/reference/fitting/) if you need some pointers.
 
