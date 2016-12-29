@@ -66,21 +66,21 @@ The Talwar is the other Minmatar destroyer, focusing on missiles. Its seven miss
 
 ### 巡洋艦
 
-巡洋艦は、ニューエデンにおいて、最もバランスの取れた艦種です。 With comfortable slot layouts, decent firepower, good defenses, moderate speed, and moderate price, they're the standard by which other ships are measured.
+巡洋艦は、ニューエデンにおいて、最もバランスの取れた艦種です。 便利なスロット配置、十分な火力、良好な防御力、そこそこの速度、そしてそこそこお手頃な価格を併せ持っているので、他の船の性能を測るための基準となっています。
 
-Cruiser fittings will not be provided in this guide. By the time you're getting into a cruiser, you should be creating fits for yourself; see [Fitting](/reference/fitting/) if you need some pointers.
+巡洋艦のFITはこのガイドでは紹介しません。 巡洋艦に乗り始める頃には、自分でFITを作れるようになっているべきです。もしアドバイスが必要ならば、[FIT指針](/reference/fitting/)のページを見てみてください。
 
-### Battlecruisers
+### 巡洋戦艦
 
-Battlecruisers are to cruisers as destroyers are to frigates: much more heavily armed, but substantially slower. Battlecruisers are also significantly better defended, yet also more expensive.
+巡洋艦にとっての巡洋戦艦は、フリゲートにとっての駆逐艦と同じようなものです。武装はさらに強化され、しかし機動性は大幅に悪化しています。巡洋戦艦は巡洋艦に比べて防御力も強化されていますが、値段もまた高くなっています。
 
-The Gnosis is the only battlecruiser available to Alpha clones. It is available to all races, and offers moderate bonuses to nearly all weapons systems and defenses while excelling in none.
+グノーシスはアルファクローンでも乗れる唯一の巡洋戦艦です。全ての種族で乗ることができ、ほとんど全ての兵器システムと防御システムに対しそこそこのボーナスを持っていますが、他の船より優れているところは何一つありません。
 
-A Gnosis fitting will not be provided in this guide. By the time you're getting into a battlecruiser, you should be creating fits for yourself; see [Fitting](/reference/fitting/) if you need some pointers.
+グノーシスのFITはこのガイドでは紹介しません。 巡洋戦艦に乗り始める頃には、自分でFITを作れるようになっているべきです。もしアドバイスが必要ならば、[FIT指針](/reference/fitting/)のページを見てみてください。
 
-### Industrials
+### 輸送艦
 
-Industrials, as class, are non-combat ships focused on the transport of goods across New Eden. They have massive cargo holds, but are slow, clumsy, and poorly armed at best - if they're armed at all. They can be a great boon to a marketeer, industrialist, or even a combat pilot restocking on gear or moving locations, but are borderline useless in combat and a favorite target of player pirates.
+輸送艦は非戦闘用の艦種で、ニューエデンの星々の間で物資を輸送するために設計されています。 巨大なカーゴホールドを備えていますが、遅く、扱いづらく、戦闘用にFITしたとしてもまともに戦うことはできません。 They can be a great boon to a marketeer, industrialist, or even a combat pilot restocking on gear or moving locations, but are borderline useless in combat and a favorite target of player pirates.
 
 ##### Wreathe
 
