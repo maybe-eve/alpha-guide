@@ -26,7 +26,7 @@ The Breacher is the Minmatar heavy combat frigate. Its bonuses to shield booster
 
 ##### Probe
 
-The Probe is the Minmatar exploration frigate. It has substantial bonuses to the use of scanner probes and relic/data analyzers, making it a powerful option for exploration-minded capsuleers. However, it is fragile, and weak in direct combat.
+The Probe is the Minmatar exploration frigate. スキャナープローブと遺物/データアナライザーに対して強力なボーナスを持っているので、探検志向のプレイヤーにとっては魅力的な選択肢となっています。 ただし、防御力は弱く、直接戦闘には向いていません。
 
 [Here is a recommended fit for the Probe.](/upgrading-ships/minmatar/probe/)
 
