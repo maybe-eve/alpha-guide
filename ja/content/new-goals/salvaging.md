@@ -1,14 +1,14 @@
-+++ title = "Salvaging" toc = true date = "2016-11-18T18:56:39-08:00" weight = 1 prev = "/new-goals/ratting/" next = "/new-goals/small-gang/" +++
++++ title = "サルベージ" toc = true date = "2016-11-18T18:56:39-08:00" weight = 1 prev = "/new-goals/ratting/" next = "/new-goals/small-gang/" +++
 
 ### って何？
 
-Salvaging is the practice of using a Salvager module to harvest wrecks, acquiring Salvage used to build rigs or be sold on the market.
+サルベージとは、サルベージャーモジュールを使って残骸を回収することを指し、サルベージ品を手に入れてリグの製造に使ったり、マーケットで売ったりすることができます。
 
 ### どうやって？
 
-The Salvager and Tractor Beam modules that are the tools of the salvager's trade require a free highslot. As such, destroyers, with their copious high slots, are the typical ships of a salvage pilot.
+サルベージ業者の仕事道具は、サルベージャーとトラクタービームで、空きハイスロットを使用します。そういうわけで、サルベージ業者はハイスロットを多く備えている駆逐艦をよく使います。
 
-Salvaging wrecks, naturally, requires wrecks to salvage. As such, it is common to team up with a mission-runner or ratter, following behind them and cleaning up the wreckage left in their wake. Alternately, you can search a system's asteroid belts, or use Combat Probes to scan down a mission-runner and salvage their wrecks whether they want you to or not.
+残骸からサルベージするには、もちろん、残骸が必要です。 As such, it is common to team up with a mission-runner or ratter, following behind them and cleaning up the wreckage left in their wake. Alternately, you can search a system's asteroid belts, or use Combat Probes to scan down a mission-runner and salvage their wrecks whether they want you to or not.
 
 Tech Two wrecks can provide exceptionally valuable salvage, but rats that leave such wrecks are very rare; the primary source of Tech Two salvage is the aftermath of battles between players. Picking the bones of a PvP battlefield can be extremely lucrative, but if you're not allied with one of the parties to the battle, may result in you just adding your own wreck to the pile.
 
