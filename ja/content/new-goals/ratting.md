@@ -12,8 +12,8 @@ NPC海賊がいる主な場所はアステロイドベルトか、戦闘アノ�
 
 アステロイドベルトの海賊はアノマリのものより収入が少ないのですが(特にヌルセクでは)、特別な「勢力」海賊や「士官」海賊が出現することがあり、極めて貴重かつ強力なモジュールを落とす可能性があります。 可能性は低いとはいえ、アステロイドベルトでの「海賊宝くじ」に当選すれば素敵な臨時収入を得られるでしょう。
 
-As the dangers from hostile players in nullsec are extreme, taking full advantage of nullsec ratting will usually require joining a nullsec corporation, so that you can live in their space unmolested.
+ヌルセク領域では敵対的なプレイヤーに襲われる危険が極めて高いので、ヌルセクでのラッティングを収入源として最大限に活かすには、通常はヌルセクコープに参加する必要があるでしょう。そうすれば、敵ではなく味方として、誰かに邪魔されることなしに彼らの領土で暮らしていくことができます。
 
 ### なんで？
 
-Ratting can be a reliable moderate income stream, with occasional jackpots of faction modules that can sell for large sums of ISK.
+ラッティングは信頼性の高いそこそこの収入源となり、時々大当たりの「勢力」モジュールを引き当てて、売却して多額のISKを得ることもできるでしょう。
