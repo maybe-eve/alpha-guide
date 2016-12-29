@@ -14,7 +14,7 @@ The Condor is the Caldari fast-attack frigate. 極めて機動性が高く、十
 
 ##### Kestrel
 
-The Kestrel is the Caldari heavy attack frigate. It gets substantial bonuses to its four missile launchers, allowing it to deal substantial damage in close with rockets or lob light missiles from extreme range. Its good number of midslots also allow it decent defenses or good utility. However, it is somewhat slow.
+The Kestrel is the Caldari heavy attack frigate. It gets substantial bonuses to its four missile launchers, allowing it to deal substantial damage in close with rockets or lob light missiles from extreme range. Its good number of midslots also allow it decent defenses or good utility. ただし、機動性はやや悪いです。
 
 [Here is a recommended fit for the Kestrel.](/upgrading-ships/caldari/kestrel/)
 
@@ -26,7 +26,7 @@ The Merlin is the Caldari heavy combat frigate. It has very powerful shields, an
 
 ##### Heron
 
-The Heron is the Caldari exploration frigate. It has substantial bonuses to the use of scanner probes and relic/data analyzers, making it a powerful option for exploration-minded capsuleers. However, it is fragile, and weak in direct combat.
+The Heron is the Caldari exploration frigate. スキャナープローブと遺物/データアナライザーに対して強力なボーナスを持っているので、探検志向のプレイヤーにとっては魅力的な選択肢となっています。 ただし、防御力は弱く、直接戦闘には向いていません。
 
 [Here is a recommended fit for the Heron.](/upgrading-ships/caldari/heron/)
 
