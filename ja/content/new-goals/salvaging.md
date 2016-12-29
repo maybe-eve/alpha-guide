@@ -14,4 +14,4 @@
 
 ### なんで？
 
-Salvaging can be a nice income stream with a very low skillpoint requirement, which does not require putting yourself at substantial risk. It can also be a nice way to socialize, if cooperating with the person creating the wrecks you salvage.
+サルベージはとても低いスキル要件の割に素晴らしい収入を得ることができ、撃墜の危険に身をさらす必要もあまりありません。 また、残骸をサルベージするためにミッションランナーなどと協力するならば、友情を深める手段としても素晴らしい物になるでしょう。
