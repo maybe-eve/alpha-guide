@@ -26,7 +26,7 @@ The Incursus is the Gallente heavy combat frigate. Its bonuses to armor repairer
 
 ##### Imicus
 
-The Imicus is the Gallente exploration frigate. It has substantial bonuses to the use of scanner probes and relic/data analyzers, making it a powerful option for exploration-minded capsuleers. However, it is fragile, and weak in direct combat.
+The Imicus is the Gallente exploration frigate. スキャナープローブと遺物/データアナライザーに対して強力なボーナスを持っているので、探検志向のプレイヤーにとっては魅力的な選択肢となっています。 ただし、防御力は弱く、直接戦闘には向いていません。
 
 [Here is a recommended fit for the Imicus.](/upgrading-ships/gallente/imicus/)
 
