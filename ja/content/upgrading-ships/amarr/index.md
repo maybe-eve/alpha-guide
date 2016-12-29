@@ -38,19 +38,19 @@
 
 ##### クルセファー
 
-クルセファーはアマーの電子戦型フリゲートです。 It has powerful bonuses to the effectiveness of weapon disruptor modules, allowing it to degrade its enemies' range and accuracy while staying safely out of range itself. However, it is extremely fragile, and is not very useful to a solo pilot.
+クルセファーはアマーの電子戦型フリゲートです。 兵器妨害モジュールの効果に対して強力なボーナスを持っていて、射程外の安全な場所から、敵の射程や射撃の精度を悪化させることができます。 ただし、防御力は極めて低く、ソロプレイヤーにとって有用な船ではありません。
 
-For this reason, we recommend that you do not use the Crucifier for now.
+この理由で、今のところは、このクルセファーを使うことはオススメしません。
 
-##### Venture
+##### ベンチャー
 
-The Venture is a mining frigate, not specific to any one empire. It has powerful bonuses to its mining lasers and gas harvesters, as well as a vast ore hold, allowing it to accumulate massive amounts of raw resources. It also has innate resistance to warp disruption, allowing it to escape attackers more easily. However, it is not particularly suitable for combat.
+ベンチャーは採掘用フリゲートで、特定の国家に固有の船ではありません。 採掘レーザーとガス採掘機に対して強力なボーナスを持ち、鉱石ホールドも巨大なため、膨大な量の鉱石を回収することができます。 また、ワープ妨害に対する耐性が組み込まれていて、攻撃者から逃げるのがより容易になっています。 ただし、特に戦闘に適しているわけでもありません。
 
-[Here is a recommended fit for the Venture.](/upgrading-ships/amarr/venture/)
+[ベンチャーのオススメのFITはこちらです。](/upgrading-ships/amarr/venture/)
 
-### Destroyers
+### 駆逐艦
 
-Destroyers are designed as a counter to frigates. They are "glass cannons" - they get large numbers of frigate-class guns, with substantial enhancements to their range and tracking, making them able to swat frigates out of the sky with ease. However, their defenses are little stronger than a frigate's, and their larger size and slower speed makes them less able to avoid the fire of larger ships. They are also lacking in any utility besides their damage output.
+駆逐艦は対フリゲート用として設計されています。 彼らは「ガラスの大砲」です - フリゲート級の砲台を多数搭載することができ、さらに有効射程と精度を強化するボーナスを備えているため、フリゲートを簡単に、そして瞬く間もなく一掃することができます。 However, their defenses are little stronger than a frigate's, and their larger size and slower speed makes them less able to avoid the fire of larger ships. They are also lacking in any utility besides their damage output.
 
 ##### Coercer
 
