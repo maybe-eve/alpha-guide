@@ -4,17 +4,17 @@
 
 ### フリゲート
 
-Frigates are some of the fastest and smallest ships in New Eden. This makes them very difficult for larger ships to hit. Their guns also track very quickly, allowing them to effectively fight other frigates. However, their raw defensive and offensive power is relatively weak.
+フリゲートはニューエデンにおいては最速・最小の部類に属する艦種です。 このために、より大きい船からの攻撃を受けにくいのが特長です。 砲台の追跡速度も同様に高速なので、他のフリゲートと効果的に戦うことができます。 しかし、素の防御力と攻撃力は、他の艦種と比べると弱いです。
 
-##### Executioner
+##### エクスキューショナー
 
-The Executioner is the Amarr fast-attack frigate. It is extremely quick, and packs a decent punch. Its bonus to the capacitor cost of Propulsion Jamming modules also makes it good at "tackling" enemy ships, holding them in place. However, it is relatively fragile.
+エクスキューショナーはアマーの高速攻撃型フリゲートです。 極めて機動性が高く、十分な火力も備えています。 推進力ジャミングモジュールのキャパシタ消費を削減するボーナスが付いているので、敵の艦船に「タックル」し、その場に釘付けにするのにも適しています。 ただし、防御は比較的薄いです。
 
-[Here is a recommended fit for the Executioner.](/upgrading-ships/amarr/executioner/)
+[エクスキューショナーのオススメのFITはこちらです。](/upgrading-ships/amarr/executioner/)
 
-##### Tormentor
+##### トーメンター
 
-The Tormentor is the Amarr heavy attack frigate. It gets substantial bonuses to its three energy turrets, and is otherwise well-rounded, with decent defenses, sufficient midslots to offer some utility, and a moderate drone bay. However, it is somewhat slow.
+トーメンターはアマーの重攻撃型フリゲートです。 It gets substantial bonuses to its three energy turrets, and is otherwise well-rounded, with decent defenses, sufficient midslots to offer some utility, and a moderate drone bay. However, it is somewhat slow.
 
 [Here is a recommended fit for the Tormentor.](/upgrading-ships/amarr/tormentor/)
 
