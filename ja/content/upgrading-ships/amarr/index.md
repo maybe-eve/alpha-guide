@@ -1,8 +1,8 @@
-+++ title = "Amarr Ships" toc = true date = "2016-11-18T18:56:39-08:00" weight = 1 next = "/new-goals/" prev = "/upgrading-ships/" +++
++++ title = "アマー艦船" toc = true date = "2016-11-18T18:56:39-08:00" weight = 1 next = "/new-goals/" prev = "/upgrading-ships/" +++
 
-Over the course of your Career Agent missions, they will have given you some of the following ships. They are more powerful than your rookie ship. They are also more specialized, and each ship is built for a specific purpose.
+キャリアエージェントミッションをこなす中で、エージェントたちは次に挙げる艦船のうちいくつかを支給してくれたことでしょう。 これらの船はあなたが乗っているルーキーシップよりも強力です。 そのうえ性能が特化されていて、それぞれある特定の目的のために作られています。
 
-### Frigates
+### フリゲート
 
 Frigates are some of the fastest and smallest ships in New Eden. This makes them very difficult for larger ships to hit. Their guns also track very quickly, allowing them to effectively fight other frigates. However, their raw defensive and offensive power is relatively weak.
 
