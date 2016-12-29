@@ -80,10 +80,10 @@ The Corax is the other Caldari destroyer, focusing on missiles. It has seven lau
 
 ### 輸送艦
 
-輸送艦は非戦闘用の艦種で、ニューエデンの星々の間で物資を輸送するために設計されています。 巨大なカーゴホールドを備えていますが、遅く、扱いづらく、戦闘用にFITしたとしてもまともに戦うことはできません。 They can be a great boon to a marketeer, industrialist, or even a combat pilot restocking on gear or moving locations, but are borderline useless in combat and a favorite target of player pirates.
+輸送艦は非戦闘用の艦種で、ニューエデンの星々の間で物資を輸送するために設計されています。 巨大なカーゴホールドを備えていますが、遅く、扱いづらく、戦闘用にFITしたとしてもまともに戦うことはできません。 これらの船は商人や製造業者にとってはとても役に立つ船で、戦闘パイロットにとってさえ物資の補給や拠点の移動に使われていますが、戦闘には全くと言っていいほど役に立たず、プレイヤー海賊にとっては格好のカモです。
 
 ##### Badger
 
-The Badger is one of the Caldari industrials - a ship line focused on hauling goods from place to place. It has a massive cargo hold, and can mount sufficient defenses to stave off light attacks long enough for reinforcements to arrive. However, it is extremely slow and clumsy, and is borderline useless in combat.
+The Badger is one of the Caldari industrials - a ship line focused on hauling goods from place to place. 巨大なカーゴホールドを備えており、救援が来るまで軽い攻撃に耐えるには十分な防御を搭載することができます。 ただし、極めて低速で扱いづらく、戦闘には全くもって役に立ちません。
 
 [Here is a recommended fit for the Badger.](/upgrading-ships/caldari/badger/)
