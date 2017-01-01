@@ -23,10 +23,10 @@ EVE は一人ぼっちで遊ぶことももちろんできますが、同じ興�
 \[J-UNI Beginners Academy\](https://forums.eveonline.com/default.aspx?g=posts&m=6689849) は、最近設立された初心者支援専門の日本語コープです。 同様に、プレイヤー運営のコープは他にもたくさんあります。 あなたの興味に合ったコープを探すために、次の情報源をたどってみることをオススメします:
 
 - ゲーム内の「ヘルプ」チャンネルで質問してみる
-- The [r/evejobs](https://www.reddit.com/r/evejobs/) subreddit 
-- [This blog post](https://mikeazariah.wordpress.com/2016/11/17/ooc-joining-the-gang/) by Mike Azariah about corps that are recruiting alpha-clone players
+- Twitter で #evejapan タグを付けてツイートしてみる 
+- 前述の「J-UNI」に入社して、日本人コープからの勧誘を受ける
 
-{{% notice note %}} There are a handful of large nullsec corps that recruit rather freely amongst new players and often organize group content in nullsec space: [Brave Newbies](http://www.bravecollective.com/), [Karmafleet](https://recruit.karmafleet.org/), [Pandemic Horde](https://www.reddit.com/r/pandemichorde/), and [Dreddit](http://dredditisrecruiting.com/). {{% /notice %}}
+{{% notice note %}} 英語圏には、むしろ新人プレイヤーこそ積極的に受け入れて、しばしばヌルセク領域での大人数コンテンツを企画したりする、大規模ヌルセクコープがいくつか存在しています: [Brave Newbies](http://www.bravecollective.com/) 、 [Karmafleet](https://recruit.karmafleet.org/) 、 [Pandemic Horde](https://www.reddit.com/r/pandemichorde/) 、 [Dreddit](http://dredditisrecruiting.com/) などが有名です。もし英語に堪能ならば、検討する価値は十分あります。 {{% /notice %}}
 
 自分の興味に合ったコープを探すのに時間をかけるのは全く問題ありません。そして、コープに入ってから自分には合わないなと感じたら、心変わりして抜けてしまうのもまた問題ありません。
 
