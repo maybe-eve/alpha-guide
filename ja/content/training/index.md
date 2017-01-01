@@ -2,4 +2,4 @@
 
 さて、貴方はもう EVE 世界において何をしたいのかだいたい検討がついていることでしょう。だから、今こそいよいよスキルキューをいじって、貴方の選んだ活動に便利なスキルをトレーニングし始める時期なのです。
 
-The next few pages will walk through various aspects you might consider for skill training.
+スキルトレーニングにおいて考慮すべきさまざまな側面について、これから少々ページを割いて見ていきましょう。
