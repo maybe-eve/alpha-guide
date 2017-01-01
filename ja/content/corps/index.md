@@ -20,9 +20,9 @@ EVE は一人ぼっちで遊ぶことももちろんできますが、同じ興�
 
 {% notice tip %} 唐突に送られてきたコープ入社招待は、決して承諾しないようにしましょう - ランダムにプレイヤーを選んで唐突に招待を送ってくるコープの質というのは、平均的にはですが、どうしようもないものです。 その代わりに、自分がやりたいと思っていることに精通しているコープを自分で探して、採用してもらえないか聞いてみましょう。 {{% /notice %}}
 
-[EVE University](http://www.eveuniversity.org/) is a well-known player corp in EVE that is devoted to teaching new players. There are many other player-run corps as well. We recommend the following resources for finding a corporation that suits your interests:
+\[J-UNI Beginners Academy\](https://forums.eveonline.com/default.aspx?g=posts&m=6689849) は、最近設立された初心者支援専門の日本語コープです。 同様に、プレイヤー運営のコープは他にもたくさんあります。 あなたの興味に合ったコープを探すために、次の情報源をたどってみることをオススメします:
 
-- The [Recruitment Center](https://forums.eveonline.com/default.aspx?g=topics&f=265) on the official forums
+- ゲーム内の「ヘルプ」チャンネルで質問してみる
 - The [r/evejobs](https://www.reddit.com/r/evejobs/) subreddit 
 - [This blog post](https://mikeazariah.wordpress.com/2016/11/17/ooc-joining-the-gang/) by Mike Azariah about corps that are recruiting alpha-clone players
 
@@ -32,5 +32,4 @@ EVE は一人ぼっちで遊ぶことももちろんできますが、同じ興�
 
 {% notice warning %} あなたが誰かとアイテムをトレードしたり、ISKや何か別のものをあげてしまったならば、貰った人はそれを好きなように使ってしまうことができます。 もし人事担当者が、彼らのコープに入ったりあなたのアイテムを移動させたりするのに料金を請求しようとしたなら、十分に注意してください。 もしかしたら詐欺かもしれません！ {{% /notice %}}
 
-{{% notice info %}} You can leave a corp that you've joined by right-clicking on your own name and choosing
-<kbd>Quit Corporation?</kbd> > <kbd>Confirm Quit Corporation</kbd>. そうすれば、種族に応じたNPCコープに戻されるでしょう。 {{% /notice %}}
+{{% notice info %}} 参加したコープから脱退したい場合、自分の名前を右クリックして <kbd></kbd> <kbd></kbd> と選択することで抜けることができます。 そうすれば、種族に応じたNPCコープに戻されるでしょう。 {{% /notice %}}
