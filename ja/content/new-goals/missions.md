@@ -23,10 +23,10 @@ Once you've received a mission from an agent, you can look it up in the [EVE-Sur
 
 {{% notice warning %}} 四大帝国所属の艦船を撃墜してしまうと、彼らからあなたへの [勢力スタンディング](http://wiki.eveuniversity.org/Faction_Standings) が大きく下がってしまうことがしばしばあります。 もしそのスタンディングがとても低く (5.0以下) なってしまった場合、彼らの領土に進入するとすぐに攻撃されてしまうでしょう。 そういう理由で、四大帝国 (アマー、カルダリ、ガレンテ、ミンマター) と戦わされるようなミッションは断ることをオススメします。 {{% /notice %}}
 
-You can see the icon for the type of enemies the mission will send you to fight in the Mission Objectives. You can decline one mission per four hours from a given agent without penalty, and receive a new one in its place; declining frequently will carry a standings penalty with the mission issuer. If you need to decline more frequently, consider finding another nearby agent and doing missions for them while you wait.
+ミッション目標の欄にあるアイコンによって、ミッションでどの勢力の敵と戦うことになるのかを確かめることができます。 ミッションは各エージェントごとに4時間に１回だけ、ペナルティなしで断ることができ、代わりに新しいミッションを受領することができます。しかし、頻繁に断るとエージェントからのスタンディングが下がってしまうでしょう。 もしより頻繁にミッションを断らなければいけないならば、近くにいる別のエージェントを探して、4時間経つのを待つ間にそちらのミッションをやることを検討してください。
 
 ### なんで？
 
-Mission running produces a fairly steady stream of ISK - the mission rewards will pay out a certain amount, plus you'll also be paid the bounties for any hostile NPCs you killed.
+ミッション回しはかなり安定したISK収入源となるでしょう - ミッション報酬として毎回一定の金額を受け取ることができ、さらに撃墜したあらゆる敵対的NPCに応じて懸賞金が支払われるでしょう。
 
-You'll also be rewarded with loyalty points (LP) for the NPC corporation that is giving you the missions. These LP can be traded for items from the NPC corp's Loyalty Point Store.
+さらに、ミッションをくれたNPCコープ固有のロイヤルティポイント (LP) も同時に獲得できます。このLPを使うと、そのNPCコープのロイヤリティポイントストアでアイテムを購入することができます。
