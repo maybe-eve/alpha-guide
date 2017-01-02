@@ -21,7 +21,7 @@
 
 Once you've received a mission from an agent, you can look it up in the [EVE-Survival](http://eve-survival.org/wikka.php?wakka=MissionReports) mission listings to get more details about what kind of dps you might face from enemies in the mission and which enemise may trigger more spawns.
 
-{{% notice warning %}} Killing ships of the four major empires will often net you large penalties to [faction standings](http://wiki.eveuniversity.org/Faction_Standings) with them. If those standings get very low (below -5.0), you will be shot on sight in their space. For that reason, it is recommended to decline missions that send you to fight the four major empires (Amarr, Caldari, Gallente, and Minmatar). {{% /notice %}}
+{{% notice warning %}} 四大帝国所属の艦船を撃墜してしまうと、彼らからあなたへの [勢力スタンディング](http://wiki.eveuniversity.org/Faction_Standings) が大きく下がってしまうことがしばしばあります。 もしそのスタンディングがとても低く (5.0以下) なってしまった場合、彼らの領土に進入するとすぐに攻撃されてしまうでしょう。 そういう理由で、四大帝国 (アマー、カルダリ、ガレンテ、ミンマター) と戦わされるようなミッションは断ることをオススメします。 {{% /notice %}}
 
 You can see the icon for the type of enemies the mission will send you to fight in the Mission Objectives. You can decline one mission per four hours from a given agent without penalty, and receive a new one in its place; declining frequently will carry a standings penalty with the mission issuer. If you need to decline more frequently, consider finding another nearby agent and doing missions for them while you wait.
 
