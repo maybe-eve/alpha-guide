@@ -19,7 +19,7 @@
 
 詳しくは、 \[B-OSP Wiki のミッション関連のページ\](http://seesaawiki.jp/eveonline_b-osp_wiki/d/%A5%DF%A5%C3%A5%B7%A5%E7%A5%F3%B4%F0%C1%C3%C3%CE%BC%B1) を見てみてください。
 
-Once you've received a mission from an agent, you can look it up in the [EVE-Survival](http://eve-survival.org/wikka.php?wakka=MissionReports) mission listings to get more details about what kind of dps you might face from enemies in the mission and which enemise may trigger more spawns.
+エージェントからミッションを受領した際、 \[EVEonlineJP Wiki\](http://wikiwiki.jp/eveonlinejp/?%A5%DF%A5%C3%A5%B7%A5%E7%A5%F3) にあるミッション一覧を見て、どのような強さの攻撃を受けるのかや、どの敵を倒すと次の敵集団が出現するかなど、ミッションに関する詳しい情報をチェックすることができます。
 
 {{% notice warning %}} 四大帝国所属の艦船を撃墜してしまうと、彼らからあなたへの [勢力スタンディング](http://wiki.eveuniversity.org/Faction_Standings) が大きく下がってしまうことがしばしばあります。 もしそのスタンディングがとても低く (5.0以下) なってしまった場合、彼らの領土に進入するとすぐに攻撃されてしまうでしょう。 そういう理由で、四大帝国 (アマー、カルダリ、ガレンテ、ミンマター) と戦わされるようなミッションは断ることをオススメします。 {{% /notice %}}
 
