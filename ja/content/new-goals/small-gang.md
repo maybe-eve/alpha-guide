@@ -12,9 +12,9 @@
 
 新人プレイヤーに共通して言えるアドバイスとしては、収入源を確保して、フリゲートを50隻用意できるくらい十分なISKを稼いでから、ローミングに出かけて一隻一隻と撃墜されてきましょう - そしてそれぞれの敗北から何か教訓を学び、それを次の船で試してみましょう。
 
-The targets of PvP roams can be varied, but will almost universally involve leaving high-security space. Roaming through lowsec or nullsec are the most common, but wormhole roams are a possibility as well. Using <a href=evemaps.dotlan.net>Dotlan</a>'s maps for the area you're flying through, especially the "NPC Kills" filter, can help you pick out areas with player activity; a large number of "Ship/Pod Kills" may indicate a gatecamp waiting to pick off anyone who comes through, which, depending on the size of your gang, may be a good or a bad thing.
+PvPローミングの活動場所は様々ですが、ハイセク領域を除けばほとんどどこでも行われています。 ローセクかヌルセク領域でのローミングが最も一般的ですが、ワームホール星系でのローミングも同様に行われることがあります。 <a href=evemaps.dotlan.net>Dotlan</a> を使ってローミングで通る地域の地図を眺めて、特に「NPC Kills」欄を見ることで、プレイヤーの活動が盛んな地域を調べて、そこを活動場所に選ぶことができます。また、「Ship/Pod Kills」欄の数が多い場合は、通りがかった人を狙い撃とうと待っているゲートキャンプがあることが予想されます。あなたのフリートの人数次第で、そこに突っ込むのは良いことにも悪いことにもなるでしょう。
 
-In gangs of more than a couple people, it's fairly common to have one player act as the "scout", moving ahead and finding targets of opportunity for the fleet to attack, or reporting danger that lies in the way. This role is perfectly suited to Frigate pilots. Mastering the use of the Directional Scanner can be vital to a scout; see <a href=http://wiki.eveuniversity.org/Directional_Scanner_Guide>Eve University's Directional Scanner Guide</a> for more information.
+3人以上のフリートでは、1人のプレイヤーを「スカウト (偵察) 」として派遣することがかなり一般的です。先行してフリートが攻撃できそうな目標を探したり、航路上にある危険を知らせたりするのが役目です。 This role is perfectly suited to Frigate pilots. Mastering the use of the Directional Scanner can be vital to a scout; see <a href=http://wiki.eveuniversity.org/Directional_Scanner_Guide>Eve University's Directional Scanner Guide</a> for more information.
 
 ### なんで？
 
