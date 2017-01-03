@@ -1,4 +1,4 @@
-+++ title = "Small-Gang PvP" toc = true date = "2016-11-18T18:56:39-08:00" weight = 1 prev = "/new-goals/salvaging/" next = "/new-goals/trading/" +++
++++ title = "スモールギャングPVP" toc = true date = "2016-11-18T18:56:39-08:00" weight = 1 prev = "/new-goals/salvaging/" next = "/new-goals/trading/" +++
 
 ### って何？
 
