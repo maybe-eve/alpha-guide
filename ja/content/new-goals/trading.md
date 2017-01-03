@@ -10,10 +10,10 @@
 
 ステーショントレードとは、買い注文と売り注文をステーションで出し、現在の最高買取価格と最低売却価格に格差を作る、というものです。つまり、プレイヤーはあなたの買い注文に対してアイテムを売るので、その同じ品物をより高い価格で、売り注文としてマーケットに並べる、ということです。 そして、買ったはいいものの商品が売れずに赤字になってしまうかもしれない、というリスクを抱えるのと引き換えに、その2つの価格の差を懐に入れることができます、
 
-リージョントレードとは、あるリージョンにあるマーケットで商品を仕入れ、それを別のリージョンに輸送して売る、というものです。 Because buying items from the market doesn't automatically move them to a player's current station, players will often pay extra for goods closer to their current location. また、リージョン間の需要と供給のバランスの高低に応じて、商業ハブの間で商品の価格が異なっていることもあります。 抜け目のないトレーダーは、これらの価格の差をうまく利用して、ISKを懐に入れるのです。
+リージョントレードとは、あるリージョンにあるマーケットで商品を仕入れ、それを別のリージョンに輸送して売る、というものです。 マーケットで購入したアイテムはプレイヤーがいるステーションに自動的に輸送されるわけではないので、プレイヤーは商品が現在地からより近い場所にあるならば、ちょっと高かったとしてもしばしばそれを購入します。 また、リージョン間の需要と供給のバランスの高低に応じて、商業ハブの間で商品の価格が異なっていることもあります。 抜け目のないトレーダーは、これらの価格の差をうまく利用して、ISKを懐に入れるのです。
 
-You can read more about trading in the [UniWiki 'Trading' article](http://wiki.eveuniversity.org/Trading).
+トレードについて詳しくは、 \[EVE Online Japan Wikiの「交易」のページ\](http://eveonline-japanwiki.com/trade) を見てみてください。
 
 ### なんで？
 
-Some people really enjoy the careful planning and execution that goes into successful trading. Traders can also make large amounts of money if they're good at figuring out trends and staying ahead of the curve.
+一部の人々にとっては、トレードで成功するために慎重に計画を立て、それを実行することは本当に楽しいことでしょう。 そして、もし市場の動向を見極め、値動きを予測して先手を打つのが得意ならば、トレーダーとして莫大な収入を得ることができるでしょう。
