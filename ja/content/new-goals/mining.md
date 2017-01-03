@@ -10,7 +10,7 @@
 
 ハイセクでの採掘による収入は比較的低いですが、採掘した鉱石を売るのはかなり簡単です。 ローセク地域での採掘は収入は上がりますが、他のプレイヤーが頻繁に攻撃を試みてくるので、同時に被撃墜のリスクも上がります。
 
-採掘について詳しくは、 \[B-OSP Wikiの「鉱石の採掘」のページ\](http://seesaawiki.jp/eveonline_b-osp_wiki/d/%B9%DB%C0%D0%A4%CE%BA%CE%B7%A1) を見てみてください。
+採掘について詳しくは、 [B-OSP Wikiの「鉱石の採掘」のページ](http://seesaawiki.jp/eveonline_b-osp_wiki/d/%B9%DB%C0%D0%A4%CE%BA%CE%B7%A1) を見てみてください。
 
 ### なんで？
 
