@@ -3,7 +3,7 @@ prev = "/rookie-fitting/"
 next = "/market/hubs/"  
 icon = "**3. **"  
 date = "2016-11-18T18:35:17-08:00"  
-title = "マーケットを使ってみよう"  
+title = "マーケットを使う"  
 toc = true  
 +++
 
