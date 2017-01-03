@@ -1,6 +1,6 @@
 +++ title = "何か他の遊び方？" toc = true date = "2016-11-18T18:56:39-08:00" weight = 999 next = "/training/" prev = "/new-goals/trading/" +++
 
-EVE players have historically been quite creative when it comes to player-driven content - everything from large dramatic diplomatic affairs to galaxy-shaping wars and scandals to small interactions noticed only by the couple of players involved.
+EVEのプレイヤーは歴史上、プレイヤー運営のコンテンツにかけてはかなりの創造性を発揮することで知られています - 銀河の勢力図を形作る大戦争の背後にある、外交官たちの壮大なドラマを始めとして、二三人のプレイヤーの間の、小さな人間関係の中だけで暴露されるスキャンダルなど、様々なものがあります。
 
 <div style="text-align: center;">
 crwMD_Iframe_0
@@ -10,6 +10,6 @@ In addition to the ideas listed here, there's also others mentioned in the [UniW
 
 {{% figure src="/images/wtd.jpg" %}}
 
-Image too small? Here's the [full-size version](/images/wtd.jpg).
+画像が小さすぎますか？ ここに[フルサイズ版](/images/wtd.jpg)があります。
 
-**Use your imagination: how will you make your mark on the EVE universe?**
+**想像力を働かせましょう: EVE宇宙であなたの名声を轟かせるにはどうしたらいい？**
