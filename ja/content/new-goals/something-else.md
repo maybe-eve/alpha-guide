@@ -1,4 +1,4 @@
-+++ title = "Something Else?" toc = true date = "2016-11-18T18:56:39-08:00" weight = 999 next = "/training/" prev = "/new-goals/trading/" +++
++++ title = "何か他の遊び方？" toc = true date = "2016-11-18T18:56:39-08:00" weight = 999 next = "/training/" prev = "/new-goals/trading/" +++
 
 EVE players have historically been quite creative when it comes to player-driven content - everything from large dramatic diplomatic affairs to galaxy-shaping wars and scandals to small interactions noticed only by the couple of players involved.
 
