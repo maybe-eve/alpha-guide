@@ -1,12 +1,12 @@
-+++ title = "Trading" toc = true date = "2016-11-18T18:56:39-08:00" weight = 1 next = "/new-goals/something-else/" prev = "/new-goals/small-gang/" +++
++++ title = "トレード" toc = true date = "2016-11-18T18:56:39-08:00" weight = 1 next = "/new-goals/something-else/" prev = "/new-goals/small-gang/" +++
 
 ### って何？
 
-Buy low, sell high. EVE's economy is almost entirely player driven which means that there are plenty of ways to make money just by playing the market.
+安く買って、高く売る。EVEにおける経済はほとんど全てプレイヤーによって運営されていて、つまりマーケットをいじりまわすだけで利益を得る方法がいくらでもあるということです。
 
 ### どうやって？
 
-There are two main types of trading: station trading and region trading.
+トレードには主に２つのタイプがあります。ステーショントレードとリージョントレードです。
 
 Station trading involves placing buy orders and sell orders in a station to arbitrage the gap between the current highest buy price and the current lowest sell price: players sell goods to your buy order, then you list the same goods for a higher price as a sell order. You pocket the difference between the two prices in return for running the risk that you might not be able to sell something for as good a price as you bought it.
 
