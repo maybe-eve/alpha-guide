@@ -2,15 +2,15 @@
 
 ### って何？
 
-Small-Gang PvP is the practice of hopping in a ship, heading out with yourself and a few friends, and looking for trouble and the elusive "good fight".
+スモールギャング (小規模) PvPとは、船に飛び乗って、自分と数人の友達だけで戦いを求めて星々を渡り歩き、戦いの機会を、そしてなかなか見つけられない「グッド・ファイト ("良き戦い"、お互いの健闘を称える挨拶) 」を探し求める、というものです。
 
 ### どうやって？
 
-Get a ship and get out there!
+船を用意して出かけましょう！
 
-Making some friends, or joining a corporation (the latter of which often leads to the former), means you'll have a group of people to go out on PvP "roams" with, but there's nothing stopping you from going out on solo roams.
+友達を何人か作ったり、コープに参加したり (後者の場合、しばしば前者につながります) することによって、PvP ローミング (戦いを求めて旅して回ること) に一緒に行く仲間を得ることができます。しかし、一人でローミングに出かけることももちろんできます。
 
-One common piece of advice for new players, once they've gotten their feet under them and acquired some ISK, is to buy fifty frigates, then go out and lose each and every one - and to try and learn something from each death.
+新人プレイヤーに共通して言えるアドバイスとしては、収入源を確保して、フリゲートを50隻用意できるくらい十分なISKを稼いでから、ローミングに出かけて一隻一隻と撃墜されてきましょう - そしてそれぞれの敗北から何か教訓を学び、それを次の船で試してみましょう。
 
 The targets of PvP roams can be varied, but will almost universally involve leaving high-security space. Roaming through lowsec or nullsec are the most common, but wormhole roams are a possibility as well. Using <a href=evemaps.dotlan.net>Dotlan</a>'s maps for the area you're flying through, especially the "NPC Kills" filter, can help you pick out areas with player activity; a large number of "Ship/Pod Kills" may indicate a gatecamp waiting to pick off anyone who comes through, which, depending on the size of your gang, may be a good or a bad thing.
 
