@@ -14,8 +14,8 @@
 
 PvPローミングの活動場所は様々ですが、ハイセク領域を除けばほとんどどこでも行われています。 ローセクかヌルセク領域でのローミングが最も一般的ですが、ワームホール星系でのローミングも同様に行われることがあります。 <a href=evemaps.dotlan.net>Dotlan</a> を使ってローミングで通る地域の地図を眺めて、特に「NPC Kills」欄を見ることで、プレイヤーの活動が盛んな地域を調べて、そこを活動場所に選ぶことができます。また、「Ship/Pod Kills」欄の数が多い場合は、通りがかった人を狙い撃とうと待っているゲートキャンプがあることが予想されます。あなたのフリートの人数次第で、そこに突っ込むのは良いことにも悪いことにもなるでしょう。
 
-3人以上のフリートでは、1人のプレイヤーを「スカウト (偵察) 」として派遣することがかなり一般的です。先行してフリートが攻撃できそうな目標を探したり、航路上にある危険を知らせたりするのが役目です。 This role is perfectly suited to Frigate pilots. Mastering the use of the Directional Scanner can be vital to a scout; see <a href=http://wiki.eveuniversity.org/Directional_Scanner_Guide>Eve University's Directional Scanner Guide</a> for more information.
+3人以上のフリートでは、1人のプレイヤーを「スカウト (偵察) 」として派遣することがかなり一般的です。先行してフリートが攻撃できそうな目標を探したり、航路上にある危険を知らせたりするのが役目です。 この役割はフリゲート乗りのパイロットに最適です。 スカウトにとっては、指向性スキャン (ディレクショナルスキャン、Dスキャン) の使い方を極めることが生命線となります。 詳しくは、 \[B-OSP Wikiの「Dスキャンの使い方」のページ\](http://seesaawiki.jp/eveonline_b-osp_wiki/d/D%A5%B9%A5%AD%A5%E3%A5%F3%A4%CE%BB%C8%A4%A4%CA%FD) をご覧ください。
 
 ### なんで？
 
-PvP in EVE can generate quite a rush, and several pilots report cases of "the shakes" after a close battle. Working with your friends to outsmart opponents and overpower them, or simply prey on any hapless victims you find, can be a good way to socialize with your fleetmates, grow as a pilot and, quite simply, have fun.
+EVEにおけるPvPはかなりの快感を生み出すことがあり、何人かのパイロットは激戦の後にある種の「発作」が起きる、とも言っています。 Working with your friends to outsmart opponents and overpower them, or simply prey on any hapless victims you find, can be a good way to socialize with your fleetmates, grow as a pilot and, quite simply, have fun.
