@@ -6,7 +6,7 @@ EVEのプレイヤーは歴史上、プレイヤー運営のコンテンツに�
 crwMD_Iframe_0
 </div>
 
-In addition to the ideas listed here, there's also others mentioned in the [UniWiki 'EVE Careers 101'](http://wiki.eveuniversity.org/EVE_Careers_101) article, not to mention countless other possible ways to play.
+ここに示されているもの以外にも、例えば \[Resident Eve プレイスタイルとキャリア（初心者向け）\](http://everesearcher.blog.fc2.com/blog-entry-83.html) などで他の遊び方も言及されています。しかし、様々なサイトに書かれている以外にも、あり得る遊び方は数えきれないほどあります。
 
 {{% figure src="/images/wtd.jpg" %}}
 
