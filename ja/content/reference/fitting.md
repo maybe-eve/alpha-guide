@@ -45,14 +45,9 @@ FITの要というのは、したがって、これらのリソースを最も�
 
 EVEでは、船はあなたの分身ではありません。道具です。 道具というものにはそれぞれ、何か特定の目的があるはずです。 確かにレンチを使って釘を打ったり、ドライバーで穴を掘ったりすることはできますが、それ専用の道具を使ったほうが圧倒的に便利なはずです。
 
-Similarly, it's usually better to fit a ship to be very good at one thing,  
-rather than mediocre at a lot of things. Then, when flying,  
-concentrate on keeping yourself in your optimal situation whenever possible.
+これと同じように、一般的には、船はたくさんのことをほどほどにこなせるようにするよりも、ただひとつのことを一番うまくこなせるようにFITするとよいでしょう。 そして、船を飛ばしている時は、自分の船にとって有利な状況を出来る限り維持することに集中するようにしましょう。
 
-For example, it's better to build a ship with a lot of the same type of guns   
-in order to be excellent at fighting at a range of about 10km,  
-rather than fitting a smattering of different weapons to do  
-poor damage anywhere from 1km to 20km. A lot of what you'll be doing when piloting that ship, then,  
+例えば、てんでバラバラの種類の兵器を積んで、1kmから20kmまでどこにでも低ダメージをばら撒けるようにするよりも、同じ種類の砲台をたくさん積んで、10km前後での交戦では最強になれるように船をFITとよいでしょう。 A lot of what you'll be doing when piloting that ship, then,  
 is doing whatever you can to ensure that you and your foes stay separated by about 10km.
 
 When coming up with a focus for the fit, a good first stop is to check the ship's bonuses,  
