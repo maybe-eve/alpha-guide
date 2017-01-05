@@ -1,13 +1,12 @@
 +++  
-title = "How to Fit Ships Well"  
+title = "艦船のFIT指針"  
 toc = true  
 date = "2016-11-18T18:56:39-08:00"  
 weight = 1  
 prev = "/reference/"  
 +++
 
-The walkthrough portion of this guide has a number of suggested fits, but perhaps  
-you want to design your own fits - or a fit for a ship that isn't mentioned. Well, as they say...give a capsuleer a fit and they'll fly for a day. Teach a capsuleer to fit, and they'll keep flying for the rest of their immortal life.
+このガイドの一連の解説の部分では、いくつかオススメのFITを紹介してきました。しかし、あなたはきっと自分で自分のFITを作り上げたい、もしくはこのガイドでは言及されていない船をFITしたい、と思っていることでしょう。 ええ、よく言われているように……カプセラにFITを教えよう、そうすれば彼らは一日だけ船を飛ばすことができる。 Teach a capsuleer to fit, and they'll keep flying for the rest of their immortal life.
 
 This page is intended to teach you how to do just that,  
 outlining some of the theory and practice of creating your own ship fits.
@@ -16,9 +15,9 @@ As an alternate resource written for Omega clones, you can look at the
 [EVE University Fitting Guide](http://wiki.eveuniversity.org/Fitting_Guidelines)  
 for another perspective.
 
-### We'll Do It Live!
+### 大丈夫だ、問題ない
 
-(Don't do it live.)
+(そんな装備で大丈夫か？)
 
 You could make a fit by simply buying modules off the market,  
 then throwing together whatever you have room for. This will result in a lot  
