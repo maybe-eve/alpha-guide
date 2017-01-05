@@ -20,11 +20,7 @@ for another perspective.
 
 確かにマーケットから適当にモジュールを買ってきて、それを船に搭載できる限り突っ込めば、FITらしきものは出来上がるでしょう。 しかしこれでは結局お金の無駄遣いになってしまいます。特にリグに手を出し始めた時が危険です。
 
-その代わりに、実際にFITする前にシミュレーションをしてみることをオススメします。 あなたがFIT計画を立てるのに役立つように、ゲーム内に「シミュレーションモード」が用意されています。 If you open your fitting window (with alt+F), then at the top-right, there will  
-be a white ship silhouette. Clicking on that will let you enter "Simulation Mode",  
-constructing a fit from any modules in the game, using your own skills at the time,  
-without having to buy a thing. You'll want to expand the Browser (the wrench on the left)  
-and the Attributes (the tab on the right) while building.
+その代わりに、実際にFITする前にシミュレーションをしてみることをオススメします。 あなたがFIT計画を立てるのに役立つように、ゲーム内に「シミュレーションモード」が用意されています。 装備ターミナルウィンドウを開いた時(Alt+Fで)、右上の方に、船の白いシルエットマークがあるはずです。 それをクリックすると「シミュレーションモード」に入れます。これを使えば、ゲーム内の全てのモジュールを使って、現在の自分のスキルが適用された状態で、実際に物を購入しなくてもFITを組むことができます。 FITを組んでいる間は、ブラウザ欄 (左側のレンチマーク) と属性欄 (右側のタブ) を展開表示するとよいでしょう。
 
 Alternately, there's several out-of-game tools to do this, the most notable being  
 [Python Fitting Assistant (Pyfa)](https://github.com/pyfa-org/pyfa/releases/),   
