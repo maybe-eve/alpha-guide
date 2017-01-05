@@ -39,15 +39,11 @@ prev = "/reference/"
 
 これらのリソースは制限として働きます。つまり、CPUやパワーグリッドが足りなくなってしまうようなモジュールは装備できませんし、空いていないスロットにモジュールを装備することもできません。 ただ、それらを「空けておく」メリットも全くありません。例えば、CPUが100も余っているような船は全く余っていない船に比べると劣りますが、CPUが0.1足りないだけでも船のモジュールは起動できず、いくつかオフラインにして空けなければいけなくなります。
 
-FITの要というのは、したがって、これらのリソースを最も効率的に使うことにあります。 If you have spare CPU/Grid/Slots, you should be asking yourself  
-"Is there a way I could use more of them to improve this fit"? When you're using up a slot by fitting a module, ask yourself  
-"How does this module contribute to the goal of the fit?"
+FITの要というのは、したがって、これらのリソースを最も効率的に使うことにあります。 もしCPU/PG/スロットが空いている場合、「このFITを改善するために、この余りを有効活用できないだろうか？」と自問自答してみましょう。 もしスロットが足りなくなってしまったなら、今度は「このモジュールはFITの目標を実現するための役に立っているのだろうか？」と自問自答してみましょう。
 
-### Specialization
+### 特化
 
-In EVE, your ship is not your character; your ship is a tool. Each tool has its own specified purpose. You might be able to use a wrench  
-to hammer in nails, or a screwdriver to drill a hole, but it's far better  
-to use the tool built to do those things.
+EVEでは、船はあなたの分身ではありません。道具です。 道具というものにはそれぞれ、何か特定の目的があるはずです。 確かにレンチを使って釘を打ったり、ドライバーで穴を掘ったりすることはできますが、それ専用の道具を使ったほうが圧倒的に便利なはずです。
 
 Similarly, it's usually better to fit a ship to be very good at one thing,  
 rather than mediocre at a lot of things. Then, when flying,  
