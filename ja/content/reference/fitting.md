@@ -10,9 +10,7 @@ prev = "/reference/"
 
 このページでは、船をFITする方法を詳しく解説することを目的としていますが、あなたが自分でFITを作るために役に立つ理論や経験則のいくつかの概略も示しています。
 
-As an alternate resource written for Omega clones, you can look at the  
-[EVE University Fitting Guide](http://wiki.eveuniversity.org/Fitting_Guidelines)  
-for another perspective.
+オメガクローンのためのガイドとしては、別の視点から書かれた [Japan Wiki の「Fittingセオリー」](http://eveonline-japanwiki.com/module/fitting)を見るとよいでしょう。
 
 ### 大丈夫だ、問題ない
 
@@ -37,16 +35,11 @@ for another perspective.
 - 船の**スロット数の配分**
 - 船の**タレット/ランチャーハードポイント**
 
-You're also limited by your skills in what you can fit,  
-and the effectiveness of the modules you do fit.
+また、スキルに応じて装備できるモジュールは制限されますし、モジュールの効果もスキルレベルによって変わります。
 
-These resources are limits: you can't fit modules that would take you over your  
-maximum CPU or Power Grid, and you can't fit modules to slots you don't have. There's no benefit to "saving" them, though;  
-a ship with 100 spare CPU doesn't get any benefit over a ship with  
-0.0 spare CPU, but a ship with -0.1 CPU left will have to offline some of its modules  
-until it's back under the limit.
+これらのリソースは制限として働きます。つまり、CPUやパワーグリッドが足りなくなってしまうようなモジュールは装備できませんし、空いていないスロットにモジュールを装備することもできません。 ただ、それらを「空けておく」メリットも全くありません。例えば、CPUが100も余っているような船は全く余っていない船に比べると劣りますが、CPUが0.1足りないだけでも船のモジュールは起動できず、いくつかオフラインにして空けなければいけなくなります。
 
-A lot of the art of fitting, therefore, lies in spending these resources most efficiently. If you have spare CPU/Grid/Slots, you should be asking yourself  
+FITの要というのは、したがって、これらのリソースを最も効率的に使うことにあります。 If you have spare CPU/Grid/Slots, you should be asking yourself  
 "Is there a way I could use more of them to improve this fit"? When you're using up a slot by fitting a module, ask yourself  
 "How does this module contribute to the goal of the fit?"
 
