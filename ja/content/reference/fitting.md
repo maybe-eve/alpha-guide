@@ -47,7 +47,7 @@ EVEでは、船はあなたの分身ではありません。道具です。 道�
 
 これと同じように、一般的には、船はたくさんのことをほどほどにこなせるようにするよりも、ただひとつのことを一番うまくこなせるようにFITするとよいでしょう。 そして、船を飛ばしている時は、自分の船にとって有利な状況を出来る限り維持することに集中するようにしましょう。
 
-例えば、てんでバラバラの種類の兵器を積んで、1kmから20kmまでどこにでも低ダメージをばら撒けるようにするよりも、同じ種類の砲台をたくさん積んで、10km前後での交戦では最強になれるように船をFITとよいでしょう。 A lot of what you'll be doing when piloting that ship, then,  
+例えば、てんでバラバラの種類の兵器を積んで、1kmから20kmまでどこにでも低ダメージをばら撒けるようにするよりも、同じ種類の砲台をたくさん積んで、10km前後での交戦では最強になれるように船をFITするとよいでしょう。 A lot of what you'll be doing when piloting that ship, then,  
 is doing whatever you can to ensure that you and your foes stay separated by about 10km.
 
 When coming up with a focus for the fit, a good first stop is to check the ship's bonuses,  
