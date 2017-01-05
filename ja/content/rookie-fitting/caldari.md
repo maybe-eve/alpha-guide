@@ -1,11 +1,4 @@
-+++  
-toc = true  
-date = "2016-11-18T17:33:01-08:00"  
-title = カルダリ (イビス)"  
-weight = 1  
-next = "/market/"  
-prev = "/rookie-fitting/"  
-+++
++++ toc = true date = "2016-11-18T17:33:01-08:00" title = "カルダリ (イビス)" weight = 1 next = "/market/" prev = "/rookie-fitting/" +++
 
 カルダリ向けのコルベット艦はイビス (Ibis) です。<object type="image/svg+xml" data="https://o.smium.org/api/convert/119446/svg/119446-alpha-ibis-wdrone.svg?privatetoken=3595180998788120576"><a href="https://o.smium.org/loadout/private/119446/3595180998788120576">Alpha Ibis w/Drones を Osmium で見る</a></object>### 武器
 
