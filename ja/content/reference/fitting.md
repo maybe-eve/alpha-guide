@@ -22,23 +22,20 @@ for another perspective.
 
 その代わりに、実際にFITする前にシミュレーションをしてみることをオススメします。 あなたがFIT計画を立てるのに役立つように、ゲーム内に「シミュレーションモード」が用意されています。 装備ターミナルウィンドウを開いた時(Alt+Fで)、右上の方に、船の白いシルエットマークがあるはずです。 それをクリックすると「シミュレーションモード」に入れます。これを使えば、ゲーム内の全てのモジュールを使って、現在の自分のスキルが適用された状態で、実際に物を購入しなくてもFITを組むことができます。 FITを組んでいる間は、ブラウザ欄 (左側のレンチマーク) と属性欄 (右側のタブ) を展開表示するとよいでしょう。
 
-Alternately, there's several out-of-game tools to do this, the most notable being  
-[Python Fitting Assistant (Pyfa)](https://github.com/pyfa-org/pyfa/releases/),   
-[Osmium](https://o.smium.org/),   
-and [EVE Fitting Tool (EFT)](https://forums.eveonline.com/default.aspx?g=posts&t=24359),  
-though EFT is no longer being updated and is now several months out of date. Some of these have additional features, such as seeing how the fit would  
-vary with different skill levels or testing its damage application  
-against a variety of targets, or they can just be used  
-while you're away from the game client itself.
+もしくは、いくつかあるゲーム外ツールを使うこともできます。有名なものとしては、  
+[Python Fitting Assistant (Pyfa)](https://github.com/pyfa-org/pyfa/releases/)、  
+[Osmium](https://o.smium.org/)、  
+[EVE Fitting Tool (EFT)](https://forums.eveonline.com/default.aspx?g=posts&t=24359)  
+などがあります。ただし、EFTはアップデートが止まっていて、数カ月ほど更新されていません。 このうちのいくつかは追加機能を持っていて、スキルレベルによってFITのステータスがどのように変化するかを見てみたり、またいろいろな種類の仮想敵に対してどれくらいダメージが出るのかをテストしてみたりすることができます。もちろん、ゲームを起動してない時に使う、という使い方もできます。
 
-### Resources
+### リソース
 
-When fitting your ship, there's a few different constraints that limit what you can use:
+船をFITしている際にはいくつかの異なる種類の制約があって、それによって使えるモジュールが制限されます：
 
-- The ship's **CPU**.
-- The ship's **Power Grid.**
-- The ship's **Slot Layout.**
-- The ship's **Turret and Launcher Hardpoints.**
+- 船の**CPU**
+- 船の**パワーグリッド**
+- 船の**スロット数の配分**
+- 船の**タレット/ランチャーハードポイント**
 
 You're also limited by your skills in what you can fit,  
 and the effectiveness of the modules you do fit.
@@ -802,5 +799,4 @@ If I had any other Compact modules on the fit, I might stop now and review
 whether I could spend my scant remaining CPU and grid to upgrade one of them  
 to a variant such as Enduring or Restrained. But I don't, so I won't.
 
-Satisfied with the fit, we load ammo, hop in, and prepare to bring 150mm of antimatter justice  
-to any pirate that stands in our way.<object type="image/svg+xml" data="https://o.smium.org/api/convert/118480/svg/118480-alpha-clone---improved-cormorant.svg?privatetoken=988938429179887616"><a href="https://o.smium.org/loadout/private/118480/988938429179887616">View Alpha Clone - Improved Cormorant on Osmium</a></object>
+FITに満足が行ったら、弾薬を装填し、我々の目の前に立ちはだかる全ての海賊に対して、正義の150mmアンチマター弾をお見舞いする用意をしましょう。<object type="image/svg+xml" data="https://o.smium.org/api/convert/118480/svg/118480-alpha-clone---improved-cormorant.svg?privatetoken=988938429179887616"><a href="https://o.smium.org/loadout/private/118480/988938429179887616">View Alpha Clone - Improved Cormorant on Osmium</a></object>
