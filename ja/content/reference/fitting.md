@@ -6,10 +6,9 @@ weight = 1
 prev = "/reference/"  
 +++
 
-このガイドの一連の解説の部分では、いくつかオススメのFITを紹介してきました。しかし、あなたはきっと自分で自分のFITを作り上げたい、もしくはこのガイドでは言及されていない船をFITしたい、と思っていることでしょう。 ええ、よく言われているように……カプセラにFITを教えよう、そうすれば彼らは一日だけ船を飛ばすことができる。 Teach a capsuleer to fit, and they'll keep flying for the rest of their immortal life.
+このガイドの一連の解説の部分では、いくつかオススメのFITを紹介してきました。しかし、あなたはきっと自分で自分のFITを作り上げたい、もしくはこのガイドでは言及されていない船をFITしたい、と思っていることでしょう。 ええ、こういう格言があります……カプセラにFITを教えよう、そうすれば彼らは一日だけ、船を飛ばすことができるだろう。 カプセラにFITのやり方を教えよう、そうすれば彼らは船を飛ばし続けることができるだろう、彼らの不滅の人生の残り全てを。
 
-This page is intended to teach you how to do just that,  
-outlining some of the theory and practice of creating your own ship fits.
+このページでは、あなたに船をFITする方法だけを教えるためのものですが、あなたが自分でFITを作るために役に立つ理論や経験則のいくつかの概略も示しています。
 
 As an alternate resource written for Omega clones, you can look at the  
 [EVE University Fitting Guide](http://wiki.eveuniversity.org/Fitting_Guidelines)  
@@ -19,11 +18,9 @@ for another perspective.
 
 (そんな装備で大丈夫か？)
 
-You could make a fit by simply buying modules off the market,  
-then throwing together whatever you have room for. This will result in a lot  
-of wasted money, though, especially when you start messing with Rigs.
+確かにマーケットから適当にモジュールを買ってきて、それを船に搭載できる限り突っ込めば、FITらしきものは出来上がるでしょう。 しかしこれでは結局お金の無駄遣いになってしまいます。特にリグに手を出し始めた時が危険です。
 
-Instead, it's better to simulate the fit ahead of time. There's a Simulation Mode built right into the game to help you plan out your fits. If you open your fitting window (with alt+F), then at the top-right, there will  
+その代わりに、実際にFITする前にシミュレーションをしてみることをオススメします。 あなたがFIT計画を立てるのに役立つように、ゲーム内に「シミュレーションモード」が用意されています。 If you open your fitting window (with alt+F), then at the top-right, there will  
 be a white ship silhouette. Clicking on that will let you enter "Simulation Mode",  
 constructing a fit from any modules in the game, using your own skills at the time,  
 without having to buy a thing. You'll want to expand the Browser (the wrench on the left)  
