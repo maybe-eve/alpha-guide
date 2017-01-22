@@ -79,9 +79,7 @@ FITの方針を定める際によい手始めとなるのが、艦船の固有�
 
 ミディアムスロットはシールド強化モジュールに使われます。つまり、ほとんどのカルダリ船やミンマター船にとっては、主要な「防御用」スロットとなります。 シールドブースターはキャパシタを大量に消費してシールドを回復する一方、シールドエクステンダーは装備するだけで最大HPを増加させます (ただし、敵の攻撃が当たりやすくなります) 。 どれを選ぶにしても、シールドのダメージ耐性を高めるシールドハードナーを併用するとよいでしょう。
 
-Mids are also used for Electronic Warfare modules, such as   
-stasis webifiers, ECM, sensor dampeners, weapon disruptors, and target painters. Notably for PvP fits, this is where you'll find Warp Disruptors and Warp Scramblers,  
-"tackle" modules that prevent your target from simply warping away.
+またミディアムスロットは、ステイシスウェビファイヤー、ECM、センサーダンプナー、兵器妨害器、ターゲットペインターなどの電子戦モジュールに使われます。 特にPvP用のFITにとっては、ワープ妨害器とワープスクランブラー、つまり標的をワープで逃げられないようにするための「タックル」装備を搭載する場所でもあります。
 
 There's also some capacitor-enhancing modules: Capacitor Batteries,  
 which increase your maximum capacitor; Capacitor Rechargers,  
