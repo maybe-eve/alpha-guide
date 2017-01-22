@@ -59,24 +59,15 @@ FITの方針を定める際によい手始めとなるのが、艦船の固有�
 
 すべての装備はそれぞれ、これらの4種類のスロットのうち、ただ1つだけに装備することができます。したがって、それぞれのスロットには、決まった使い道というものが存在しています。
 
-If you want to browse what your options are, in the "Hardware" tab of the simulator,  
-you can set the filters to only show modules for a given slot type,  
-and modules that fit only with your skills and the remaining fitting resources on your ship.
+何が使えるのか見てみたいなら、シミュレータの「ハードウェア」タブを開いて、見てみたい種類のスロットに装備できるモジュールのみを表示するように、そして現在のスキルで使えるものだけ、そして現在残っているリソースで装備できるものだけを表示するように、フィルタを設定することができます。
 
-The following sections will outline some of the main things you can use each slot type on.  
-The list is not exhaustive, but covers the majority of options.
+次の節ではそれぞれのスロットについて、主な使い道を大まかに説明します。このリストは選択肢を完全に網羅しているわけではありませんが、その大部分は網羅しています。
 
-#### High Slots
+#### ハイスロット
 
-High slots primarily bear offensive armament - most notably,   
-your ship's weapons, whether Turrets or Launchers. It's almost always best to fit as many Turrets/Launchers as you have hardpoints  
-(one or the other, if your ship has both), as that's where most of your damage will come from.
+ハイスロットには主に攻撃的なモジュールが装備されます - 特筆すべきは船に搭載する兵器、つまりタレットもしくはランチャーです。 ほぼ全ての場合で、タレット/ランチャーをハードポイント数が許す限り (両方ともある場合、どちらか片方だけ) 装備するとよいでしょう。与ダメージがこれによって決まってくるからです。
 
-If you have leftover high slots after using up all Hardpoints,  
-then you can fit what's known as a "utility high", modules that   
-provide some kind of benefit other than direct damage output to your locked target. These can be things like Energy Neutralizers that drain your enemy's capacitor,  
-Smartbombs to deal a pulse of area damage around yourself (good for clearing drones),  
-Salvagers to pick the bones of wrecks, and so on.
+もしハードポイントを使いきった後にハイスロットが余っている場合、「ユーティリティハイ」として知られているものを装備することができます。これは、ロックオンしている相手に直接ダメージを与える以外に、何か有利な効果をもたらすものです。 例えば、敵のキャパシタを枯渇させるエネルギーニュートライザー、自分の周囲に周期的に範囲ダメージを与えるスマートボム (敵のドローンを一掃するのに適しています) 、残骸から使えそうなものを回収するサルベージャーなどがあります。
 
 Additionally, high slots hold certain specialized equipment  
 for less combat-oriented ships. Probe Launchers for scanning ships,  
