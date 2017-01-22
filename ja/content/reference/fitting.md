@@ -49,14 +49,11 @@ EVEでは、船はあなたの分身ではありません。道具です。 道�
 
 例えば、てんでバラバラの種類の兵器を積んで、1kmから20kmまでどこにでも低ダメージをばら撒けるようにするよりも、同じ種類の砲台をたくさん積んで、10km前後での交戦では最強になれるように船をFITするとよいでしょう。 そうすることで、船を操縦するときにあれもこれもしなくちゃいけなかったのが、敵からだいたい10kmの距離を保つためにできることならなんでもする、とシンプルなものとなるでしょう。
 
-FITの方針を定める際によい手始めとなるのが、艦船の固有ボーナスを確かめることです。これは、「情報を表示」ウィンドウの「説明」タブに記載されています。 A ship bonused for armor repairs and hybrid turrets should probably be   
-an active-tanked armor fit with blasters, not a shield-buffer droneboat.
+FITの方針を定める際によい手始めとなるのが、艦船の固有ボーナスを確かめることです。これは、「情報を表示」ウィンドウの「説明」タブに記載されています。 例えば、アーマーリペアとハイブリッドタレットにボーナスを持っている艦船なら、シールドバッファタンクのドローン船としてFITするよりも、アクティブアーマータンクにしてブラスターを搭載するほうがよいでしょう。
 
-One aspect of "specialization" is that you shouldn't "dual-tank". That is, don't fit both shield and armor modules to the same ship;  
-focus your resources on having a strong armor tank *or* a strong shield tank. Modules for one don't help the other, and if you can't survive in one "layer",  
-it's unlikely that the other will do much better.
+「特化」という思想の１つの側面として、「デュアルタンク」をしてはならない、というものがあります。 つまり、同じ船にシールド強化とアーマー強化のモジュールを両方載せないようにしましょう。その代わりに、強力なアーマータンク*もしくは*強力なシールドタンクを搭載することに、リソースを割り当てましょう。 もし両方の防御を強化しようとしても、片方のためのモジュールはもう片方の強化には役に立ちません。しかも、特化装備に比べると防御が劣ってしまうので、ある「階層」が突破されてしまった場合に、他の階層ならもっと持ちこたえてくれる、ということは起こりにくいのです。
 
-### Slots
+### スロット
 
 So, by now you've noticed that your ship has High, Medium, Low, and Rig slots. It might seem a little random what goes where, though. What separates a High slot from a Low slot, or a Medium from a Rig?
 
