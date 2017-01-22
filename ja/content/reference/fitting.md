@@ -55,10 +55,9 @@ FITの方針を定める際によい手始めとなるのが、艦船の固有�
 
 ### スロット
 
-So, by now you've noticed that your ship has High, Medium, Low, and Rig slots. It might seem a little random what goes where, though. What separates a High slot from a Low slot, or a Medium from a Rig?
+さて、船にはハイスロット・ミディアムスロット・ロースロット・リグスロットがあることにそろそろ気づいていますね？ 何がどうなっているのかちょっとわかりにくいかもしれませんが……。 ハイスロットとロースロット、もしくはミディアムスロットとリグスロットの違いって一体何なのでしょう？
 
-Every piece of equipment can be fit to exactly one of these slot types.  
-Each type of slot, therefore, has a set of things that you can use that slot on.
+すべての装備はそれぞれ、これらの4種類のスロットのうち、ただ1つだけに装備することができます。したがって、それぞれのスロットには、決まった使い道というものが存在しています。
 
 If you want to browse what your options are, in the "Hardware" tab of the simulator,  
 you can set the filters to only show modules for a given slot type,  
