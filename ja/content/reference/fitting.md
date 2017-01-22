@@ -69,24 +69,15 @@ FITの方針を定める際によい手始めとなるのが、艦船の固有�
 
 もしハードポイントを使いきった後にハイスロットが余っている場合、「ユーティリティハイ」として知られているものを装備することができます。これは、ロックオンしている相手に直接ダメージを与える以外に、何か有利な効果をもたらすものです。 例えば、敵のキャパシタを枯渇させるエネルギーニュートライザー、自分の周囲に周期的に範囲ダメージを与えるスマートボム (敵のドローンを一掃するのに適しています) 、残骸から使えそうなものを回収するサルベージャーなどがあります。
 
-Additionally, high slots hold certain specialized equipment  
-for less combat-oriented ships. Probe Launchers for scanning ships,  
-Remote Armor Repairers and Remote Shield Boosters to "heal" your allies for logistics ships,  
-Tractor Beams for industrials gathering cargo ejected by allied ships,  
-and so on.
+それに加えてハイスロットは、戦闘向きではない船のための特定の特殊な装備を搭載する場所でもあります。 スキャン船にはプローブランチャー、支援型艦船には味方を「回復」するためのリモートアーマーリペアラとリモートシールドブースター、輸送艦には味方の船が放出した貨物を回収するためのトラクタービーム、と様々なものがあります。
 
-#### Mid Slots
+#### ミディアムスロット
 
-Mid slots tend to contain CPU-intensive systems.
+ミディアムスロットに装備できるモジュールはCPUを多く使う傾向があります。
 
-One module that nearly every ship will want is a Propulsion Module  
-of choice - either an Afterburner or a Microwarpdrive.
+ほとんど全ての船に装備したいモジュールとしては推進力モジュールがあり、アフターバーナーかマイクロワープドライブのどちらかを選ぶことになります。
 
-Mids are also used for Shield modules, meaning that they're the  
-primary "defensive" slots of most Caldari and Minmatar ships. Shield Boosters will restore your shields in exchange for large amounts of capacitor,  
-while Shield Extenders provide a passive boost to your maximum HP   
-(but make your ship slightly easier to hit). Whichever you choose, they're well complemented by Shield Hardeners,  
-which increase your shields' resistance to damage.
+ミディアムスロットはシールド強化モジュールに使われます。つまり、ほとんどのカルダリ船やミンマター船にとっては、主要な「防御用」スロットとなります。 シールドブースターはキャパシタを大量に消費してシールドを回復する一方、シールドエクステンダーは装備するだけで最大HPを増加させます (ただし、敵の攻撃が当たりやすくなります) 。 どれを選ぶにしても、シールドのダメージ耐性を高めるシールドハードナーを併用するとよいでしょう。
 
 Mids are also used for Electronic Warfare modules, such as   
 stasis webifiers, ECM, sensor dampeners, weapon disruptors, and target painters. Notably for PvP fits, this is where you'll find Warp Disruptors and Warp Scramblers,  
