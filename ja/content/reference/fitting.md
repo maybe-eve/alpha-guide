@@ -89,17 +89,9 @@ FITの方針を定める際によい手始めとなるのが、艦船の固有�
 
 ロースロットに装備できるモジュールはパッシブモジュール (装備するだけで効果が発動するモジュール) が多く、またパワーグリッドを多く消費する傾向があります。
 
-One module that nearly every ship will want is a "Damage Control",  
-which provides a mild boost to your shield and armor resistances,  
-but a huge bonus to the toughness of your hull. A Damage Control  
-is one of the most efficient ways to gain EHP (Effective Hit Points),  
-and will give you more time to try and warp out - or kill your attacker -   
-if things are going badly.
+ほとんど全ての船に装備したいモジュールとして「ダメージ制御 (通称ダメコン) 」があります。これは、シールドとアーマーのダメージ耐性をほどほどに強化する一方、船体HPの耐久性に強力なボーナスを与えるものです。 ダメージ制御はEHP (実効HP、耐性の効果を考慮して耐性0相当に換算したHP) を増加させるための最も効率的な手段の１つで、装備しておけば、状況が芳しくなくなってきた時にワープで逃げるための時間 - もしくは敵を殺すための時間 - を稼いでくれることでしょう。
 
-Lows are also used for Armor modules, meaning that they're the primary  
-"defensive" slots of most Amarr and Gallente ships. Armor Repairers will restore your armor over time in exchange for capacitor,  
-while Armor Plates provide a passive boost to your maximum HP (but slow down your ship). Whichever you choose, they're well complemented by Armor Hardeners,  
-which increase your armor's resistance to damage.
+また、ロースロットはアーマー強化モジュールにも使われます。つまり、ほとんどのアマー船やガレンテ船にとっては、主要な「防御用」スロットとなります。 アーマーリペアラはキャパシタを消費してゆっくりとアーマーを回復できる一方、アーマープレートは装備するだけで最大HPを増加させます (ただし、船の速度が遅くなります) 。 どれを選ぶにしても、アーマーのダメージ耐性を高めるアーマーハードナーを併用するとよいでしょう。
 
 The other main use is Damage Mods: passive modules that improve your  
 weapons' damage and rate of fire. There's a different type for each weapon system:  
