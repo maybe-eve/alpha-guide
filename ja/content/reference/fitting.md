@@ -93,15 +93,9 @@ FITの方針を定める際によい手始めとなるのが、艦船の固有�
 
 また、ロースロットはアーマー強化モジュールにも使われます。つまり、ほとんどのアマー船やガレンテ船にとっては、主要な「防御用」スロットとなります。 アーマーリペアラはキャパシタを消費してゆっくりとアーマーを回復できる一方、アーマープレートは装備するだけで最大HPを増加させます (ただし、船の速度が遅くなります) 。 どれを選ぶにしても、アーマーのダメージ耐性を高めるアーマーハードナーを併用するとよいでしょう。
 
-The other main use is Damage Mods: passive modules that improve your  
-weapons' damage and rate of fire. There's a different type for each weapon system:  
-Gyrostabilizers for projectiles, Magnetic Field Stabilizers for hybrids,  
-Heat Sinks for lasers, Ballistic Control Systems for missiles,   
-and Drone Damage Amplifiers for drones.
+その他の主な用途はダメージ増加モジュールです。これは装備するだけで兵器のダメージや連射速度を増加させます。 それぞれの兵器システムに応じて、使うモジュールの種類が違います。プロジェクタイル兵器には回転制御機、ハイブリッド兵器には磁場制御機、レーザー兵器には放熱機、ミサイルには弾道制御装置、ドローンにはドローンダメージ増幅器、となっています。
 
-Finally, lowslots can contain modules that give your ship more fitting room. Auxiliary Power Cores, Reactor Control Units, and Power Diagnostic Systems  
-will give your ship more Power Grid, while Co-Processors will give it more CPU. Try not to spend too many slots on these; usually if you have to spend more  
-than one or two slots on "fitting mods", you should be scaling things back elsewhere instead. Slots are a resource, spend them wisely!
+最後に、ロースロットにはFITの余裕を増やすためのモジュールを載せることがあります。 補助パワーコア、リアクター制御装置、そしてパワー計測システムは艦船のパワーグリッドを増加させ、コプロセッサーはCPUを増加させます。 これらのモジュールにあまりスロットを多く使わないようにしましょう。なぜなら、1個や2個以上のスロットをこういった「FIT用モジュール」に費やさないといけない場合は、通常は何か別の方法でリソースの使用量を減らすべきだからです。 スロットだってリソースです。賢く使いましょう！
 
 #### Rigs
 
