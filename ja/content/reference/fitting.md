@@ -81,15 +81,13 @@ FITの方針を定める際によい手始めとなるのが、艦船の固有�
 
 またミディアムスロットは、ステイシスウェビファイヤー、ECM、センサーダンプナー、兵器妨害器、ターゲットペインターなどの電子戦モジュールに使われます。 特にPvP用のFITにとっては、ワープ妨害器とワープスクランブラー、つまり標的をワープで逃げられないようにするための「タックル」装備を搭載する場所でもあります。
 
-また、キャパシタを強化するモジュールもミディアムスロットです。キャパシタバッテリーはキャパシタの最大値を増加させ、キャパシタリチャージャーはキャパシタの回復速度を自動的に上げ、キャパシタブースターはキャップブースターチャージを「弾薬」として使ってエネルギーを瞬時に補給することができます。
+また、キャパシタを強化するモジュールもあります。キャパシタバッテリーはキャパシタの最大値を増加させ、キャパシタリチャージャーはキャパシタの回復速度を自動的に上げ、キャパシタブースターはキャップブースターチャージを「弾薬」として使ってエネルギーを瞬時に補給することができます。
 
-Finally, there's various modules that let you enhance some aspects of your own  
-or other ships, usually in exchange for a small amount of capacitor. Tracking Computers, Sensor Boosters, Missile Guidance Computers,   
-and Omnidirectional Tracking Links, among others, fall under this heading.
+最後に、キャパシタを少し消費する代わりに、あなた自身の船や他の船の性能を様々な面で強化するモジュールもあります。 その中でも、トラッキングコンピューター、センサーブースター、ミサイル誘導コンピューター、全方位トラッキングリンクなどが、ミディアムスロットに装備されます。
 
-#### Low Slots
+#### ロースロット
 
-Low slots tend to contain passive modules and/or Power Grid-intensive systems.
+ロースロットに装備できるモジュールはパッシブモジュール (装備するだけで効果が発動するモジュール) が多く、またパワーグリッドを多く消費する傾向があります。
 
 One module that nearly every ship will want is a "Damage Control",  
 which provides a mild boost to your shield and armor resistances,  
