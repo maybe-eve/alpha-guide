@@ -81,10 +81,7 @@ FITの方針を定める際によい手始めとなるのが、艦船の固有�
 
 またミディアムスロットは、ステイシスウェビファイヤー、ECM、センサーダンプナー、兵器妨害器、ターゲットペインターなどの電子戦モジュールに使われます。 特にPvP用のFITにとっては、ワープ妨害器とワープスクランブラー、つまり標的をワープで逃げられないようにするための「タックル」装備を搭載する場所でもあります。
 
-There's also some capacitor-enhancing modules: Capacitor Batteries,  
-which increase your maximum capacitor; Capacitor Rechargers,  
-which passively increase your recharge rate; and Capacitor Boosters,  
-which let you use Cap Booster charges as "ammo" for instant injections of energy.
+また、キャパシタを強化するモジュールもミディアムスロットです。キャパシタバッテリーはキャパシタの最大値を増加させ、キャパシタリチャージャーはキャパシタの回復速度を自動的に上げ、キャパシタブースターはキャップブースターチャージを「弾薬」として使ってエネルギーを瞬時に補給することができます。
 
 Finally, there's various modules that let you enhance some aspects of your own  
 or other ships, usually in exchange for a small amount of capacitor. Tracking Computers, Sensor Boosters, Missile Guidance Computers,   
