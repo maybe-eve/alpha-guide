@@ -99,12 +99,9 @@ FITの方針を定める際によい手始めとなるのが、艦船の固有�
 
 #### リグ
 
-Rigs are passive modifications to your ship,  
-which generally trade off one attribute for another.  
-Unlike modules, they cannot be removed, only destroyed or replaced with another.
+リグを装備すると船の性能が自動的に強化されますが、一般的に別の性能が代償として下がります。 モジュールと異なり、リグは取り外すことができず、破壊するか他のもので上書きすることしかできません。
 
-Rigs have a "calibration cost", which is sort of like CPU or Power Grid but applies only to rigs. You can't fit rigs that exceed your ship's maximum Calibration (usually 400, with rigs  
-usually costing between 50 and 200 apiece).
+CPUやパワーグリッドのような制限として、リグには専用の「キャリブレーションコスト」というものが存在します。 キャリブレーションの最大値 (通常は400、対してリグは1個あたり50〜200) を超えてリグをFITすることはできません。
 
 Which rig is appropriate to your ship is going to depend highly on what you want your fit to do.  
 Some common ones, though this is by no means an exhaustive list:
