@@ -37,7 +37,7 @@ The `Small Capacitor Booster I` can provide your ship with an instant injection 
 The `Salvager I` allows you to salvage any Wrecks you come across for valuable materials. While you should not delay combat to stop and salvage wrecks without a more specialized salvage ship,  
 it can provide some side income by salvaging wrecks while your drones continue engaging targets.
 
-### Rigs
+### リグ
 
 Rigs are passive modifications to a ship, trading off one attribute against another. Unlike modules, rigs cannot be removed without being destroyed. As a starter fit, this fit makes limited use of rigging, since many "optimal" rigs  
 are often relatively expensive and may be difficult to find near your starter station.
