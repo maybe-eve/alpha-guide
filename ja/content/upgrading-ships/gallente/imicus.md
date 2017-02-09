@@ -34,7 +34,7 @@ you to warp out and escape.
 The `1MN Afterburner I` provides your ship with additional speed. This makes it easier to  
 reach exploration containers and evade enemies.
 
-### Rigs
+### リグ
 
 Rigs are passive modifications to a ship, trading off one attribute against another.  
 Unlike modules, rigs cannot be removed without being destroyed.
