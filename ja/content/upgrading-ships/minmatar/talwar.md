@@ -38,7 +38,7 @@ The `Small Capacitor Booster I` can provide your ship with an instant injection 
 The `Nanofiber Internal Structure I` gives the ship additional speed and maneuverability. It thus makes it easier to stay at the appropriate range from your targets. It is not a preferred option, but the missile launchers' strain on the ship's Powergrid  
 prevent fitting more powerful choices.
 
-### Rigs
+### リグ
 
 Rigs are passive modifications to a ship, trading off one attribute against another. Unlike modules, rigs cannot be removed without being destroyed. As a starter fit, this fit makes limited use of rigging, since many "optimal" rigs  
 are often relatively expensive and may be difficult to find near your starter station.
