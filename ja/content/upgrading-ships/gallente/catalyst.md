@@ -30,7 +30,7 @@ It also fits a `Damage Control I` to increase its resistance to damage.
 The `Stasis Webifier I` helps your projectiles apply their damage better, because it's easier to hit  
 the slower targets. (It also makes it easier to stay at the proper range from the slower enemies.)
 
-### Rigs
+### リグ
 
 Rigs are passive modifications to a ship, trading off one attribute against another. Unlike modules, rigs cannot be removed without being destroyed. As a starter fit, this fit makes limited use of rigging, since many "optimal" rigs  
 are often relatively expensive and may be difficult to find near your starter station.
