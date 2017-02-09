@@ -37,7 +37,7 @@ The `Small Capacitor Booster I` can provide your ship with an instant injection 
 The `Stasis Webifier I` helps your missiles apply their damage better to the slower targets.  
 It also allows you to hold an enemy at bay while you stay at range.
 
-### Rigs
+### リグ
 
 Rigs are passive modifications to a ship, trading off one attribute against another. Unlike modules, rigs cannot be removed without being destroyed. As a starter fit, this fit makes limited use of rigging, since many "optimal" rigs  
 are often relatively expensive and may be difficult to find near your starter station.
