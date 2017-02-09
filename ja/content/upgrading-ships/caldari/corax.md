@@ -34,7 +34,7 @@ It also fits a `Damage Control I` and an `EM Ward Amplifier I` to increase its r
 The `Stasis Webifier I` helps your rockets apply their damage better.   
 (It also makes it easier to stay in range of the slower enemies.)
 
-### Rigs
+### リグ
 
 Rigs are passive modifications to a ship, trading off one attribute against another. Unlike modules, rigs cannot be removed without being destroyed. As a starter fit, this fit makes limited use of rigging, since many "optimal" rigs  
 are often relatively expensive and may be difficult to find near your starter station.
