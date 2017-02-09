@@ -36,7 +36,7 @@ while still allowing ample longevity for long missions with the armor repairer. 
 The `Micro Auxiliary Power Core I` provides your ship with additional Powergrid. This does not provide any direct combat benefit, but offers more room for the fitting  
 of Powergrid-hungry modules such as the armor plate.
 
-### Rigs
+### リグ
 
 Rigs are passive modifications to a ship, trading off one attribute against another. Unlike modules, rigs cannot be removed without being destroyed. As a starter fit, this fit makes limited use of rigging, since many "optimal" rigs  
 are often relatively expensive and may be difficult to find near your starter station.
