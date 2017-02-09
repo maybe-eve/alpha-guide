@@ -32,7 +32,7 @@ reach exploration containers and evade enemies.
 The `Micro Auxiliary Power Core I` provides your ship with additional Powergrid. This does not provide any direct combat benefit, but offers more room for the fitting  
 of Powergrid-hungry modules such as the shield extender.
 
-### Rigs
+### リグ
 
 Rigs are passive modifications to a ship, trading off one attribute against another.  
 Unlike modules, rigs cannot be removed without being destroyed.
