@@ -103,13 +103,12 @@ FITの方針を定める際によい手始めとなるのが、艦船の固有�
 
 CPUやパワーグリッドのような制限として、リグには専用の「キャリブレーションコスト」というものが存在します。 キャリブレーションの最大値 (通常は400、対してリグは1個あたり50〜200) を超えてリグをFITすることはできません。
 
-Which rig is appropriate to your ship is going to depend highly on what you want your fit to do.  
-Some common ones, though this is by no means an exhaustive list:
+あなたの船に適したリグは、FITで何をしたいのかに強く依存して決まります。 完全なリストではありませんが、よく使われるものとしては:
 
-- Shield/Armor Resistance Rigs (Anti-[TYPE] Screen Reinforcer or Anti-[TYPE] Pump)
-- Shield/Armor HP Rigs (Core Defense Field Extender or Trimark Armor Pump)
-- Capacitor Rigs (Capacitor Control Circuit or Semiconductor Memory Cell)
-- Fitting Rigs (Ancillary Current Router or Processor Overclocking Unit)
+- シールド/アーマー耐性リグ (対[属性]スクリーンレインフォーサー もしくは 対[属性]ポンプ)
+- シールド/アーマーHPリグ (コア防衛フィールドエクステンダー もしくは トライマークアーマーポンプ)
+- キャパシタリグ (キャパシタ制御回路 もしくは 半導体メモリーセル)
+- FIT用リグ (補助カレントルーター もしくは プロセッサーオーバークロックユニット)
 - Weapon Rigs ([TYPE] Collision Accelerator or [TYPE] Burst Aerator)
 
 #### Drones
