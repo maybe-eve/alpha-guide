@@ -31,7 +31,7 @@ It also fits a `Damage Control I` in a low slot to increase its resistance to da
 The `10MN Afterburner I` provides your ship with additional speed. (Note  
 that this is a cruiser-sized module, not the 1MN afterburners used on frigates and destroyers!)
 
-### Rigs
+### リグ
 
 Rigs are passive modifications to a ship, trading off one attribute against another. Unlike modules, rigs cannot be removed without being destroyed. As a starter fit, this fit makes limited use of rigging, since many "optimal" rigs  
 are often relatively expensive and may be difficult to find near your starter station.
