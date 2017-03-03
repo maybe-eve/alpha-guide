@@ -117,12 +117,11 @@ CPUやパワーグリッドのような制限として、リグには専用の�
 
 扱えるドローンの種類は、艦船のドローン収容量とドローン帯域幅によって決まります。艦船の「情報を表示」ウィンドウの「属性」タブに記載されています。
 
-- ライトドローンは 5m3 の容量を占め、コントロールするのに 5Mbit/sec の帯域が必要です。
-- Medium Drones take 10 m3 of space to store and 10 Mbit/sec of bandwidth to control.
-- Heavy Drones take 25 m3 of space to store and 25 Mbit/sec of bandwidth to control.
+- ライトドローンは 5 m3 の容量を占め、コントロールするのに 5 Mbit/sec の帯域が必要です。
+- ミディアムドローンは 10 m3 の容量を占め、コントロールするのに 10 Mbit/sec の帯域が必要です。
+- ヘビードローンは 25 m3 の容量を占め、コントロールするのに 25 Mbit/sec の帯域が必要です。
 
-Your pilot can control no more than five drones at any one time, and two "smaller"  
-drones is almost always better than one "bigger" drone. So, a ship with 25 Mbit/sec bandwidth and 40 m3 bay, like the Tristan,  
+ドローンはどんな時でも、一度に5機までコントロールすることができます。そして、あるサイズのドローン1機だけよりも、一段階小さなサイズのドローン2機のほうが、ほとんどすべての場合で高い火力を出すことができます。 So, a ship with 25 Mbit/sec bandwidth and 40 m3 bay, like the Tristan,  
 can control a "full flight" of five light drones with three in reserve;  
 the Algos, with 35 Mbit/sec and 60 m3, would be better served by a  
 primary flight of 2x Medium and 3x Light, with 5x Light in reserve.
