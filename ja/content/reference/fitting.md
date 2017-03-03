@@ -121,10 +121,7 @@ CPUやパワーグリッドのような制限として、リグには専用の�
 - ミディアムドローンは 10 m3 の容量を占め、コントロールするのに 10 Mbit/sec の帯域が必要です。
 - ヘビードローンは 25 m3 の容量を占め、コントロールするのに 25 Mbit/sec の帯域が必要です。
 
-ドローンはどんな時でも、一度に5機までコントロールすることができます。そして、あるサイズのドローン1機だけよりも、一段階小さなサイズのドローン2機のほうが、ほとんどすべての場合で高い火力を出すことができます。 So, a ship with 25 Mbit/sec bandwidth and 40 m3 bay, like the Tristan,  
-can control a "full flight" of five light drones with three in reserve;  
-the Algos, with 35 Mbit/sec and 60 m3, would be better served by a  
-primary flight of 2x Medium and 3x Light, with 5x Light in reserve.
+ドローンはどんな時でも、一度に5機までコントロールすることができます。そして、あるサイズのドローン1機だけよりも、一段階小さなサイズのドローン2機のほうが、ほとんどすべての場合で高い火力を出すことができます。 つまり、トリスタンのような 25 Mbit/sec の帯域と 40 m3 の容量を持つ船の場合、ライトドローンを5機コントロールすることができ、予備のライトドローンを3機確保することができます。 一方、 35 Mbit/sec の帯域と 60 m3 の容量を持つアルゴスの場合、2機のミディアムドローンと3機のライトドローンを使って戦い、予備として5機のライトドローンを確保するほうがよいでしょう。
 
 As with weapons and ships, bigger isn't always better when it comes to drones; see below.
 
