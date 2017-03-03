@@ -111,15 +111,13 @@ CPUやパワーグリッドのような制限として、リグには専用の�
 - FIT用リグ (補助カレントルーター もしくは プロセッサーオーバークロックユニット)
 - 武装強化リグ ([種類]衝突アクセラレーター もしくは [種類]バーストエアレーター)
 
-#### Drones
+#### ドローン
 
-A ship's Drone Bay can be considered part of its weapon system;  
-usually the best Drone Bays are found on Gallente and Amarr ships.
+艦船のドローンベイは、艦船の武装システムの一部として考えることができます。そして、ドローンを使うのに最適な艦船は、ガレンテ製とアマー製のものによく見られます。
 
-Which Drones you can use depends on the ship's Drone Capacity and its Drone Bandwidth.  
-You can see these in the "Attributes" tab of the ship's "Show Info" window.
+扱えるドローンの種類は、艦船のドローン収容量とドローン帯域幅によって決まります。艦船の「情報を表示」ウィンドウの「属性」タブに記載されています。
 
-- Light Drones take 5 m3 of space to store and 5 Mbit/sec of bandwidth to control.
+- ライトドローンは 5m3 の容量を占め、コントロールするのに 5Mbit/sec の帯域が必要です。
 - Medium Drones take 10 m3 of space to store and 10 Mbit/sec of bandwidth to control.
 - Heavy Drones take 25 m3 of space to store and 25 Mbit/sec of bandwidth to control.
 
